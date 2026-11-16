@@ -1,0 +1,1417 @@
+studie,tabelle,zeile,spalte,wert
+arbeitslos-nach-der-bundeswehr-2026,01-kurzfassung,1,Kennzahl,Ausgaben Arbeitslosenbeihilfe für ehemalige SaZ 2025
+arbeitslos-nach-der-bundeswehr-2026,01-kurzfassung,1,Wert,"3,48 Mio. € (Ist)"
+arbeitslos-nach-der-bundeswehr-2026,01-kurzfassung,1,Fundstelle,"Entwurf Haushaltsplan 2027, Kap. 1403 Tit. 433 71"
+arbeitslos-nach-der-bundeswehr-2026,01-kurzfassung,2,Kennzahl,Ansatz Arbeitslosenbeihilfe 2027
+arbeitslos-nach-der-bundeswehr-2026,01-kurzfassung,2,Wert,"3,6 Mio. € (Regierungsentwurf)"
+arbeitslos-nach-der-bundeswehr-2026,01-kurzfassung,2,Fundstelle,ebd.
+arbeitslos-nach-der-bundeswehr-2026,01-kurzfassung,3,Kennzahl,"Übergangsgebührnisse, Übergangsbeihilfen, Ausgleichsbezüge 2025"
+arbeitslos-nach-der-bundeswehr-2026,01-kurzfassung,3,Wert,"1.093,2 Mio. € (Ist)"
+arbeitslos-nach-der-bundeswehr-2026,01-kurzfassung,3,Fundstelle,"ebd., Tit. 433 54"
+arbeitslos-nach-der-bundeswehr-2026,01-kurzfassung,4,Kennzahl,Mindestdienstzeit für Arbeitslosenbeihilfe
+arbeitslos-nach-der-bundeswehr-2026,01-kurzfassung,4,Wert,"2 Jahre Wehrdienstzeit als SaZ, eingerechnete Zeiten nach § 40 Abs. 5 SG zählen mit"
+arbeitslos-nach-der-bundeswehr-2026,01-kurzfassung,4,Fundstelle,§ 101 Abs. 1 Satz 1 und Satz 2 Nr. 1 SVG
+arbeitslos-nach-der-bundeswehr-2026,01-kurzfassung,5,Kennzahl,Höchstdauer Arbeitslosenbeihilfe bei genau 2 Jahren Dienst
+arbeitslos-nach-der-bundeswehr-2026,01-kurzfassung,5,Wert,"180 Tage , minus Tage mit Übergangsgebührnissen"
+arbeitslos-nach-der-bundeswehr-2026,01-kurzfassung,5,Fundstelle,§ 101 Abs. 1 Satz 2 Nr. 2 SVG
+arbeitslos-nach-der-bundeswehr-2026,01-kurzfassung,6,Kennzahl,Regel-Anwartschaft für echtes Arbeitslosengeld
+arbeitslos-nach-der-bundeswehr-2026,01-kurzfassung,6,Wert,12 Monate Versicherungspflicht in 30 Monaten (6 Monate nur im Sonderfall kurzer Befristungen)
+arbeitslos-nach-der-bundeswehr-2026,01-kurzfassung,6,Fundstelle,"§ 142 Abs. 1 und 2, § 143 SGB III"
+arbeitslos-nach-der-bundeswehr-2026,02-wer-bekommt-die-arbeitslosenbeihilfe-nach-101-svg,1,Regel,Dienstzeit zählt als Versicherungszeit
+arbeitslos-nach-der-bundeswehr-2026,02-wer-bekommt-die-arbeitslosenbeihilfe-nach-101-svg,1,Inhalt,SaZ-Zeit „steht … der Zeit eines Versicherungspflichtverhältnisses gleich“
+arbeitslos-nach-der-bundeswehr-2026,02-wer-bekommt-die-arbeitslosenbeihilfe-nach-101-svg,1,Fundstelle,§ 101 Abs. 1 Satz 2 Nr. 1 SVG
+arbeitslos-nach-der-bundeswehr-2026,02-wer-bekommt-die-arbeitslosenbeihilfe-nach-101-svg,2,Regel,Minderung durch Übergangsgebührnisse
+arbeitslos-nach-der-bundeswehr-2026,02-wer-bekommt-die-arbeitslosenbeihilfe-nach-101-svg,2,Inhalt,"Dauer mindert sich um die Tage, für die Übergangsgebührnisse „laufend oder in einer Summe gewährt werden“"
+arbeitslos-nach-der-bundeswehr-2026,02-wer-bekommt-die-arbeitslosenbeihilfe-nach-101-svg,2,Fundstelle,§ 101 Abs. 1 Satz 2 Nr. 2 SVG
+arbeitslos-nach-der-bundeswehr-2026,02-wer-bekommt-die-arbeitslosenbeihilfe-nach-101-svg,3,Regel,Deckel bei zwei Jahren
+arbeitslos-nach-der-bundeswehr-2026,02-wer-bekommt-die-arbeitslosenbeihilfe-nach-101-svg,3,Inhalt,Anspruch „auf 180 Tage begrenzt“
+arbeitslos-nach-der-bundeswehr-2026,02-wer-bekommt-die-arbeitslosenbeihilfe-nach-101-svg,3,Fundstelle,§ 101 Abs. 1 Satz 2 Nr. 2 SVG
+arbeitslos-nach-der-bundeswehr-2026,02-wer-bekommt-die-arbeitslosenbeihilfe-nach-101-svg,4,Regel,Bemessung
+arbeitslos-nach-der-bundeswehr-2026,02-wer-bekommt-die-arbeitslosenbeihilfe-nach-101-svg,4,Inhalt,nach den Dienstbezügen
+arbeitslos-nach-der-bundeswehr-2026,02-wer-bekommt-die-arbeitslosenbeihilfe-nach-101-svg,4,Fundstelle,§ 101 Abs. 1 Satz 2 Nr. 3 SVG
+arbeitslos-nach-der-bundeswehr-2026,02-wer-bekommt-die-arbeitslosenbeihilfe-nach-101-svg,5,Regel,Ruhen neben Arbeitslosengeld
+arbeitslos-nach-der-bundeswehr-2026,02-wer-bekommt-die-arbeitslosenbeihilfe-nach-101-svg,5,Inhalt,"Beihilfe ruht, solange die Voraussetzungen für Arbeitslosengeld erfüllt sind, laut BSG aber nur in Höhe des gezahlten Alg"
+arbeitslos-nach-der-bundeswehr-2026,02-wer-bekommt-die-arbeitslosenbeihilfe-nach-101-svg,5,Fundstelle,"§ 101 Abs. 1 Satz 2 Nr. 5 SVG, BSG B 11 AL 14/13 R"
+arbeitslos-nach-der-bundeswehr-2026,02-wer-bekommt-die-arbeitslosenbeihilfe-nach-101-svg,6,Regel,Keine Weiterbildungsförderung
+arbeitslos-nach-der-bundeswehr-2026,02-wer-bekommt-die-arbeitslosenbeihilfe-nach-101-svg,6,Inhalt,Bezug „begründet keinen Anspruch auf Förderung der beruflichen Aus- und Weiterbildung“ nach SGB III
+arbeitslos-nach-der-bundeswehr-2026,02-wer-bekommt-die-arbeitslosenbeihilfe-nach-101-svg,6,Fundstelle,§ 101 Abs. 1 Satz 2 Nr. 6 SVG
+arbeitslos-nach-der-bundeswehr-2026,02-wer-bekommt-die-arbeitslosenbeihilfe-nach-101-svg,7,Regel,Kein Anspruch während Aufschub
+arbeitslos-nach-der-bundeswehr-2026,02-wer-bekommt-die-arbeitslosenbeihilfe-nach-101-svg,7,Inhalt,Satz 1 gilt nicht für die Zeit eines Aufschubs oder einer Unterbrechung der Übergangsgebührnisse
+arbeitslos-nach-der-bundeswehr-2026,02-wer-bekommt-die-arbeitslosenbeihilfe-nach-101-svg,7,Fundstelle,§ 101 Abs. 1 Satz 3 SVG
+arbeitslos-nach-der-bundeswehr-2026,02-wer-bekommt-die-arbeitslosenbeihilfe-nach-101-svg,8,Regel,Kein Anspruch ohne Versorgung
+arbeitslos-nach-der-bundeswehr-2026,02-wer-bekommt-die-arbeitslosenbeihilfe-nach-101-svg,8,Inhalt,Ausscheiden ohne Versorgungsanspruch schließt die Beihilfe aus
+arbeitslos-nach-der-bundeswehr-2026,02-wer-bekommt-die-arbeitslosenbeihilfe-nach-101-svg,8,Fundstelle,§ 101 Abs. 2 SVG
+arbeitslos-nach-der-bundeswehr-2026,03-wie-lange-ist-man-arbeitslos-nach-der-bundeswehr-abgesichert,1,Dienstzeit,SaZ 1 (unter 2 Jahren)
+arbeitslos-nach-der-bundeswehr-2026,03-wie-lange-ist-man-arbeitslos-nach-der-bundeswehr-abgesichert,1,Übergangsgebührnisse,1 Monat
+arbeitslos-nach-der-bundeswehr-2026,03-wie-lange-ist-man-arbeitslos-nach-der-bundeswehr-abgesichert,1,Rohdauer Beihilfe,kein Anspruch
+arbeitslos-nach-der-bundeswehr-2026,03-wie-lange-ist-man-arbeitslos-nach-der-bundeswehr-abgesichert,1,Rest nach Abzug,0
+arbeitslos-nach-der-bundeswehr-2026,03-wie-lange-ist-man-arbeitslos-nach-der-bundeswehr-abgesichert,2,Dienstzeit,SaZ 2
+arbeitslos-nach-der-bundeswehr-2026,03-wie-lange-ist-man-arbeitslos-nach-der-bundeswehr-abgesichert,2,Übergangsgebührnisse,2 Monate
+arbeitslos-nach-der-bundeswehr-2026,03-wie-lange-ist-man-arbeitslos-nach-der-bundeswehr-abgesichert,2,Rohdauer Beihilfe,180 Tage
+arbeitslos-nach-der-bundeswehr-2026,03-wie-lange-ist-man-arbeitslos-nach-der-bundeswehr-abgesichert,2,Rest nach Abzug,rund 120 Tage
+arbeitslos-nach-der-bundeswehr-2026,03-wie-lange-ist-man-arbeitslos-nach-der-bundeswehr-abgesichert,3,Dienstzeit,SaZ 3
+arbeitslos-nach-der-bundeswehr-2026,03-wie-lange-ist-man-arbeitslos-nach-der-bundeswehr-abgesichert,3,Übergangsgebührnisse,3 Monate
+arbeitslos-nach-der-bundeswehr-2026,03-wie-lange-ist-man-arbeitslos-nach-der-bundeswehr-abgesichert,3,Rohdauer Beihilfe,12 Monate
+arbeitslos-nach-der-bundeswehr-2026,03-wie-lange-ist-man-arbeitslos-nach-der-bundeswehr-abgesichert,3,Rest nach Abzug,rund 9 Monate
+arbeitslos-nach-der-bundeswehr-2026,03-wie-lange-ist-man-arbeitslos-nach-der-bundeswehr-abgesichert,4,Dienstzeit,SaZ 4
+arbeitslos-nach-der-bundeswehr-2026,03-wie-lange-ist-man-arbeitslos-nach-der-bundeswehr-abgesichert,4,Übergangsgebührnisse,12 Monate
+arbeitslos-nach-der-bundeswehr-2026,03-wie-lange-ist-man-arbeitslos-nach-der-bundeswehr-abgesichert,4,Rohdauer Beihilfe,12 Monate
+arbeitslos-nach-der-bundeswehr-2026,03-wie-lange-ist-man-arbeitslos-nach-der-bundeswehr-abgesichert,4,Rest nach Abzug,0
+arbeitslos-nach-der-bundeswehr-2026,03-wie-lange-ist-man-arbeitslos-nach-der-bundeswehr-abgesichert,5,Dienstzeit,SaZ 8
+arbeitslos-nach-der-bundeswehr-2026,03-wie-lange-ist-man-arbeitslos-nach-der-bundeswehr-abgesichert,5,Übergangsgebührnisse,36 Monate
+arbeitslos-nach-der-bundeswehr-2026,03-wie-lange-ist-man-arbeitslos-nach-der-bundeswehr-abgesichert,5,Rohdauer Beihilfe,12 Monate
+arbeitslos-nach-der-bundeswehr-2026,03-wie-lange-ist-man-arbeitslos-nach-der-bundeswehr-abgesichert,5,Rest nach Abzug,0
+arbeitslos-nach-der-bundeswehr-2026,03-wie-lange-ist-man-arbeitslos-nach-der-bundeswehr-abgesichert,6,Dienstzeit,SaZ 12
+arbeitslos-nach-der-bundeswehr-2026,03-wie-lange-ist-man-arbeitslos-nach-der-bundeswehr-abgesichert,6,Übergangsgebührnisse,60 Monate
+arbeitslos-nach-der-bundeswehr-2026,03-wie-lange-ist-man-arbeitslos-nach-der-bundeswehr-abgesichert,6,Rohdauer Beihilfe,12 Monate
+arbeitslos-nach-der-bundeswehr-2026,03-wie-lange-ist-man-arbeitslos-nach-der-bundeswehr-abgesichert,6,Rest nach Abzug,0
+arbeitslos-nach-der-bundeswehr-2026,04-was-gibt-der-bund-fuer-die-absicherung-bei-arbeitslosigkeit-,1,Jahr,2020
+arbeitslos-nach-der-bundeswehr-2026,04-was-gibt-der-bund-fuer-die-absicherung-bei-arbeitslosigkeit-,1,Kap. 1403 Tit. 433 71,"1,964 Mio. €"
+arbeitslos-nach-der-bundeswehr-2026,04-was-gibt-der-bund-fuer-die-absicherung-bei-arbeitslosigkeit-,1,Art,Ist
+arbeitslos-nach-der-bundeswehr-2026,04-was-gibt-der-bund-fuer-die-absicherung-bei-arbeitslosigkeit-,1,Fundstelle,"Haushaltsplan 2022, S. 29"
+arbeitslos-nach-der-bundeswehr-2026,04-was-gibt-der-bund-fuer-die-absicherung-bei-arbeitslosigkeit-,2,Jahr,2021
+arbeitslos-nach-der-bundeswehr-2026,04-was-gibt-der-bund-fuer-die-absicherung-bei-arbeitslosigkeit-,2,Kap. 1403 Tit. 433 71,"1,821 Mio. €"
+arbeitslos-nach-der-bundeswehr-2026,04-was-gibt-der-bund-fuer-die-absicherung-bei-arbeitslosigkeit-,2,Art,Ist
+arbeitslos-nach-der-bundeswehr-2026,04-was-gibt-der-bund-fuer-die-absicherung-bei-arbeitslosigkeit-,2,Fundstelle,"Haushaltsplan 2023, S. 30"
+arbeitslos-nach-der-bundeswehr-2026,04-was-gibt-der-bund-fuer-die-absicherung-bei-arbeitslosigkeit-,3,Jahr,2022
+arbeitslos-nach-der-bundeswehr-2026,04-was-gibt-der-bund-fuer-die-absicherung-bei-arbeitslosigkeit-,3,Kap. 1403 Tit. 433 71,"1,429 Mio. €"
+arbeitslos-nach-der-bundeswehr-2026,04-was-gibt-der-bund-fuer-die-absicherung-bei-arbeitslosigkeit-,3,Art,Ist
+arbeitslos-nach-der-bundeswehr-2026,04-was-gibt-der-bund-fuer-die-absicherung-bei-arbeitslosigkeit-,3,Fundstelle,"Haushaltsplan 2024, S. 31"
+arbeitslos-nach-der-bundeswehr-2026,04-was-gibt-der-bund-fuer-die-absicherung-bei-arbeitslosigkeit-,4,Jahr,2023
+arbeitslos-nach-der-bundeswehr-2026,04-was-gibt-der-bund-fuer-die-absicherung-bei-arbeitslosigkeit-,4,Kap. 1403 Tit. 433 71,"1,673 Mio. €"
+arbeitslos-nach-der-bundeswehr-2026,04-was-gibt-der-bund-fuer-die-absicherung-bei-arbeitslosigkeit-,4,Art,Ist
+arbeitslos-nach-der-bundeswehr-2026,04-was-gibt-der-bund-fuer-die-absicherung-bei-arbeitslosigkeit-,4,Fundstelle,"Haushaltsplan 2025, S. 31"
+arbeitslos-nach-der-bundeswehr-2026,04-was-gibt-der-bund-fuer-die-absicherung-bei-arbeitslosigkeit-,5,Jahr,2024
+arbeitslos-nach-der-bundeswehr-2026,04-was-gibt-der-bund-fuer-die-absicherung-bei-arbeitslosigkeit-,5,Kap. 1403 Tit. 433 71,"2,542 Mio. €"
+arbeitslos-nach-der-bundeswehr-2026,04-was-gibt-der-bund-fuer-die-absicherung-bei-arbeitslosigkeit-,5,Art,Ist
+arbeitslos-nach-der-bundeswehr-2026,04-was-gibt-der-bund-fuer-die-absicherung-bei-arbeitslosigkeit-,5,Fundstelle,"Haushaltsplan 2026, S. 31"
+arbeitslos-nach-der-bundeswehr-2026,04-was-gibt-der-bund-fuer-die-absicherung-bei-arbeitslosigkeit-,6,Jahr,2025
+arbeitslos-nach-der-bundeswehr-2026,04-was-gibt-der-bund-fuer-die-absicherung-bei-arbeitslosigkeit-,6,Kap. 1403 Tit. 433 71,"3,480 Mio. €"
+arbeitslos-nach-der-bundeswehr-2026,04-was-gibt-der-bund-fuer-die-absicherung-bei-arbeitslosigkeit-,6,Art,Ist
+arbeitslos-nach-der-bundeswehr-2026,04-was-gibt-der-bund-fuer-die-absicherung-bei-arbeitslosigkeit-,6,Fundstelle,"Entwurf 2027, S. 31"
+arbeitslos-nach-der-bundeswehr-2026,04-was-gibt-der-bund-fuer-die-absicherung-bei-arbeitslosigkeit-,7,Jahr,2026
+arbeitslos-nach-der-bundeswehr-2026,04-was-gibt-der-bund-fuer-die-absicherung-bei-arbeitslosigkeit-,7,Kap. 1403 Tit. 433 71,"3,000 Mio. €"
+arbeitslos-nach-der-bundeswehr-2026,04-was-gibt-der-bund-fuer-die-absicherung-bei-arbeitslosigkeit-,7,Art,Soll
+arbeitslos-nach-der-bundeswehr-2026,04-was-gibt-der-bund-fuer-die-absicherung-bei-arbeitslosigkeit-,7,Fundstelle,"Haushaltsplan 2026, S. 31"
+arbeitslos-nach-der-bundeswehr-2026,04-was-gibt-der-bund-fuer-die-absicherung-bei-arbeitslosigkeit-,8,Jahr,2027
+arbeitslos-nach-der-bundeswehr-2026,04-was-gibt-der-bund-fuer-die-absicherung-bei-arbeitslosigkeit-,8,Kap. 1403 Tit. 433 71,"3,600 Mio. €"
+arbeitslos-nach-der-bundeswehr-2026,04-was-gibt-der-bund-fuer-die-absicherung-bei-arbeitslosigkeit-,8,Art,Regierungsentwurf
+arbeitslos-nach-der-bundeswehr-2026,04-was-gibt-der-bund-fuer-die-absicherung-bei-arbeitslosigkeit-,8,Fundstelle,"Entwurf 2027, S. 31"
+arbeitslos-nach-der-bundeswehr-2026,05-wann-hat-der-berufsfoerderungsdienst-vorrang-nach-22-sgb-iii,1,Ziel,"Fachliche Weiterbildung, Abschluss, Zertifikat"
+arbeitslos-nach-der-bundeswehr-2026,05-wann-hat-der-berufsfoerderungsdienst-vorrang-nach-22-sgb-iii,1,Typischer Weg,BFD-Budget
+arbeitslos-nach-der-bundeswehr-2026,05-wann-hat-der-berufsfoerderungsdienst-vorrang-nach-22-sgb-iii,1,Fundstelle,"§ 7 SVG, § 19 BFöV"
+arbeitslos-nach-der-bundeswehr-2026,05-wann-hat-der-berufsfoerderungsdienst-vorrang-nach-22-sgb-iii,2,Ziel,"Aktivierung, Bewerbung, Vermittlung"
+arbeitslos-nach-der-bundeswehr-2026,05-wann-hat-der-berufsfoerderungsdienst-vorrang-nach-22-sgb-iii,2,Typischer Weg,AVGS
+arbeitslos-nach-der-bundeswehr-2026,05-wann-hat-der-berufsfoerderungsdienst-vorrang-nach-22-sgb-iii,2,Fundstelle,§ 45 Abs. 1 Nr. 1 und 3 SGB III
+arbeitslos-nach-der-bundeswehr-2026,05-wann-hat-der-berufsfoerderungsdienst-vorrang-nach-22-sgb-iii,3,Ziel,Heranführung an eine Selbstständigkeit
+arbeitslos-nach-der-bundeswehr-2026,05-wann-hat-der-berufsfoerderungsdienst-vorrang-nach-22-sgb-iii,3,Typischer Weg,"AVGS möglich, BFD-Förderung ebenfalls möglich, deshalb Abgrenzung nötig"
+arbeitslos-nach-der-bundeswehr-2026,05-wann-hat-der-berufsfoerderungsdienst-vorrang-nach-22-sgb-iii,3,Fundstelle,§ 45 Abs. 1 Nr. 4 SGB III
+arbeitslos-nach-der-bundeswehr-2026,05-wann-hat-der-berufsfoerderungsdienst-vorrang-nach-22-sgb-iii,4,Ziel,Gesundheitsgeschädigte Soldaten
+arbeitslos-nach-der-bundeswehr-2026,05-wann-hat-der-berufsfoerderungsdienst-vorrang-nach-22-sgb-iii,4,Typischer Weg,"Leistungen zur Teilhabe am Arbeitsleben haben Vorrang vor §§ 4, 5 SVG, Verfahren im Reha-Erlass des BMVg. Ein AVGS bleibt möglich, soweit der zuständige Reha-Träger nicht schon gleichartige Leistungen erbringt"
+arbeitslos-nach-der-bundeswehr-2026,05-wann-hat-der-berufsfoerderungsdienst-vorrang-nach-22-sgb-iii,4,Fundstelle,"FW § 22 SGB III, Ziff. 2.1 Abs. 2; § 22 Abs. 2 Satz 2 SGB III"
+berufssoldaten-und-bo-41-2026,01-kurzfassung,1,Kennzahl,Aktive Berufssoldaten Ende 2025
+berufssoldaten-und-bo-41-2026,01-kurzfassung,1,Wert,59.447
+berufssoldaten-und-bo-41-2026,01-kurzfassung,1,Fundstelle,"Wehrbeauftragter, Jahresbericht 2025, S. 18"
+berufssoldaten-und-bo-41-2026,01-kurzfassung,2,Kennzahl,Berufssoldaten im Ruhestand am 01.01.2025
+berufssoldaten-und-bo-41-2026,01-kurzfassung,2,Wert,68.085 (eigene Summe)
+berufssoldaten-und-bo-41-2026,01-kurzfassung,2,Fundstelle,"BT-Drs. 21/5095, S. 8"
+berufssoldaten-und-bo-41-2026,01-kurzfassung,3,Kennzahl,Durchschnittsalter beim Ruhestandseintritt 2024
+berufssoldaten-und-bo-41-2026,01-kurzfassung,3,Wert,"56,9 Jahre"
+berufssoldaten-und-bo-41-2026,01-kurzfassung,3,Fundstelle,"BT-Drs. 21/5095, S. 3"
+berufssoldaten-und-bo-41-2026,01-kurzfassung,4,Kennzahl,"Durchschnittliche Versorgung Januar 2025, höherer Dienst"
+berufssoldaten-und-bo-41-2026,01-kurzfassung,4,Wert,"5.086 € brutto (mittlerer 3.024 €, gehobener 3.760 €)"
+berufssoldaten-und-bo-41-2026,01-kurzfassung,4,Fundstelle,"BT-Drs. 21/5095, S. 5"
+berufssoldaten-und-bo-41-2026,01-kurzfassung,5,Kennzahl,Ruhegehalt je Dienstjahr / Höchstsatz
+berufssoldaten-und-bo-41-2026,01-kurzfassung,5,Wert,"1,79375 % / 71,75 %"
+berufssoldaten-und-bo-41-2026,01-kurzfassung,5,Fundstelle,§ 40 Abs. 1 SVG
+berufssoldaten-und-bo-41-2026,01-kurzfassung,6,Kennzahl,Zuschlag zum Ruhegehalt in geförderter Vollzeitmaßnahme
+berufssoldaten-und-bo-41-2026,01-kurzfassung,6,Wert,15 % der ruhegehaltfähigen Dienstbezüge
+berufssoldaten-und-bo-41-2026,01-kurzfassung,6,Fundstelle,§ 54 Abs. 6 SVG
+berufssoldaten-und-bo-41-2026,01-kurzfassung,7,Kennzahl,Höchste Kapitalabfindung
+berufssoldaten-und-bo-41-2026,01-kurzfassung,7,Wert,22.095 € (9 × 2.455 €)
+berufssoldaten-und-bo-41-2026,01-kurzfassung,7,Fundstelle,§ 45 SVG
+berufssoldaten-und-bo-41-2026,02-wie-viele-berufssoldaten-gibt-es-und-wie-viele-sind-im-ruhes,1,Laufbahngruppe,einfacher und mittlerer Dienst
+berufssoldaten-und-bo-41-2026,02-wie-viele-berufssoldaten-gibt-es-und-wie-viele-sind-im-ruhes,1,Ruhegehaltsempfänger 01.01.2022,37.145
+berufssoldaten-und-bo-41-2026,02-wie-viele-berufssoldaten-gibt-es-und-wie-viele-sind-im-ruhes,1,01.01.2025,36.740
+berufssoldaten-und-bo-41-2026,02-wie-viele-berufssoldaten-gibt-es-und-wie-viele-sind-im-ruhes,1,Veränderung,"−1,1 %"
+berufssoldaten-und-bo-41-2026,02-wie-viele-berufssoldaten-gibt-es-und-wie-viele-sind-im-ruhes,1,Ø Versorgung Jan. 2022,2.692 €
+berufssoldaten-und-bo-41-2026,02-wie-viele-berufssoldaten-gibt-es-und-wie-viele-sind-im-ruhes,1,Ø Versorgung Jan. 2025,3.024 €
+berufssoldaten-und-bo-41-2026,02-wie-viele-berufssoldaten-gibt-es-und-wie-viele-sind-im-ruhes,2,Laufbahngruppe,gehobener Dienst
+berufssoldaten-und-bo-41-2026,02-wie-viele-berufssoldaten-gibt-es-und-wie-viele-sind-im-ruhes,2,Ruhegehaltsempfänger 01.01.2022,14.145
+berufssoldaten-und-bo-41-2026,02-wie-viele-berufssoldaten-gibt-es-und-wie-viele-sind-im-ruhes,2,01.01.2025,13.850
+berufssoldaten-und-bo-41-2026,02-wie-viele-berufssoldaten-gibt-es-und-wie-viele-sind-im-ruhes,2,Veränderung,"−2,1 %"
+berufssoldaten-und-bo-41-2026,02-wie-viele-berufssoldaten-gibt-es-und-wie-viele-sind-im-ruhes,2,Ø Versorgung Jan. 2022,3.384 €
+berufssoldaten-und-bo-41-2026,02-wie-viele-berufssoldaten-gibt-es-und-wie-viele-sind-im-ruhes,2,Ø Versorgung Jan. 2025,3.760 €
+berufssoldaten-und-bo-41-2026,02-wie-viele-berufssoldaten-gibt-es-und-wie-viele-sind-im-ruhes,3,Laufbahngruppe,höherer Dienst
+berufssoldaten-und-bo-41-2026,02-wie-viele-berufssoldaten-gibt-es-und-wie-viele-sind-im-ruhes,3,Ruhegehaltsempfänger 01.01.2022,18.025
+berufssoldaten-und-bo-41-2026,02-wie-viele-berufssoldaten-gibt-es-und-wie-viele-sind-im-ruhes,3,01.01.2025,17.495
+berufssoldaten-und-bo-41-2026,02-wie-viele-berufssoldaten-gibt-es-und-wie-viele-sind-im-ruhes,3,Veränderung,"−3,0 %"
+berufssoldaten-und-bo-41-2026,02-wie-viele-berufssoldaten-gibt-es-und-wie-viele-sind-im-ruhes,3,Ø Versorgung Jan. 2022,4.638 €
+berufssoldaten-und-bo-41-2026,02-wie-viele-berufssoldaten-gibt-es-und-wie-viele-sind-im-ruhes,3,Ø Versorgung Jan. 2025,5.086 €
+berufssoldaten-und-bo-41-2026,02-wie-viele-berufssoldaten-gibt-es-und-wie-viele-sind-im-ruhes,4,Laufbahngruppe,zusammen (eigene Summe)
+berufssoldaten-und-bo-41-2026,02-wie-viele-berufssoldaten-gibt-es-und-wie-viele-sind-im-ruhes,4,Ruhegehaltsempfänger 01.01.2022,69.315
+berufssoldaten-und-bo-41-2026,02-wie-viele-berufssoldaten-gibt-es-und-wie-viele-sind-im-ruhes,4,01.01.2025,68.085
+berufssoldaten-und-bo-41-2026,02-wie-viele-berufssoldaten-gibt-es-und-wie-viele-sind-im-ruhes,4,Veränderung,"−1,8 %"
+berufssoldaten-und-bo-41-2026,02-wie-viele-berufssoldaten-gibt-es-und-wie-viele-sind-im-ruhes,4,Ø Versorgung Jan. 2022,n. v.
+berufssoldaten-und-bo-41-2026,02-wie-viele-berufssoldaten-gibt-es-und-wie-viele-sind-im-ruhes,4,Ø Versorgung Jan. 2025,n. v.
+berufssoldaten-und-bo-41-2026,03-welche-altersgrenzen-gelten-fuer-den-ruhestand,1,Gruppe,Offiziere nach § 45 Abs. 1 Nr. 1 SG
+berufssoldaten-und-bo-41-2026,03-welche-altersgrenzen-gelten-fuer-den-ruhestand,1,Besondere Altersgrenze,62 Jahre
+berufssoldaten-und-bo-41-2026,03-welche-altersgrenzen-gelten-fuer-den-ruhestand,1,Fundstelle,§ 45 Abs. 2 Nr. 1 SG
+berufssoldaten-und-bo-41-2026,03-welche-altersgrenzen-gelten-fuer-den-ruhestand,2,Gruppe,Oberstleutnante
+berufssoldaten-und-bo-41-2026,03-welche-altersgrenzen-gelten-fuer-den-ruhestand,2,Besondere Altersgrenze,61 Jahre
+berufssoldaten-und-bo-41-2026,03-welche-altersgrenzen-gelten-fuer-den-ruhestand,2,Fundstelle,§ 45 Abs. 2 Nr. 2 SG
+berufssoldaten-und-bo-41-2026,03-welche-altersgrenzen-gelten-fuer-den-ruhestand,3,Gruppe,"Majore, Stabshauptleute"
+berufssoldaten-und-bo-41-2026,03-welche-altersgrenzen-gelten-fuer-den-ruhestand,3,Besondere Altersgrenze,59 Jahre
+berufssoldaten-und-bo-41-2026,03-welche-altersgrenzen-gelten-fuer-den-ruhestand,3,Fundstelle,§ 45 Abs. 2 Nr. 3 SG
+berufssoldaten-und-bo-41-2026,03-welche-altersgrenzen-gelten-fuer-den-ruhestand,4,Gruppe,"Hauptleute, Oberleutnante, Leutnante"
+berufssoldaten-und-bo-41-2026,03-welche-altersgrenzen-gelten-fuer-den-ruhestand,4,Besondere Altersgrenze,56 Jahre
+berufssoldaten-und-bo-41-2026,03-welche-altersgrenzen-gelten-fuer-den-ruhestand,4,Fundstelle,§ 45 Abs. 2 Nr. 4 SG
+berufssoldaten-und-bo-41-2026,03-welche-altersgrenzen-gelten-fuer-den-ruhestand,5,Gruppe,Berufsunteroffiziere
+berufssoldaten-und-bo-41-2026,03-welche-altersgrenzen-gelten-fuer-den-ruhestand,5,Besondere Altersgrenze,55 Jahre
+berufssoldaten-und-bo-41-2026,03-welche-altersgrenzen-gelten-fuer-den-ruhestand,5,Fundstelle,§ 45 Abs. 2 Nr. 5 SG
+berufssoldaten-und-bo-41-2026,03-welche-altersgrenzen-gelten-fuer-den-ruhestand,6,Gruppe,Strahlflugzeugführer und Waffensystemoffiziere (BO 41)
+berufssoldaten-und-bo-41-2026,03-welche-altersgrenzen-gelten-fuer-den-ruhestand,6,Besondere Altersgrenze,"41 Jahre, bei Wehrfliegerverwendungsunfähigkeit 40"
+berufssoldaten-und-bo-41-2026,03-welche-altersgrenzen-gelten-fuer-den-ruhestand,6,Fundstelle,§ 45 Abs. 2 Nr. 6 SG
+berufssoldaten-und-bo-41-2026,04-welche-berufsfoerderung-bekommen-berufssoldaten-nach-54-svg-,1,Fall,Dienstende vor dem 45. Lebensjahr wegen Dienstunfähigkeit infolge Wehrdienstbeschädigung
+berufssoldaten-und-bo-41-2026,04-welche-berufsfoerderung-bekommen-berufssoldaten-nach-54-svg-,1,Leistung,"auf Antrag Förderung wie SaZ mit 8 Jahren, grundsätzlich bis zu 36 Monate und 13.000 € Budget, vorbehaltlich § 54 Abs. 2 und der Minderungen nach § 7 SVG"
+berufssoldaten-und-bo-41-2026,04-welche-berufsfoerderung-bekommen-berufssoldaten-nach-54-svg-,1,Fundstelle,"§ 54 Abs. 1 und 5, § 7 Abs. 5 Nr. 8 SVG, § 19 Abs. 2 BFöV"
+berufssoldaten-und-bo-41-2026,04-welche-berufsfoerderung-bekommen-berufssoldaten-nach-54-svg-,2,Fall,mit Studienabschluss auf Kosten des Bundes
+berufssoldaten-und-bo-41-2026,04-welche-berufsfoerderung-bekommen-berufssoldaten-nach-54-svg-,2,Leistung,Förderungsdauer 24 Monate
+berufssoldaten-und-bo-41-2026,04-welche-berufsfoerderung-bekommen-berufssoldaten-nach-54-svg-,2,Fundstelle,§ 54 Abs. 2 Nr. 1 SVG
+berufssoldaten-und-bo-41-2026,04-welche-berufsfoerderung-bekommen-berufssoldaten-nach-54-svg-,3,Fall,"mit Studienabschluss als Einstellungsvoraussetzung, Militärmusik-Unteroffiziere"
+berufssoldaten-und-bo-41-2026,04-welche-berufsfoerderung-bekommen-berufssoldaten-nach-54-svg-,3,Leistung,36 Monate
+berufssoldaten-und-bo-41-2026,04-welche-berufsfoerderung-bekommen-berufssoldaten-nach-54-svg-,3,Fundstelle,§ 54 Abs. 2 Nr. 2 SVG
+berufssoldaten-und-bo-41-2026,04-welche-berufsfoerderung-bekommen-berufssoldaten-nach-54-svg-,4,Fall,Dienstende vor dem 40. Lebensjahr wegen DU infolge WDB
+berufssoldaten-und-bo-41-2026,04-welche-berufsfoerderung-bekommen-berufssoldaten-nach-54-svg-,4,Leistung,zusätzlich Zulassungsschein auf Antrag
+berufssoldaten-und-bo-41-2026,04-welche-berufsfoerderung-bekommen-berufssoldaten-nach-54-svg-,4,Fundstelle,§ 54 Abs. 3 Satz 1 SVG
+berufssoldaten-und-bo-41-2026,04-welche-berufsfoerderung-bekommen-berufssoldaten-nach-54-svg-,5,Fall,Dienstunfähigkeit ohne WDB
+berufssoldaten-und-bo-41-2026,04-welche-berufsfoerderung-bekommen-berufssoldaten-nach-54-svg-,5,Leistung,Leistungen können gewährt werden (Ermessen)
+berufssoldaten-und-bo-41-2026,04-welche-berufsfoerderung-bekommen-berufssoldaten-nach-54-svg-,5,Fundstelle,§ 54 Abs. 3 Satz 2 SVG
+berufssoldaten-und-bo-41-2026,04-welche-berufsfoerderung-bekommen-berufssoldaten-nach-54-svg-,6,Fall,BO 41 im Ruhestand
+berufssoldaten-und-bo-41-2026,04-welche-berufsfoerderung-bekommen-berufssoldaten-nach-54-svg-,6,Leistung,"Abs. 1 bis 3 entsprechend, dazu Berufsberatung, dienstzeitbegleitende Förderung, Eingliederungsmaßnahmen"
+berufssoldaten-und-bo-41-2026,04-welche-berufsfoerderung-bekommen-berufssoldaten-nach-54-svg-,6,Fundstelle,§ 54 Abs. 4 SVG
+bfd-budget-atlas-2026,01-kurzfassung,1,Kennzahl,"Kleinstes Budget (SaZ 1, bis zu ein Monat Förderung)"
+bfd-budget-atlas-2026,01-kurzfassung,1,Wert,1.200 €
+bfd-budget-atlas-2026,01-kurzfassung,1,Fundstelle,§ 19 Abs. 2 Satz 1 BFöV (Tabelle)
+bfd-budget-atlas-2026,01-kurzfassung,2,Kennzahl,Budget ab 12 Jahren (bis zu 60 Monate Förderung)
+bfd-budget-atlas-2026,01-kurzfassung,2,Wert,21.000 €
+bfd-budget-atlas-2026,01-kurzfassung,2,Fundstelle,§ 19 Abs. 2 Satz 1 BFöV (Tabelle)
+bfd-budget-atlas-2026,01-kurzfassung,3,Kennzahl,Höchstes Budget bei 25 Jahren Gesamtdienstzeit
+bfd-budget-atlas-2026,01-kurzfassung,3,Wert,24.000 € (21.000 € + 3.000 €)
+bfd-budget-atlas-2026,01-kurzfassung,3,Fundstelle,§ 19 Abs. 2 Satz 3 BFöV
+bfd-budget-atlas-2026,01-kurzfassung,4,Kennzahl,Übergangsgebührnisse
+bfd-budget-atlas-2026,01-kurzfassung,4,Wert,"75 % der Dienstbezüge, in einer geförderten Vollzeitmaßnahme plus 25 % Bildungszuschuss, Dienstbezüge vorher mit dem Faktor 0,9901 multipliziert"
+bfd-budget-atlas-2026,01-kurzfassung,4,Fundstelle,"§ 16 Abs. 3, § 104 Satz 3 SVG"
+bfd-budget-atlas-2026,01-kurzfassung,5,Kennzahl,Nutzungsfrist
+bfd-budget-atlas-2026,01-kurzfassung,5,Wert,"Beginn bis 7 Jahre nach Dienstzeitende, ab 20 Jahren Gesamtdienstzeit 8 Jahre"
+bfd-budget-atlas-2026,01-kurzfassung,5,Fundstelle,"§ 7 Abs. 6 SVG, § 16 Abs. 1 BFöV"
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,1,Dienstzeit,1 Jahr bis unter 18 Monate
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,1,Förderungsdauer,1 Monat
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,1,KHB,1.200 €
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,1,ÜGN-Dauer,1 Monat
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,1,Übergangsbeihilfe,"1,5-fach"
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,1,Beginn bis,7 Jahre
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,2,Dienstzeit,18 Monate bis unter 2 Jahre
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,2,Förderungsdauer,1 Monat
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,2,KHB,1.200 €
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,2,ÜGN-Dauer,1 Monat
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,2,Übergangsbeihilfe,"1,8-fach"
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,2,Beginn bis,7 Jahre
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,3,Dienstzeit,SaZ 2
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,3,Förderungsdauer,2 Monate
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,3,KHB,2.400 €
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,3,ÜGN-Dauer,2 Monate
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,3,Übergangsbeihilfe,2-fach
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,3,Beginn bis,7 Jahre
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,4,Dienstzeit,SaZ 3
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,4,Förderungsdauer,3 Monate
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,4,KHB,3.600 €
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,4,ÜGN-Dauer,3 Monate
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,4,Übergangsbeihilfe,2-fach
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,4,Beginn bis,7 Jahre
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,5,Dienstzeit,SaZ 4
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,5,Förderungsdauer,12 Monate
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,5,KHB,5.000 €
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,5,ÜGN-Dauer,12 Monate
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,5,Übergangsbeihilfe,4-fach
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,5,Beginn bis,7 Jahre
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,6,Dienstzeit,SaZ 5
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,6,Förderungsdauer,18 Monate
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,6,KHB,7.000 €
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,6,ÜGN-Dauer,18 Monate
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,6,Übergangsbeihilfe,"4,5-fach"
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,6,Beginn bis,7 Jahre
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,7,Dienstzeit,SaZ 6
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,7,Förderungsdauer,24 Monate
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,7,KHB,9.000 €
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,7,ÜGN-Dauer,24 Monate
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,7,Übergangsbeihilfe,5-fach
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,7,Beginn bis,7 Jahre
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,8,Dienstzeit,SaZ 7
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,8,Förderungsdauer,30 Monate
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,8,KHB,11.000 €
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,8,ÜGN-Dauer,30 Monate
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,8,Übergangsbeihilfe,"5,5-fach"
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,8,Beginn bis,7 Jahre
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,9,Dienstzeit,SaZ 8
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,9,Förderungsdauer,36 Monate
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,9,KHB,13.000 €
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,9,ÜGN-Dauer,36 Monate
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,9,Übergangsbeihilfe,6-fach
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,9,Beginn bis,7 Jahre
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,10,Dienstzeit,SaZ 9
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,10,Förderungsdauer,42 Monate
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,10,KHB,15.000 €
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,10,ÜGN-Dauer,42 Monate
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,10,Übergangsbeihilfe,"6,5-fach"
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,10,Beginn bis,7 Jahre
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,11,Dienstzeit,SaZ 10
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,11,Förderungsdauer,48 Monate
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,11,KHB,17.000 €
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,11,ÜGN-Dauer,48 Monate
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,11,Übergangsbeihilfe,7-fach
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,11,Beginn bis,7 Jahre
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,12,Dienstzeit,SaZ 11
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,12,Förderungsdauer,54 Monate
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,12,KHB,19.000 €
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,12,ÜGN-Dauer,54 Monate
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,12,Übergangsbeihilfe,"7,5-fach"
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,12,Beginn bis,7 Jahre
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,13,Dienstzeit,SaZ 12
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,13,Förderungsdauer,60 Monate
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,13,KHB,21.000 €
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,13,ÜGN-Dauer,60 Monate
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,13,Übergangsbeihilfe,8-fach
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,13,Beginn bis,7 Jahre
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,14,Dienstzeit,SaZ 13 und 14
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,14,Förderungsdauer,60 Monate
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,14,KHB,21.000 €
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,14,ÜGN-Dauer,60 Monate
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,14,Übergangsbeihilfe,"8,5- und 9-fach"
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,14,Beginn bis,7 Jahre
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,15,Dienstzeit,SaZ 15 bis 19
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,15,Förderungsdauer,60 Monate
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,15,KHB,22.000 €
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,15,ÜGN-Dauer,60 Monate
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,15,Übergangsbeihilfe,"9,5- bis 11,5-fach"
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,15,Beginn bis,7 Jahre
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,16,Dienstzeit,SaZ 20 bis 24
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,16,Förderungsdauer,60 Monate
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,16,KHB,23.000 €
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,16,ÜGN-Dauer,60 Monate
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,16,Übergangsbeihilfe,12- bis 14-fach
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,16,Beginn bis,8 Jahre
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,17,Dienstzeit,SaZ 25 und mehr
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,17,Förderungsdauer,60 Monate
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,17,KHB,24.000 €
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,17,ÜGN-Dauer,60 Monate
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,17,Übergangsbeihilfe,15-fach
+bfd-budget-atlas-2026,02-wie-hoch-ist-das-bfd-budget-je-dienstzeit-2026,17,Beginn bis,8 Jahre
+bfd-budget-atlas-2026,03-was-mindert-foerderungsdauer-und-bfd-budget,1,Tatbestand,Berufsabschluss durch militärfachliche Ausbildung (ZAW)
+bfd-budget-atlas-2026,03-was-mindert-foerderungsdauer-und-bfd-budget,1,Minderung Förderungsdauer,"9 Monate (bei einer Maßnahme von 3 bis 12 Monaten nur 3, unter 3 Monaten keine)"
+bfd-budget-atlas-2026,03-was-mindert-foerderungsdauer-und-bfd-budget,1,"Wirkung auf das Budget (je Monat 333,33 €)",bis rund −3.000 €
+bfd-budget-atlas-2026,03-was-mindert-foerderungsdauer-und-bfd-budget,1,Fundstelle,"§ 7 Abs. 7 SVG, § 19 Abs. 2 Satz 2 BFöV"
+bfd-budget-atlas-2026,03-was-mindert-foerderungsdauer-und-bfd-budget,2,Tatbestand,"Fortbildung im Dienst abgeschlossen (Meister, Techniker, Fachwirt)"
+bfd-budget-atlas-2026,03-was-mindert-foerderungsdauer-und-bfd-budget,2,Minderung Förderungsdauer,6 Monate
+bfd-budget-atlas-2026,03-was-mindert-foerderungsdauer-und-bfd-budget,2,"Wirkung auf das Budget (je Monat 333,33 €)",rund −2.000 €
+bfd-budget-atlas-2026,03-was-mindert-foerderungsdauer-und-bfd-budget,2,Fundstelle,§ 7 Abs. 8 SVG
+bfd-budget-atlas-2026,03-was-mindert-foerderungsdauer-und-bfd-budget,3,Tatbestand,Fahrlehrerlaubnis
+bfd-budget-atlas-2026,03-was-mindert-foerderungsdauer-und-bfd-budget,3,Minderung Förderungsdauer,6 Monate
+bfd-budget-atlas-2026,03-was-mindert-foerderungsdauer-und-bfd-budget,3,"Wirkung auf das Budget (je Monat 333,33 €)",rund −2.000 €
+bfd-budget-atlas-2026,03-was-mindert-foerderungsdauer-und-bfd-budget,3,Fundstelle,§ 7 Abs. 9 SVG
+bfd-budget-atlas-2026,03-was-mindert-foerderungsdauer-und-bfd-budget,4,Tatbestand,Gesamtdienstzeit ab 20 Jahren
+bfd-budget-atlas-2026,03-was-mindert-foerderungsdauer-und-bfd-budget,4,Minderung Förderungsdauer,Minderungen nach Abs. 7 bis 9 nur zur Hälfte
+bfd-budget-atlas-2026,03-was-mindert-foerderungsdauer-und-bfd-budget,4,"Wirkung auf das Budget (je Monat 333,33 €)",halbe Kürzung
+bfd-budget-atlas-2026,03-was-mindert-foerderungsdauer-und-bfd-budget,4,Fundstelle,§ 7 Abs. 6 Satz 2 SVG
+bfd-budget-atlas-2026,03-was-mindert-foerderungsdauer-und-bfd-budget,5,Tatbestand,Studium auf Kosten des Bundes (meist Offiziere)
+bfd-budget-atlas-2026,03-was-mindert-foerderungsdauer-und-bfd-budget,5,Minderung Förderungsdauer,Wortlaut 12 Monate bei 1 bis unter 9 Jahren und 24 Monate bei 9 bis unter 10 Jahren; BF 02 nennt 24 Monate ab 12 Jahren (Verwaltungsauslegung)
+bfd-budget-atlas-2026,03-was-mindert-foerderungsdauer-und-bfd-budget,5,"Wirkung auf das Budget (je Monat 333,33 €)","rechnerisch 5.000 € bei 12 Monaten, 9.000 € bei 24 Monaten"
+bfd-budget-atlas-2026,03-was-mindert-foerderungsdauer-und-bfd-budget,5,Fundstelle,"§ 7 Abs. 10 Satz 1 SVG, § 19 Abs. 2 Satz 2 BFöV, BF 02"
+bfd-budget-atlas-2026,03-was-mindert-foerderungsdauer-und-bfd-budget,6,Tatbestand,"Gefordertes Studium bei Einstellung, Unteroffiziere Militärmusikdienst"
+bfd-budget-atlas-2026,03-was-mindert-foerderungsdauer-und-bfd-budget,6,Minderung Förderungsdauer,eigene Staffel bis zu 7 bis 36 Monate
+bfd-budget-atlas-2026,03-was-mindert-foerderungsdauer-und-bfd-budget,6,"Wirkung auf das Budget (je Monat 333,33 €)","± 333,33 € je Monat"
+bfd-budget-atlas-2026,03-was-mindert-foerderungsdauer-und-bfd-budget,6,Fundstelle,§ 7 Abs. 10 Satz 2 SVG
+bfd-budget-atlas-2026,04-was-unterscheidet-altes-und-neues-recht-beim-bfd-budget,1,Dienstzeit,unter 4 Jahre
+bfd-budget-atlas-2026,04-was-unterscheidet-altes-und-neues-recht-beim-bfd-budget,1,Altes Recht Förderung / Kostenhöchstgrenze,kein Anspruch
+bfd-budget-atlas-2026,04-was-unterscheidet-altes-und-neues-recht-beim-bfd-budget,1,Neues Recht Förderung / KHB,1 bis 3 Monate / 1.200 € bis 3.600 € (seit 2026)
+bfd-budget-atlas-2026,04-was-unterscheidet-altes-und-neues-recht-beim-bfd-budget,1,ÜGN-Dauer alt / neu,keine / 1 bis 3 Monate
+bfd-budget-atlas-2026,04-was-unterscheidet-altes-und-neues-recht-beim-bfd-budget,2,Dienstzeit,4 bis unter 6 Jahre
+bfd-budget-atlas-2026,04-was-unterscheidet-altes-und-neues-recht-beim-bfd-budget,2,Altes Recht Förderung / Kostenhöchstgrenze,7 Monate / 2.990 €
+bfd-budget-atlas-2026,04-was-unterscheidet-altes-und-neues-recht-beim-bfd-budget,2,Neues Recht Förderung / KHB,12 bis 18 Monate / 5.000 € bis 7.000 €
+bfd-budget-atlas-2026,04-was-unterscheidet-altes-und-neues-recht-beim-bfd-budget,2,ÜGN-Dauer alt / neu,7 / 12 bis 18 Monate
+bfd-budget-atlas-2026,04-was-unterscheidet-altes-und-neues-recht-beim-bfd-budget,3,Dienstzeit,6 bis unter 8 Jahre
+bfd-budget-atlas-2026,04-was-unterscheidet-altes-und-neues-recht-beim-bfd-budget,3,Altes Recht Förderung / Kostenhöchstgrenze,15 Monate / 4.830 €
+bfd-budget-atlas-2026,04-was-unterscheidet-altes-und-neues-recht-beim-bfd-budget,3,Neues Recht Förderung / KHB,24 bis 30 Monate / 9.000 € bis 11.000 €
+bfd-budget-atlas-2026,04-was-unterscheidet-altes-und-neues-recht-beim-bfd-budget,3,ÜGN-Dauer alt / neu,12 / 24 bis 30 Monate
+bfd-budget-atlas-2026,04-was-unterscheidet-altes-und-neues-recht-beim-bfd-budget,4,Dienstzeit,8 bis unter 12 Jahre ohne Studium
+bfd-budget-atlas-2026,04-was-unterscheidet-altes-und-neues-recht-beim-bfd-budget,4,Altes Recht Förderung / Kostenhöchstgrenze,36 Monate / 8.515 €
+bfd-budget-atlas-2026,04-was-unterscheidet-altes-und-neues-recht-beim-bfd-budget,4,Neues Recht Förderung / KHB,36 bis 54 Monate / 13.000 € bis 19.000 €
+bfd-budget-atlas-2026,04-was-unterscheidet-altes-und-neues-recht-beim-bfd-budget,4,ÜGN-Dauer alt / neu,21 / 36 bis 54 Monate
+bfd-budget-atlas-2026,04-was-unterscheidet-altes-und-neues-recht-beim-bfd-budget,5,Dienstzeit,12 Jahre und mehr ohne Studium
+bfd-budget-atlas-2026,04-was-unterscheidet-altes-und-neues-recht-beim-bfd-budget,5,Altes Recht Förderung / Kostenhöchstgrenze,60 Monate / 12.195 €
+bfd-budget-atlas-2026,04-was-unterscheidet-altes-und-neues-recht-beim-bfd-budget,5,Neues Recht Förderung / KHB,60 Monate / 21.000 € bis 24.000 €
+bfd-budget-atlas-2026,04-was-unterscheidet-altes-und-neues-recht-beim-bfd-budget,5,ÜGN-Dauer alt / neu,36 / 60 Monate
+bfd-budget-atlas-2026,04-was-unterscheidet-altes-und-neues-recht-beim-bfd-budget,6,Dienstzeit,12 Jahre und mehr mit Studium
+bfd-budget-atlas-2026,04-was-unterscheidet-altes-und-neues-recht-beim-bfd-budget,6,Altes Recht Förderung / Kostenhöchstgrenze,24 Monate / 6.675 €
+bfd-budget-atlas-2026,04-was-unterscheidet-altes-und-neues-recht-beim-bfd-budget,6,Neues Recht Förderung / KHB,"nach Wortlaut offen; BF 02 nennt 24 Monate, rechnerisch 9.000 € (Verwaltungsauslegung)"
+bfd-budget-atlas-2026,04-was-unterscheidet-altes-und-neues-recht-beim-bfd-budget,6,ÜGN-Dauer alt / neu,24 / offen
+bfd-kurse-und-standorte-2026,01-kurzfassung,1,Kennzahl,Termine interner Maßnahmen Okt. 2026 bis Dez. 2027
+bfd-kurse-und-standorte-2026,01-kurzfassung,1,Wert,1.653 (1.620 ausgewertet)
+bfd-kurse-und-standorte-2026,01-kurzfassung,1,Fundstelle,"BFD-Maßnahmendatenbank, Erhebung 18.10.2026"
+bfd-kurse-und-standorte-2026,01-kurzfassung,2,Kennzahl,BFD-Bereiche
+bfd-kurse-und-standorte-2026,01-kurzfassung,2,Wert,"16 , größter NRW Köln mit 252 Terminen"
+bfd-kurse-und-standorte-2026,01-kurzfassung,2,Fundstelle,ebd.
+bfd-kurse-und-standorte-2026,01-kurzfassung,3,Kennzahl,Anteil Vollzeit
+bfd-kurse-und-standorte-2026,01-kurzfassung,3,Wert,94 % (1.527 Termine)
+bfd-kurse-und-standorte-2026,01-kurzfassung,3,Fundstelle,"ebd., Spalte Form"
+bfd-kurse-und-standorte-2026,01-kurzfassung,4,Kennzahl,Anteil online
+bfd-kurse-und-standorte-2026,01-kurzfassung,4,Wert,"37 % (601), mit hybriden Terminen 38 %"
+bfd-kurse-und-standorte-2026,01-kurzfassung,4,Fundstelle,"ebd., eigene Auswertung"
+bfd-kurse-und-standorte-2026,01-kurzfassung,5,Kennzahl,Typischer Umfang
+bfd-kurse-und-standorte-2026,01-kurzfassung,5,Wert,"Median 40 Stunden , meist eine Woche"
+bfd-kurse-und-standorte-2026,01-kurzfassung,5,Fundstelle,ebd.
+bfd-kurse-und-standorte-2026,01-kurzfassung,6,Kennzahl,Unterschiedliche Kurstitel
+bfd-kurse-und-standorte-2026,01-kurzfassung,6,Wert,899
+bfd-kurse-und-standorte-2026,01-kurzfassung,6,Fundstelle,ebd.
+bfd-kurse-und-standorte-2026,01-kurzfassung,7,Kennzahl,Ansatz Bundeswehrfachschulen und zweiter Bildungsweg 2027
+bfd-kurse-und-standorte-2026,01-kurzfassung,7,Wert,"3,0 Mio. € (2026 0,82 Mio. €)"
+bfd-kurse-und-standorte-2026,01-kurzfassung,7,Fundstelle,"Entwurf Haushaltsplan 2027, Tit. 525 71"
+bfd-kurse-und-standorte-2026,02-was-sind-interne-bfd-kurse-rechtlich,1,Regel,Kein Anspruch
+bfd-kurse-und-standorte-2026,02-was-sind-interne-bfd-kurse-rechtlich,1,Inhalt,„Auf die dienstzeitbegleitende Förderung … besteht kein Anspruch. Sie steht unter dem Vorbehalt ausreichend verfügbarer Haushaltsmittel.“
+bfd-kurse-und-standorte-2026,02-was-sind-interne-bfd-kurse-rechtlich,1,Fundstelle,§ 6 Abs. 3 SVG
+bfd-kurse-und-standorte-2026,02-was-sind-interne-bfd-kurse-rechtlich,2,Regel,Kurze Dienstzeit
+bfd-kurse-und-standorte-2026,02-was-sind-interne-bfd-kurse-rechtlich,2,Inhalt,Bei unter vier Jahren können Maßnahmen „zum Berufseinstieg unterhalb der Erlangung“ von Abschlüssen und Fahrerlaubnissen angeboten werden
+bfd-kurse-und-standorte-2026,02-was-sind-interne-bfd-kurse-rechtlich,2,Fundstelle,§ 6 Abs. 1 Satz 2 SVG
+bfd-kurse-und-standorte-2026,02-was-sind-interne-bfd-kurse-rechtlich,3,Regel,Basisqualifizierungen
+bfd-kurse-und-standorte-2026,02-was-sind-interne-bfd-kurse-rechtlich,3,Inhalt,"Für Kurse, die „für eine Vielzahl von Berufen förderlich“ sind, ist keine vorherige Berufsberatung nötig"
+bfd-kurse-und-standorte-2026,02-was-sind-interne-bfd-kurse-rechtlich,3,Fundstelle,§ 6 Abs. 4 SVG
+bfd-kurse-und-standorte-2026,02-was-sind-interne-bfd-kurse-rechtlich,4,Regel,Intern vor extern im Dienst
+bfd-kurse-und-standorte-2026,02-was-sind-interne-bfd-kurse-rechtlich,4,Inhalt,"Externe Kurse im Dienst nur, wenn das Bildungsziel „nicht oder nicht planmäßig durch Teilnahme an internen Maßnahmen erreicht werden“ kann"
+bfd-kurse-und-standorte-2026,02-was-sind-interne-bfd-kurse-rechtlich,4,Fundstelle,"SaZ § 7 Abs. 2 SVG, FWDL § 6 Abs. 2 SVG, ergänzend § 5 Abs. 2 BFöV"
+bfd-kurse-und-standorte-2026,02-was-sind-interne-bfd-kurse-rechtlich,5,Regel,Auch nach dem Dienst
+bfd-kurse-und-standorte-2026,02-was-sind-interne-bfd-kurse-rechtlich,5,Inhalt,"Ehemalige SaZ können „im Rahmen freier Kapazitäten innerhalb von sieben Jahren“, ab 20 Jahren Gesamtdienstzeit acht Jahren, teilnehmen"
+bfd-kurse-und-standorte-2026,02-was-sind-interne-bfd-kurse-rechtlich,5,Fundstelle,§ 5 Abs. 3 BFöV
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,1,Themenfeld,"Projekt-, Qualitätsmanagement, Führung"
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,1,Termine,305
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,1,davon online/hybrid,138
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,1,Median Stunden,40
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,2,Themenfeld,"IT, Daten, Office"
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,2,Termine,265
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,2,davon online/hybrid,165
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,2,Median Stunden,40
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,3,Themenfeld,"Öffentlicher Dienst, Einstellungstests"
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,3,Termine,242
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,3,davon online/hybrid,45
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,3,Median Stunden,40
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,4,Themenfeld,"Sprachen, Schulgrundlagen"
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,4,Termine,211
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,4,davon online/hybrid,117
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,4,Median Stunden,40
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,5,Themenfeld,"Bewerbung, Orientierung, Karriere"
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,5,Termine,112
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,5,davon online/hybrid,14
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,5,Median Stunden,32
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,6,Themenfeld,"Technik, Handwerk, Fahrzeug"
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,6,Termine,108
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,6,davon online/hybrid,21
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,6,Median Stunden,40
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,7,Themenfeld,"Kaufmännisch, Recht, Personal, Marketing"
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,7,Termine,96
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,7,davon online/hybrid,52
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,7,Median Stunden,40
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,8,Themenfeld,"Ausbilder (AEVO), Pädagogik"
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,8,Termine,79
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,8,davon online/hybrid,7
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,8,Median Stunden,80
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,9,Themenfeld,"Kommunikation, Rhetorik"
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,9,Termine,48
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,9,davon online/hybrid,5
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,9,Median Stunden,40
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,10,Themenfeld,KI
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,10,Termine,45
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,10,davon online/hybrid,31
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,10,Median Stunden,40
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,11,Themenfeld,"Gesundheit, Fitness, Soziales"
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,11,Termine,42
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,11,davon online/hybrid,7
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,11,Median Stunden,40
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,12,Themenfeld,"Gründung, Übernahme"
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,12,Termine,30 automatisch zugeordnet (nach Einzelprüfung 31)
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,12,davon online/hybrid,10
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,12,Median Stunden,40
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,13,Themenfeld,"Sicherheit, Brand- und Arbeitsschutz"
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,13,Termine,14
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,13,davon online/hybrid,3
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,13,Median Stunden,64
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,14,Themenfeld,Sonstige
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,14,Termine,23
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,14,davon online/hybrid,6
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,14,Median Stunden,27
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,15,Themenfeld,Gesamt
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,15,Termine,1.620
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,15,davon online/hybrid,621
+bfd-kurse-und-standorte-2026,03-welche-themen-decken-die-bfd-kurse-ab,15,Median Stunden,40
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,1,BFD-Bereich,NRW Köln
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,1,Termine,252
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,1,online/hybrid,145
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,1,Anteil,58 %
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,2,BFD-Bereich,Potsdam
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,2,Termine,129
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,2,online/hybrid,78
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,2,Anteil,60 %
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,3,BFD-Bereich,Kiel
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,3,Termine,126
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,3,online/hybrid,11
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,3,Anteil,9 %
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,4,BFD-Bereich,NRW Münster
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,4,Termine,115
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,4,online/hybrid,40
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,4,Anteil,35 %
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,5,BFD-Bereich,Hannover
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,5,Termine,101
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,5,online/hybrid,16
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,5,Anteil,16 %
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,6,BFD-Bereich,Saarlouis
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,6,Termine,98
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,6,online/hybrid,30
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,6,Anteil,31 %
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,7,BFD-Bereich,Schwerin
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,7,Termine,96
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,7,online/hybrid,46
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,7,Anteil,48 %
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,8,BFD-Bereich,München
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,8,Termine,95
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,8,online/hybrid,52
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,8,Anteil,55 %
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,9,BFD-Bereich,Koblenz
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,9,Termine,92
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,9,online/hybrid,10
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,9,Anteil,11 %
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,10,BFD-Bereich,Erfurt
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,10,Termine,92
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,10,online/hybrid,31
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,10,Anteil,34 %
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,11,BFD-Bereich,Wilhelmshaven
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,11,Termine,88
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,11,online/hybrid,22
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,11,Anteil,25 %
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,12,BFD-Bereich,Stuttgart
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,12,Termine,81
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,12,online/hybrid,47
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,12,Anteil,58 %
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,13,BFD-Bereich,Dresden
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,13,Termine,70
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,13,online/hybrid,11
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,13,Anteil,16 %
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,14,BFD-Bereich,Nürnberg
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,14,Termine,65
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,14,online/hybrid,46
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,14,Anteil,71 %
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,15,BFD-Bereich,Kassel
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,15,Termine,63
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,15,online/hybrid,20
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,15,Anteil,32 %
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,16,BFD-Bereich,Magdeburg
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,16,Termine,57
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,16,online/hybrid,16
+bfd-kurse-und-standorte-2026,04-an-welchen-standorten-gibt-es-die-meisten-termine,16,Anteil,28 %
+bfd-kurse-und-standorte-2026,05-wie-lang-sind-die-seminare-und-wann-beginnen-sie,1,Umfang je Termin,unter 40 Stunden
+bfd-kurse-und-standorte-2026,05-wie-lang-sind-die-seminare-und-wann-beginnen-sie,1,Termine,518
+bfd-kurse-und-standorte-2026,05-wie-lang-sind-die-seminare-und-wann-beginnen-sie,2,Umfang je Termin,40 bis 79 Stunden
+bfd-kurse-und-standorte-2026,05-wie-lang-sind-die-seminare-und-wann-beginnen-sie,2,Termine,830
+bfd-kurse-und-standorte-2026,05-wie-lang-sind-die-seminare-und-wann-beginnen-sie,3,Umfang je Termin,80 bis 119 Stunden
+bfd-kurse-und-standorte-2026,05-wie-lang-sind-die-seminare-und-wann-beginnen-sie,3,Termine,215
+bfd-kurse-und-standorte-2026,05-wie-lang-sind-die-seminare-und-wann-beginnen-sie,4,Umfang je Termin,120 bis 199 Stunden
+bfd-kurse-und-standorte-2026,05-wie-lang-sind-die-seminare-und-wann-beginnen-sie,4,Termine,8
+bfd-kurse-und-standorte-2026,05-wie-lang-sind-die-seminare-und-wann-beginnen-sie,5,Umfang je Termin,200 Stunden und mehr
+bfd-kurse-und-standorte-2026,05-wie-lang-sind-die-seminare-und-wann-beginnen-sie,5,Termine,49
+bfd-kurse-und-standorte-2026,06-wie-entstehen-interne-seminare-und-was-kosten-sie,1,Jahr,2025
+bfd-kurse-und-standorte-2026,06-wie-entstehen-interne-seminare-und-was-kosten-sie,1,Tit. 525 71 gesamt,"92,3 Mio. €"
+bfd-kurse-und-standorte-2026,06-wie-entstehen-interne-seminare-und-was-kosten-sie,1,darunter BwFS und zweiter Bildungsweg,"5,5 Mio. €"
+bfd-kurse-und-standorte-2026,06-wie-entstehen-interne-seminare-und-was-kosten-sie,1,darunter externe Einrichtungen und Eingliederung,"86,8 Mio. €"
+bfd-kurse-und-standorte-2026,06-wie-entstehen-interne-seminare-und-was-kosten-sie,1,Art,Soll
+bfd-kurse-und-standorte-2026,06-wie-entstehen-interne-seminare-und-was-kosten-sie,2,Jahr,2025
+bfd-kurse-und-standorte-2026,06-wie-entstehen-interne-seminare-und-was-kosten-sie,2,Tit. 525 71 gesamt,"94,243 Mio. €"
+bfd-kurse-und-standorte-2026,06-wie-entstehen-interne-seminare-und-was-kosten-sie,2,darunter BwFS und zweiter Bildungsweg,k. A.
+bfd-kurse-und-standorte-2026,06-wie-entstehen-interne-seminare-und-was-kosten-sie,2,darunter externe Einrichtungen und Eingliederung,k. A.
+bfd-kurse-und-standorte-2026,06-wie-entstehen-interne-seminare-und-was-kosten-sie,2,Art,Ist
+bfd-kurse-und-standorte-2026,06-wie-entstehen-interne-seminare-und-was-kosten-sie,3,Jahr,2026
+bfd-kurse-und-standorte-2026,06-wie-entstehen-interne-seminare-und-was-kosten-sie,3,Tit. 525 71 gesamt,"92,6 Mio. €"
+bfd-kurse-und-standorte-2026,06-wie-entstehen-interne-seminare-und-was-kosten-sie,3,darunter BwFS und zweiter Bildungsweg,"0,82 Mio. €"
+bfd-kurse-und-standorte-2026,06-wie-entstehen-interne-seminare-und-was-kosten-sie,3,darunter externe Einrichtungen und Eingliederung,"90,8 Mio. €"
+bfd-kurse-und-standorte-2026,06-wie-entstehen-interne-seminare-und-was-kosten-sie,3,Art,Soll
+bfd-kurse-und-standorte-2026,06-wie-entstehen-interne-seminare-und-was-kosten-sie,4,Jahr,2027
+bfd-kurse-und-standorte-2026,06-wie-entstehen-interne-seminare-und-was-kosten-sie,4,Tit. 525 71 gesamt,"99,68 Mio. €"
+bfd-kurse-und-standorte-2026,06-wie-entstehen-interne-seminare-und-was-kosten-sie,4,darunter BwFS und zweiter Bildungsweg,"3,0 Mio. €"
+bfd-kurse-und-standorte-2026,06-wie-entstehen-interne-seminare-und-was-kosten-sie,4,darunter externe Einrichtungen und Eingliederung,"96,0 Mio. €"
+bfd-kurse-und-standorte-2026,06-wie-entstehen-interne-seminare-und-was-kosten-sie,4,Art,Regierungsentwurf
+bfd-kurse-und-standorte-2026,07-wie-werden-militaerische-qualifikationen-anerkannt,1,Jahr,2020
+bfd-kurse-und-standorte-2026,07-wie-werden-militaerische-qualifikationen-anerkannt,1,Bewilligte Kostenübernahmen für Umschreibungen (§ 36 BFöV),19
+bfd-kurse-und-standorte-2026,07-wie-werden-militaerische-qualifikationen-anerkannt,2,Jahr,2021
+bfd-kurse-und-standorte-2026,07-wie-werden-militaerische-qualifikationen-anerkannt,2,Bewilligte Kostenübernahmen für Umschreibungen (§ 36 BFöV),28
+bfd-kurse-und-standorte-2026,07-wie-werden-militaerische-qualifikationen-anerkannt,3,Jahr,2022
+bfd-kurse-und-standorte-2026,07-wie-werden-militaerische-qualifikationen-anerkannt,3,Bewilligte Kostenübernahmen für Umschreibungen (§ 36 BFöV),36
+bfd-kurse-und-standorte-2026,07-wie-werden-militaerische-qualifikationen-anerkannt,4,Jahr,2023
+bfd-kurse-und-standorte-2026,07-wie-werden-militaerische-qualifikationen-anerkannt,4,Bewilligte Kostenübernahmen für Umschreibungen (§ 36 BFöV),41
+bfd-kurse-und-standorte-2026,07-wie-werden-militaerische-qualifikationen-anerkannt,5,Jahr,2024
+bfd-kurse-und-standorte-2026,07-wie-werden-militaerische-qualifikationen-anerkannt,5,Bewilligte Kostenübernahmen für Umschreibungen (§ 36 BFöV),50
+bfd-kurse-und-standorte-2026,07-wie-werden-militaerische-qualifikationen-anerkannt,6,Jahr,2025
+bfd-kurse-und-standorte-2026,07-wie-werden-militaerische-qualifikationen-anerkannt,6,Bewilligte Kostenübernahmen für Umschreibungen (§ 36 BFöV),68
+dienstzeitende-report-2026,01-kurzfassung,1,Kennzahl,Bewilligte Anträge auf Förderung der schulischen und beruflichen Bildung 2025
+dienstzeitende-report-2026,01-kurzfassung,1,Wert,14.226
+dienstzeitende-report-2026,01-kurzfassung,1,Quelle,BFD-Jahresbilanz 2025
+dienstzeitende-report-2026,01-kurzfassung,2,Kennzahl,Ausgaben des Berufsförderungsdienstes für die Berufsförderung 2025
+dienstzeitende-report-2026,01-kurzfassung,2,Wert,"106,5 Mio. €"
+dienstzeitende-report-2026,01-kurzfassung,2,Quelle,BFD-Jahresbilanz 2025
+dienstzeitende-report-2026,01-kurzfassung,3,Kennzahl,"Haushaltsansatz Übergangsbeihilfen, Übergangsgebührnisse und Ausgleichsbezüge 2026"
+dienstzeitende-report-2026,01-kurzfassung,3,Wert,"1,135 Mrd. € (Ist 2020 0,572 Mrd. €)"
+dienstzeitende-report-2026,01-kurzfassung,3,Quelle,"Bundeshaushalt 2026, Epl. 14"
+dienstzeitende-report-2026,01-kurzfassung,4,Kennzahl,Soldatinnen und Soldaten auf Zeit Ende 2025
+dienstzeitende-report-2026,01-kurzfassung,4,Wert,112.578
+dienstzeitende-report-2026,01-kurzfassung,4,Quelle,"Wehrbeauftragter, Jahresbericht 2025"
+dienstzeitende-report-2026,01-kurzfassung,5,Kennzahl,Planstellen für Berufs- und Zeitsoldaten 2026
+dienstzeitende-report-2026,01-kurzfassung,5,Wert,222.483 (2025 192.511)
+dienstzeitende-report-2026,01-kurzfassung,5,Quelle,"Bundeshaushalt 2026, Epl. 14"
+dienstzeitende-report-2026,02-bewilligte-antraege-und-ausgaben-des-bfd,1,Jahr,2020
+dienstzeitende-report-2026,02-bewilligte-antraege-und-ausgaben-des-bfd,1,Bewilligte Anträge,nicht erfasst
+dienstzeitende-report-2026,02-bewilligte-antraege-und-ausgaben-des-bfd,1,Ausgaben BFD,"93,5 Mio. €"
+dienstzeitende-report-2026,02-bewilligte-antraege-und-ausgaben-des-bfd,1,Status,belegt
+dienstzeitende-report-2026,02-bewilligte-antraege-und-ausgaben-des-bfd,2,Jahr,2021
+dienstzeitende-report-2026,02-bewilligte-antraege-und-ausgaben-des-bfd,2,Bewilligte Anträge,Lücke
+dienstzeitende-report-2026,02-bewilligte-antraege-und-ausgaben-des-bfd,2,Ausgaben BFD,Lücke
+dienstzeitende-report-2026,02-bewilligte-antraege-und-ausgaben-des-bfd,2,Status,PDF nicht abrufbar
+dienstzeitende-report-2026,02-bewilligte-antraege-und-ausgaben-des-bfd,3,Jahr,2022
+dienstzeitende-report-2026,02-bewilligte-antraege-und-ausgaben-des-bfd,3,Bewilligte Anträge,12.745 (englische Fassung „applications“)
+dienstzeitende-report-2026,02-bewilligte-antraege-und-ausgaben-des-bfd,3,Ausgaben BFD,"92,15 Mio. €"
+dienstzeitende-report-2026,02-bewilligte-antraege-und-ausgaben-des-bfd,3,Status,ohne Gewähr
+dienstzeitende-report-2026,02-bewilligte-antraege-und-ausgaben-des-bfd,4,Jahr,2023
+dienstzeitende-report-2026,02-bewilligte-antraege-und-ausgaben-des-bfd,4,Bewilligte Anträge,13.625
+dienstzeitende-report-2026,02-bewilligte-antraege-und-ausgaben-des-bfd,4,Ausgaben BFD,"102,33 Mio. €"
+dienstzeitende-report-2026,02-bewilligte-antraege-und-ausgaben-des-bfd,4,Status,ohne Gewähr
+dienstzeitende-report-2026,02-bewilligte-antraege-und-ausgaben-des-bfd,5,Jahr,2024
+dienstzeitende-report-2026,02-bewilligte-antraege-und-ausgaben-des-bfd,5,Bewilligte Anträge,13.838
+dienstzeitende-report-2026,02-bewilligte-antraege-und-ausgaben-des-bfd,5,Ausgaben BFD,"102,96 Mio. €"
+dienstzeitende-report-2026,02-bewilligte-antraege-und-ausgaben-des-bfd,5,Status,"ohne Gewähr, Angabe der Prüfung A, PDF nicht selbst geöffnet"
+dienstzeitende-report-2026,02-bewilligte-antraege-und-ausgaben-des-bfd,6,Jahr,2025
+dienstzeitende-report-2026,02-bewilligte-antraege-und-ausgaben-des-bfd,6,Bewilligte Anträge,14.226
+dienstzeitende-report-2026,02-bewilligte-antraege-und-ausgaben-des-bfd,6,Ausgaben BFD,"106,533 Mio. €"
+dienstzeitende-report-2026,02-bewilligte-antraege-und-ausgaben-des-bfd,6,Status,belegt
+dienstzeitende-report-2026,03-bundeshaushalt-titel-aus-und-fortbildung,1,Jahr,2020
+dienstzeitende-report-2026,03-bundeshaushalt-titel-aus-und-fortbildung,1,Kap. 1403 Tit. 525 71,"81,401 Mio. €"
+dienstzeitende-report-2026,03-bundeshaushalt-titel-aus-und-fortbildung,1,Art,Ist
+dienstzeitende-report-2026,03-bundeshaushalt-titel-aus-und-fortbildung,2,Jahr,2021
+dienstzeitende-report-2026,03-bundeshaushalt-titel-aus-und-fortbildung,2,Kap. 1403 Tit. 525 71,"82,431 Mio. €"
+dienstzeitende-report-2026,03-bundeshaushalt-titel-aus-und-fortbildung,2,Art,Ist
+dienstzeitende-report-2026,03-bundeshaushalt-titel-aus-und-fortbildung,3,Jahr,2022
+dienstzeitende-report-2026,03-bundeshaushalt-titel-aus-und-fortbildung,3,Kap. 1403 Tit. 525 71,"81,940 Mio. €"
+dienstzeitende-report-2026,03-bundeshaushalt-titel-aus-und-fortbildung,3,Art,Ist
+dienstzeitende-report-2026,03-bundeshaushalt-titel-aus-und-fortbildung,4,Jahr,2023
+dienstzeitende-report-2026,03-bundeshaushalt-titel-aus-und-fortbildung,4,Kap. 1403 Tit. 525 71,"89,379 Mio. €"
+dienstzeitende-report-2026,03-bundeshaushalt-titel-aus-und-fortbildung,4,Art,Ist
+dienstzeitende-report-2026,03-bundeshaushalt-titel-aus-und-fortbildung,5,Jahr,2024
+dienstzeitende-report-2026,03-bundeshaushalt-titel-aus-und-fortbildung,5,Kap. 1403 Tit. 525 71,"89,892 Mio. €"
+dienstzeitende-report-2026,03-bundeshaushalt-titel-aus-und-fortbildung,5,Art,Ist
+dienstzeitende-report-2026,03-bundeshaushalt-titel-aus-und-fortbildung,6,Jahr,2025
+dienstzeitende-report-2026,03-bundeshaushalt-titel-aus-und-fortbildung,6,Kap. 1403 Tit. 525 71,"94,243 Mio. €"
+dienstzeitende-report-2026,03-bundeshaushalt-titel-aus-und-fortbildung,6,Art,"Ist (Soll 92,300 Mio. €)"
+dienstzeitende-report-2026,03-bundeshaushalt-titel-aus-und-fortbildung,7,Jahr,2026
+dienstzeitende-report-2026,03-bundeshaushalt-titel-aus-und-fortbildung,7,Kap. 1403 Tit. 525 71,"92,600 Mio. €"
+dienstzeitende-report-2026,03-bundeshaushalt-titel-aus-und-fortbildung,7,Art,Soll
+dienstzeitende-report-2026,03-bundeshaushalt-titel-aus-und-fortbildung,8,Jahr,2027
+dienstzeitende-report-2026,03-bundeshaushalt-titel-aus-und-fortbildung,8,Kap. 1403 Tit. 525 71,"99,680 Mio. €"
+dienstzeitende-report-2026,03-bundeshaushalt-titel-aus-und-fortbildung,8,Art,"Regierungsentwurf, nicht beschlossen"
+dienstzeitende-report-2026,04-wie-viel-geld-fliesst-in-uebergangsgebuehrnisse-und-uebergan,1,Jahr,2020
+dienstzeitende-report-2026,04-wie-viel-geld-fliesst-in-uebergangsgebuehrnisse-und-uebergan,1,Kap. 1403 Tit. 433 54,"572,475 Mio. €"
+dienstzeitende-report-2026,04-wie-viel-geld-fliesst-in-uebergangsgebuehrnisse-und-uebergan,1,Art,Ist
+dienstzeitende-report-2026,04-wie-viel-geld-fliesst-in-uebergangsgebuehrnisse-und-uebergan,2,Jahr,2021
+dienstzeitende-report-2026,04-wie-viel-geld-fliesst-in-uebergangsgebuehrnisse-und-uebergan,2,Kap. 1403 Tit. 433 54,"652,991 Mio. €"
+dienstzeitende-report-2026,04-wie-viel-geld-fliesst-in-uebergangsgebuehrnisse-und-uebergan,2,Art,Ist
+dienstzeitende-report-2026,04-wie-viel-geld-fliesst-in-uebergangsgebuehrnisse-und-uebergan,3,Jahr,2022
+dienstzeitende-report-2026,04-wie-viel-geld-fliesst-in-uebergangsgebuehrnisse-und-uebergan,3,Kap. 1403 Tit. 433 54,"731,735 Mio. €"
+dienstzeitende-report-2026,04-wie-viel-geld-fliesst-in-uebergangsgebuehrnisse-und-uebergan,3,Art,Ist
+dienstzeitende-report-2026,04-wie-viel-geld-fliesst-in-uebergangsgebuehrnisse-und-uebergan,4,Jahr,2023
+dienstzeitende-report-2026,04-wie-viel-geld-fliesst-in-uebergangsgebuehrnisse-und-uebergan,4,Kap. 1403 Tit. 433 54,"826,707 Mio. €"
+dienstzeitende-report-2026,04-wie-viel-geld-fliesst-in-uebergangsgebuehrnisse-und-uebergan,4,Art,Ist
+dienstzeitende-report-2026,04-wie-viel-geld-fliesst-in-uebergangsgebuehrnisse-und-uebergan,5,Jahr,2024
+dienstzeitende-report-2026,04-wie-viel-geld-fliesst-in-uebergangsgebuehrnisse-und-uebergan,5,Kap. 1403 Tit. 433 54,"972,544 Mio. €"
+dienstzeitende-report-2026,04-wie-viel-geld-fliesst-in-uebergangsgebuehrnisse-und-uebergan,5,Art,Ist
+dienstzeitende-report-2026,04-wie-viel-geld-fliesst-in-uebergangsgebuehrnisse-und-uebergan,6,Jahr,2025
+dienstzeitende-report-2026,04-wie-viel-geld-fliesst-in-uebergangsgebuehrnisse-und-uebergan,6,Kap. 1403 Tit. 433 54,"1.093,222 Mio. €"
+dienstzeitende-report-2026,04-wie-viel-geld-fliesst-in-uebergangsgebuehrnisse-und-uebergan,6,Art,"Ist (Soll 1.011,111 Mio. €)"
+dienstzeitende-report-2026,04-wie-viel-geld-fliesst-in-uebergangsgebuehrnisse-und-uebergan,7,Jahr,2026
+dienstzeitende-report-2026,04-wie-viel-geld-fliesst-in-uebergangsgebuehrnisse-und-uebergan,7,Kap. 1403 Tit. 433 54,"1.135,060 Mio. €"
+dienstzeitende-report-2026,04-wie-viel-geld-fliesst-in-uebergangsgebuehrnisse-und-uebergan,7,Art,Soll
+dienstzeitende-report-2026,04-wie-viel-geld-fliesst-in-uebergangsgebuehrnisse-und-uebergan,8,Jahr,2027
+dienstzeitende-report-2026,04-wie-viel-geld-fliesst-in-uebergangsgebuehrnisse-und-uebergan,8,Kap. 1403 Tit. 433 54,"1.368,837 Mio. €"
+dienstzeitende-report-2026,04-wie-viel-geld-fliesst-in-uebergangsgebuehrnisse-und-uebergan,8,Art,"Regierungsentwurf, nicht beschlossen"
+gruenden-nach-der-bundeswehr-2026,01-kurzfassung,1,Kennzahl,Existenzgründungen in Deutschland 2025 (Voll- und Nebenerwerb)
+gruenden-nach-der-bundeswehr-2026,01-kurzfassung,1,Wert,rund 690.000
+gruenden-nach-der-bundeswehr-2026,01-kurzfassung,1,Quelle,"KfW-Gründungsmonitor 2026, S. 1–2"
+gruenden-nach-der-bundeswehr-2026,01-kurzfassung,2,Kennzahl,davon im Vollerwerb
+gruenden-nach-der-bundeswehr-2026,01-kurzfassung,2,Wert,rund 206.000
+gruenden-nach-der-bundeswehr-2026,01-kurzfassung,2,Quelle,"KfW-Gründungsmonitor 2026, S. 2"
+gruenden-nach-der-bundeswehr-2026,01-kurzfassung,3,Kennzahl,Eintritte in den Gründungszuschuss 2025
+gruenden-nach-der-bundeswehr-2026,01-kurzfassung,3,Wert,29.281
+gruenden-nach-der-bundeswehr-2026,01-kurzfassung,3,Quelle,"Statistik der BA, Zeitreihe Instrumente"
+gruenden-nach-der-bundeswehr-2026,01-kurzfassung,4,Kennzahl,Mindestrest des Leistungsanspruchs für den Gründungszuschuss
+gruenden-nach-der-bundeswehr-2026,01-kurzfassung,4,Wert,150 Tage
+gruenden-nach-der-bundeswehr-2026,01-kurzfassung,4,Quelle,§ 93 Abs. 2 SGB III
+gruenden-nach-der-bundeswehr-2026,01-kurzfassung,5,Kennzahl,Aufschub der Übergangsgebührnisse
+gruenden-nach-der-bundeswehr-2026,01-kurzfassung,5,Wert,"höchstens zweimal, insgesamt längstens 24 Monate ; Zahlung in einer Summe im Einzelfall"
+gruenden-nach-der-bundeswehr-2026,01-kurzfassung,5,Quelle,§ 16 Abs. 6 SVG
+gruenden-nach-der-bundeswehr-2026,02-wie-viele-gruendungen-gab-es-2025-und-was-heisst-das-fuer-ex,1,Merkmal 2025,Durchschnittsalter der Gründenden
+gruenden-nach-der-bundeswehr-2026,02-wie-viele-gruendungen-gab-es-2025-und-was-heisst-das-fuer-ex,1,Wert,"34,2 Jahre"
+gruenden-nach-der-bundeswehr-2026,02-wie-viele-gruendungen-gab-es-2025-und-was-heisst-das-fuer-ex,1,Fundstelle,S. 1
+gruenden-nach-der-bundeswehr-2026,02-wie-viele-gruendungen-gab-es-2025-und-was-heisst-das-fuer-ex,2,Merkmal 2025,Hemmnis Bürokratie
+gruenden-nach-der-bundeswehr-2026,02-wie-viele-gruendungen-gab-es-2025-und-was-heisst-das-fuer-ex,2,Wert,64 % der Gründenden
+gruenden-nach-der-bundeswehr-2026,02-wie-viele-gruendungen-gab-es-2025-und-was-heisst-das-fuer-ex,2,Fundstelle,S. 10
+gruenden-nach-der-bundeswehr-2026,02-wie-viele-gruendungen-gab-es-2025-und-was-heisst-das-fuer-ex,3,Merkmal 2025,Hemmnis Kundengewinnung
+gruenden-nach-der-bundeswehr-2026,02-wie-viele-gruendungen-gab-es-2025-und-was-heisst-das-fuer-ex,3,Wert,57 %
+gruenden-nach-der-bundeswehr-2026,02-wie-viele-gruendungen-gab-es-2025-und-was-heisst-das-fuer-ex,3,Fundstelle,S. 10
+gruenden-nach-der-bundeswehr-2026,02-wie-viele-gruendungen-gab-es-2025-und-was-heisst-das-fuer-ex,4,Merkmal 2025,Hemmnis Finanzierung
+gruenden-nach-der-bundeswehr-2026,02-wie-viele-gruendungen-gab-es-2025-und-was-heisst-das-fuer-ex,4,Wert,26 %
+gruenden-nach-der-bundeswehr-2026,02-wie-viele-gruendungen-gab-es-2025-und-was-heisst-das-fuer-ex,4,Fundstelle,S. 10
+gruenden-nach-der-bundeswehr-2026,02-wie-viele-gruendungen-gab-es-2025-und-was-heisst-das-fuer-ex,5,Merkmal 2025,Median Finanzmitteleinsatz Vollerwerb
+gruenden-nach-der-bundeswehr-2026,02-wie-viele-gruendungen-gab-es-2025-und-was-heisst-das-fuer-ex,5,Wert,15.000 €
+gruenden-nach-der-bundeswehr-2026,02-wie-viele-gruendungen-gab-es-2025-und-was-heisst-das-fuer-ex,5,Fundstelle,S. 13
+gruenden-nach-der-bundeswehr-2026,02-wie-viele-gruendungen-gab-es-2025-und-was-heisst-das-fuer-ex,6,Merkmal 2025,Median Finanzmitteleinsatz Nebenerwerb
+gruenden-nach-der-bundeswehr-2026,02-wie-viele-gruendungen-gab-es-2025-und-was-heisst-das-fuer-ex,6,Wert,2.000 €
+gruenden-nach-der-bundeswehr-2026,02-wie-viele-gruendungen-gab-es-2025-und-was-heisst-das-fuer-ex,6,Fundstelle,S. 13
+gruenden-nach-der-bundeswehr-2026,02-wie-viele-gruendungen-gab-es-2025-und-was-heisst-das-fuer-ex,7,Merkmal 2025,Gründungen als Übernahme eines bestehenden Unternehmens
+gruenden-nach-der-bundeswehr-2026,02-wie-viele-gruendungen-gab-es-2025-und-was-heisst-das-fuer-ex,7,Wert,10 %
+gruenden-nach-der-bundeswehr-2026,02-wie-viele-gruendungen-gab-es-2025-und-was-heisst-das-fuer-ex,7,Fundstelle,S. 9
+gruenden-nach-der-bundeswehr-2026,03-welche-foerderwege-haben-ex-soldaten-bei-der-gruendung,1,Förderweg,"Gründungszuschuss (§§ 93, 94 SGB III)"
+gruenden-nach-der-bundeswehr-2026,03-welche-foerderwege-haben-ex-soldaten-bei-der-gruendung,1,Voraussetzung,"Zahlungsanspruch auf Arbeitslosengeld oder (laut Weisung der BA) Arbeitslosenbeihilfe mit mindestens 150 Resttagen, Tragfähigkeit durch fachkundige Stelle, hauptberufliche Gründung"
+gruenden-nach-der-bundeswehr-2026,03-welche-foerderwege-haben-ex-soldaten-bei-der-gruendung,1,Was es gibt,"6 Monate Leistung in Höhe des Alg bzw. der Beihilfe plus 300 € monatlich, danach bis 9 Monate 300 € (Ermessen)"
+gruenden-nach-der-bundeswehr-2026,03-welche-foerderwege-haben-ex-soldaten-bei-der-gruendung,1,Für Ex-SaZ,selten . Ab vier Dienstjahren zehren die Übergangsgebührnisse die Beihilfe meist auf; möglich über eigenes Alg aus einer Beschäftigung nach dem Dienst oder rechnerisch bei kurzen Dienstzeiten (siehe unten)
+gruenden-nach-der-bundeswehr-2026,03-welche-foerderwege-haben-ex-soldaten-bei-der-gruendung,2,Förderweg,Übergangsgebührnisse (§ 16 SVG)
+gruenden-nach-der-bundeswehr-2026,03-welche-foerderwege-haben-ex-soldaten-bei-der-gruendung,2,Voraussetzung,reguläres Dienstende als SaZ
+gruenden-nach-der-bundeswehr-2026,03-welche-foerderwege-haben-ex-soldaten-bei-der-gruendung,2,Was es gibt,"75 % der Dienstbezüge (vorher mit dem Faktor 0,9901 multipliziert, § 104 Satz 3 SVG), 1 bis 60 Monate je Dienstzeit; Aufschub höchstens zweimal, insgesamt längstens 24 Monate; Zahlung in einer Summe im Einzelfall"
+gruenden-nach-der-bundeswehr-2026,03-welche-foerderwege-haben-ex-soldaten-bei-der-gruendung,2,Für Ex-SaZ,"ja , die wichtigste Geldquelle in der Gründungsphase"
+gruenden-nach-der-bundeswehr-2026,03-welche-foerderwege-haben-ex-soldaten-bei-der-gruendung,3,Förderweg,Übergangsbeihilfe (§ 19 SVG)
+gruenden-nach-der-bundeswehr-2026,03-welche-foerderwege-haben-ex-soldaten-bei-der-gruendung,3,Voraussetzung,Dienstzeitende als SaZ
+gruenden-nach-der-bundeswehr-2026,03-welche-foerderwege-haben-ex-soldaten-bei-der-gruendung,3,Was es gibt,"Einmalzahlung, 1,5- bis 15-fache Dienstbezüge (ohne Faktor 0,9901)"
+gruenden-nach-der-bundeswehr-2026,03-welche-foerderwege-haben-ex-soldaten-bei-der-gruendung,3,Für Ex-SaZ,"ja , nicht zweckgebunden"
+gruenden-nach-der-bundeswehr-2026,03-welche-foerderwege-haben-ex-soldaten-bei-der-gruendung,4,Förderweg,"BFD-Budget (§ 7 SVG, § 19 BFöV)"
+gruenden-nach-der-bundeswehr-2026,03-welche-foerderwege-haben-ex-soldaten-bei-der-gruendung,4,Voraussetzung,"Förderungsplan mit Eingliederungsziel, Antrag vor Beginn"
+gruenden-nach-der-bundeswehr-2026,03-welche-foerderwege-haben-ex-soldaten-bei-der-gruendung,4,Was es gibt,"Kosten für Gründungsseminare, Fachkurse, Abschlüsse bis zum Kostenhöchstbetrag 1.200 € bis 24.000 €"
+gruenden-nach-der-bundeswehr-2026,03-welche-foerderwege-haben-ex-soldaten-bei-der-gruendung,4,Für Ex-SaZ,"ja , wenn das Ziel Selbstständigkeit im Förderungsplan steht"
+gruenden-nach-der-bundeswehr-2026,03-welche-foerderwege-haben-ex-soldaten-bei-der-gruendung,5,Förderweg,AVGS Gründercoaching (§ 45 SGB III)
+gruenden-nach-der-bundeswehr-2026,03-welche-foerderwege-haben-ex-soldaten-bei-der-gruendung,5,Voraussetzung,"arbeitslos oder arbeitsuchend gemeldet, Ermessen der Agentur, AZAV-zugelassener Träger"
+gruenden-nach-der-bundeswehr-2026,03-welche-foerderwege-haben-ex-soldaten-bei-der-gruendung,5,Was es gibt,Coaching zur „Heranführung an eine selbständige Tätigkeit“ (§ 45 Abs. 1 Satz 1 Nr. 4)
+gruenden-nach-der-bundeswehr-2026,03-welche-foerderwege-haben-ex-soldaten-bei-der-gruendung,5,Für Ex-SaZ,"möglich , kein Alg nötig; Vorrang BFD beachten"
+gruenden-nach-der-bundeswehr-2026,03-welche-foerderwege-haben-ex-soldaten-bei-der-gruendung,6,Förderweg,Arbeitslosenbeihilfe (§ 101 SVG)
+gruenden-nach-der-bundeswehr-2026,03-welche-foerderwege-haben-ex-soldaten-bei-der-gruendung,6,Voraussetzung,"mindestens zwei Jahre Wehrdienstzeit, arbeitslos"
+gruenden-nach-der-bundeswehr-2026,03-welche-foerderwege-haben-ex-soldaten-bei-der-gruendung,6,Was es gibt,"Leistung nach den Alg-Regeln, Dauer gemindert um die Tage mit Übergangsgebührnissen, bei genau zwei Jahren höchstens 180 Tage"
+gruenden-nach-der-bundeswehr-2026,03-welche-foerderwege-haben-ex-soldaten-bei-der-gruendung,6,Für Ex-SaZ,praktisch vor allem bei SaZ 2 und 3 relevant
+nach-der-bundeswehr-in-den-bundeslaendern-2026,01-kurzfassung,1,Kennzahl,BFD-Regionalteams / Standortteams
+nach-der-bundeswehr-in-den-bundeslaendern-2026,01-kurzfassung,1,Wert,16 / 86
+nach-der-bundeswehr-in-den-bundeslaendern-2026,01-kurzfassung,1,Fundstelle,"BFD, Wir über uns (ausgewertet 17.10.2026)"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,01-kurzfassung,2,Kennzahl,"Arbeitslosenquote Oktober 2026, niedrigste und höchste"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,01-kurzfassung,2,Wert,"4,0 % Bayern, 11,0 % Bremen (Deutschland 6,3 %)"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,01-kurzfassung,2,Fundstelle,"Statistik der BA, Eckwerte Länder"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,01-kurzfassung,3,Kennzahl,Gewerbliche Existenzgründungen 2025
+nach-der-bundeswehr-in-den-bundeslaendern-2026,01-kurzfassung,3,Wert,"277.070 , davon 62.853 in NRW"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,01-kurzfassung,3,Fundstelle,IfM Bonn
+nach-der-bundeswehr-in-den-bundeslaendern-2026,01-kurzfassung,4,Kennzahl,"Gründungsintensität 2025, niedrigste und höchste"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,01-kurzfassung,4,Wert,"38,4 Sachsen-Anhalt, 98,2 Berlin je 10.000 Erwerbsfähige"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,01-kurzfassung,4,Fundstelle,IfM Bonn
+nach-der-bundeswehr-in-den-bundeslaendern-2026,01-kurzfassung,5,Kennzahl,Eintritte Gründungszuschuss 2025
+nach-der-bundeswehr-in-den-bundeslaendern-2026,01-kurzfassung,5,Wert,"29.281 , davon 5.833 in NRW und 5.337 in Bayern"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,01-kurzfassung,5,Fundstelle,Statistik der BA
+nach-der-bundeswehr-in-den-bundeslaendern-2026,02-welche-zahlen-zum-dienstzeitende-fehlen,1,Gesuchte Zahl,Dienstzeitende SaZ je Bundesland
+nach-der-bundeswehr-in-den-bundeslaendern-2026,02-welche-zahlen-zum-dienstzeitende-fehlen,1,Verfügbar?,nein
+nach-der-bundeswehr-in-den-bundeslaendern-2026,02-welche-zahlen-zum-dienstzeitende-fehlen,1,Stand der Recherche,weder BFD-Jahresbilanz noch Wehrbeauftragter
+nach-der-bundeswehr-in-den-bundeslaendern-2026,02-welche-zahlen-zum-dienstzeitende-fehlen,2,Gesuchte Zahl,Bewilligte BFD-Anträge je Regionalteam
+nach-der-bundeswehr-in-den-bundeslaendern-2026,02-welche-zahlen-zum-dienstzeitende-fehlen,2,Verfügbar?,nein
+nach-der-bundeswehr-in-den-bundeslaendern-2026,02-welche-zahlen-zum-dienstzeitende-fehlen,2,Stand der Recherche,Jahresbilanz nur bundesweit (2025 14.226 Anträge)
+nach-der-bundeswehr-in-den-bundeslaendern-2026,02-welche-zahlen-zum-dienstzeitende-fehlen,3,Gesuchte Zahl,Aktive Soldaten oder Dienstposten je Bundesland
+nach-der-bundeswehr-in-den-bundeslaendern-2026,02-welche-zahlen-zum-dienstzeitende-fehlen,3,Verfügbar?,nicht aktuell
+nach-der-bundeswehr-in-den-bundeslaendern-2026,02-welche-zahlen-zum-dienstzeitende-fehlen,3,Stand der Recherche,keine Antwort der Bundesregierung mit Ländertabelle gefunden
+nach-der-bundeswehr-in-den-bundeslaendern-2026,02-welche-zahlen-zum-dienstzeitende-fehlen,4,Gesuchte Zahl,Wohnort ehemaliger Soldaten
+nach-der-bundeswehr-in-den-bundeslaendern-2026,02-welche-zahlen-zum-dienstzeitende-fehlen,4,Verfügbar?,nein
+nach-der-bundeswehr-in-den-bundeslaendern-2026,02-welche-zahlen-zum-dienstzeitende-fehlen,4,Stand der Recherche,keine amtliche Statistik
+nach-der-bundeswehr-in-den-bundeslaendern-2026,02-welche-zahlen-zum-dienstzeitende-fehlen,5,Gesuchte Zahl,Gründungen ehemaliger Soldaten je Land
+nach-der-bundeswehr-in-den-bundeslaendern-2026,02-welche-zahlen-zum-dienstzeitende-fehlen,5,Verfügbar?,nein
+nach-der-bundeswehr-in-den-bundeslaendern-2026,02-welche-zahlen-zum-dienstzeitende-fehlen,5,Stand der Recherche,KfW und IfM erfassen den Beruf vor der Gründung nicht nach Bundeswehr
+nach-der-bundeswehr-in-den-bundeslaendern-2026,03-wo-ist-der-bfd-vor-ort,1,Bundesland,Baden-Württemberg
+nach-der-bundeswehr-in-den-bundeslaendern-2026,03-wo-ist-der-bfd-vor-ort,1,Zuständiges BFD-Regionalteam (Sitz),Stuttgart
+nach-der-bundeswehr-in-den-bundeslaendern-2026,03-wo-ist-der-bfd-vor-ort,2,Bundesland,Bayern
+nach-der-bundeswehr-in-den-bundeslaendern-2026,03-wo-ist-der-bfd-vor-ort,2,Zuständiges BFD-Regionalteam (Sitz),"München (Süd), Nürnberg (Nord)"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,03-wo-ist-der-bfd-vor-ort,3,Bundesland,Berlin
+nach-der-bundeswehr-in-den-bundeslaendern-2026,03-wo-ist-der-bfd-vor-ort,3,Zuständiges BFD-Regionalteam (Sitz),Potsdam
+nach-der-bundeswehr-in-den-bundeslaendern-2026,03-wo-ist-der-bfd-vor-ort,4,Bundesland,Brandenburg
+nach-der-bundeswehr-in-den-bundeslaendern-2026,03-wo-ist-der-bfd-vor-ort,4,Zuständiges BFD-Regionalteam (Sitz),Potsdam
+nach-der-bundeswehr-in-den-bundeslaendern-2026,03-wo-ist-der-bfd-vor-ort,5,Bundesland,Bremen
+nach-der-bundeswehr-in-den-bundeslaendern-2026,03-wo-ist-der-bfd-vor-ort,5,Zuständiges BFD-Regionalteam (Sitz),Wilhelmshaven
+nach-der-bundeswehr-in-den-bundeslaendern-2026,03-wo-ist-der-bfd-vor-ort,6,Bundesland,Hamburg
+nach-der-bundeswehr-in-den-bundeslaendern-2026,03-wo-ist-der-bfd-vor-ort,6,Zuständiges BFD-Regionalteam (Sitz),Kiel (Team Hamburg des Job-Service)
+nach-der-bundeswehr-in-den-bundeslaendern-2026,03-wo-ist-der-bfd-vor-ort,7,Bundesland,Hessen
+nach-der-bundeswehr-in-den-bundeslaendern-2026,03-wo-ist-der-bfd-vor-ort,7,Zuständiges BFD-Regionalteam (Sitz),Kassel
+nach-der-bundeswehr-in-den-bundeslaendern-2026,03-wo-ist-der-bfd-vor-ort,8,Bundesland,Mecklenburg-Vorpommern
+nach-der-bundeswehr-in-den-bundeslaendern-2026,03-wo-ist-der-bfd-vor-ort,8,Zuständiges BFD-Regionalteam (Sitz),Schwerin
+nach-der-bundeswehr-in-den-bundeslaendern-2026,03-wo-ist-der-bfd-vor-ort,9,Bundesland,Niedersachsen
+nach-der-bundeswehr-in-den-bundeslaendern-2026,03-wo-ist-der-bfd-vor-ort,9,Zuständiges BFD-Regionalteam (Sitz),"Hannover (Süd-Mitte-Ost), Wilhelmshaven (Nord-West)"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,03-wo-ist-der-bfd-vor-ort,10,Bundesland,Nordrhein-Westfalen
+nach-der-bundeswehr-in-den-bundeslaendern-2026,03-wo-ist-der-bfd-vor-ort,10,Zuständiges BFD-Regionalteam (Sitz),"Köln (Süd), Münster (Nord)"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,03-wo-ist-der-bfd-vor-ort,11,Bundesland,Rheinland-Pfalz
+nach-der-bundeswehr-in-den-bundeslaendern-2026,03-wo-ist-der-bfd-vor-ort,11,Zuständiges BFD-Regionalteam (Sitz),"Koblenz, Süden über Saarlouis"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,03-wo-ist-der-bfd-vor-ort,12,Bundesland,Saarland
+nach-der-bundeswehr-in-den-bundeslaendern-2026,03-wo-ist-der-bfd-vor-ort,12,Zuständiges BFD-Regionalteam (Sitz),Saarlouis
+nach-der-bundeswehr-in-den-bundeslaendern-2026,03-wo-ist-der-bfd-vor-ort,13,Bundesland,Sachsen
+nach-der-bundeswehr-in-den-bundeslaendern-2026,03-wo-ist-der-bfd-vor-ort,13,Zuständiges BFD-Regionalteam (Sitz),Dresden
+nach-der-bundeswehr-in-den-bundeslaendern-2026,03-wo-ist-der-bfd-vor-ort,14,Bundesland,Sachsen-Anhalt
+nach-der-bundeswehr-in-den-bundeslaendern-2026,03-wo-ist-der-bfd-vor-ort,14,Zuständiges BFD-Regionalteam (Sitz),Magdeburg
+nach-der-bundeswehr-in-den-bundeslaendern-2026,03-wo-ist-der-bfd-vor-ort,15,Bundesland,Schleswig-Holstein
+nach-der-bundeswehr-in-den-bundeslaendern-2026,03-wo-ist-der-bfd-vor-ort,15,Zuständiges BFD-Regionalteam (Sitz),Kiel
+nach-der-bundeswehr-in-den-bundeslaendern-2026,03-wo-ist-der-bfd-vor-ort,16,Bundesland,Thüringen
+nach-der-bundeswehr-in-den-bundeslaendern-2026,03-wo-ist-der-bfd-vor-ort,16,Zuständiges BFD-Regionalteam (Sitz),Erfurt
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,1,Bundesland,Baden-Württemberg
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,1,Arbeitslosenquote 2025 (Jahresdurchschnitt),"4,6 %"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,1,Arbeitslosenquote Oktober 2026,"4,6 %"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,1,Arbeitslose Oktober 2026,299.660
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,2,Bundesland,Bayern
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,2,Arbeitslosenquote 2025 (Jahresdurchschnitt),"4,0 %"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,2,Arbeitslosenquote Oktober 2026,"4,0 %"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,2,Arbeitslose Oktober 2026,316.430
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,3,Bundesland,Berlin
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,3,Arbeitslosenquote 2025 (Jahresdurchschnitt),"10,3 %"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,3,Arbeitslosenquote Oktober 2026,"10,4 %"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,3,Arbeitslose Oktober 2026,223.250
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,4,Bundesland,Brandenburg
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,4,Arbeitslosenquote 2025 (Jahresdurchschnitt),"6,4 %"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,4,Arbeitslosenquote Oktober 2026,"6,3 %"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,4,Arbeitslose Oktober 2026,85.030
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,5,Bundesland,Bremen
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,5,Arbeitslosenquote 2025 (Jahresdurchschnitt),"11,5 %"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,5,Arbeitslosenquote Oktober 2026,"11,0 %"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,5,Arbeitslose Oktober 2026,41.750
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,6,Bundesland,Hamburg
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,6,Arbeitslosenquote 2025 (Jahresdurchschnitt),"8,3 %"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,6,Arbeitslosenquote Oktober 2026,"8,3 %"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,6,Arbeitslose Oktober 2026,95.280
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,7,Bundesland,Hessen
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,7,Arbeitslosenquote 2025 (Jahresdurchschnitt),"5,8 %"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,7,Arbeitslosenquote Oktober 2026,"5,9 %"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,7,Arbeitslose Oktober 2026,209.610
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,8,Bundesland,Mecklenburg-Vorpommern
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,8,Arbeitslosenquote 2025 (Jahresdurchschnitt),"8,0 %"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,8,Arbeitslosenquote Oktober 2026,"7,5 %"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,8,Arbeitslose Oktober 2026,61.320
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,9,Bundesland,Niedersachsen
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,9,Arbeitslosenquote 2025 (Jahresdurchschnitt),"6,1 %"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,9,Arbeitslosenquote Oktober 2026,"6,0 %"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,9,Arbeitslose Oktober 2026,271.900
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,10,Bundesland,Nordrhein-Westfalen
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,10,Arbeitslosenquote 2025 (Jahresdurchschnitt),"7,8 %"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,10,Arbeitslosenquote Oktober 2026,"7,8 %"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,10,Arbeitslose Oktober 2026,784.580
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,11,Bundesland,Rheinland-Pfalz
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,11,Arbeitslosenquote 2025 (Jahresdurchschnitt),"5,5 %"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,11,Arbeitslosenquote Oktober 2026,"5,5 %"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,11,Arbeitslose Oktober 2026,125.700
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,12,Bundesland,Saarland
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,12,Arbeitslosenquote 2025 (Jahresdurchschnitt),"7,4 %"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,12,Arbeitslosenquote Oktober 2026,"7,3 %"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,12,Arbeitslose Oktober 2026,38.690
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,13,Bundesland,Sachsen
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,13,Arbeitslosenquote 2025 (Jahresdurchschnitt),"6,9 %"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,13,Arbeitslosenquote Oktober 2026,"7,1 %"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,13,Arbeitslose Oktober 2026,152.420
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,14,Bundesland,Sachsen-Anhalt
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,14,Arbeitslosenquote 2025 (Jahresdurchschnitt),"8,0 %"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,14,Arbeitslosenquote Oktober 2026,"7,9 %"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,14,Arbeitslose Oktober 2026,86.940
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,15,Bundesland,Schleswig-Holstein
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,15,Arbeitslosenquote 2025 (Jahresdurchschnitt),"5,9 %"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,15,Arbeitslosenquote Oktober 2026,"5,7 %"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,15,Arbeitslose Oktober 2026,93.360
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,16,Bundesland,Thüringen
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,16,Arbeitslosenquote 2025 (Jahresdurchschnitt),"6,4 %"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,16,Arbeitslosenquote Oktober 2026,"6,3 %"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,16,Arbeitslose Oktober 2026,68.680
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,17,Bundesland,Deutschland
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,17,Arbeitslosenquote 2025 (Jahresdurchschnitt),"6,3 %"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,17,Arbeitslosenquote Oktober 2026,"6,3 %"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland,17,Arbeitslose Oktober 2026,2.955.000
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,1,Bundesland,Baden-Württemberg
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,1,Gewerbliche Existenzgründungen 2025,31.479
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,1,Gründungsintensität 2025 (je 10.000 Erwerbsfähige),"45,8"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,1,Eintritte Gründungszuschuss 2025,3.623
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,2,Bundesland,Bayern
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,2,Gewerbliche Existenzgründungen 2025,37.752
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,2,Gründungsintensität 2025 (je 10.000 Erwerbsfähige),"46,3"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,2,Eintritte Gründungszuschuss 2025,5.337
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,3,Bundesland,Berlin
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,3,Gewerbliche Existenzgründungen 2025,23.264
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,3,Gründungsintensität 2025 (je 10.000 Erwerbsfähige),"98,2"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,3,Eintritte Gründungszuschuss 2025,2.185
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,4,Bundesland,Brandenburg
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,4,Gewerbliche Existenzgründungen 2025,8.361
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,4,Gründungsintensität 2025 (je 10.000 Erwerbsfähige),"56,9"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,4,Eintritte Gründungszuschuss 2025,790
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,5,Bundesland,Bremen
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,5,Gewerbliche Existenzgründungen 2025,2.555
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,5,Gründungsintensität 2025 (je 10.000 Erwerbsfähige),"58,6"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,5,Eintritte Gründungszuschuss 2025,202
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,6,Bundesland,Hamburg
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,6,Gewerbliche Existenzgründungen 2025,11.383
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,6,Gründungsintensität 2025 (je 10.000 Erwerbsfähige),"94,1"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,6,Eintritte Gründungszuschuss 2025,1.154
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,7,Bundesland,Hessen
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,7,Gewerbliche Existenzgründungen 2025,23.523
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,7,Gründungsintensität 2025 (je 10.000 Erwerbsfähige),"61,1"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,7,Eintritte Gründungszuschuss 2025,2.107
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,8,Bundesland,Mecklenburg-Vorpommern
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,8,Gewerbliche Existenzgründungen 2025,4.042
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,8,Gründungsintensität 2025 (je 10.000 Erwerbsfähige),"45,3"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,8,Eintritte Gründungszuschuss 2025,501
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,9,Bundesland,Niedersachsen
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,9,Gewerbliche Existenzgründungen 2025,25.256
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,9,Gründungsintensität 2025 (je 10.000 Erwerbsfähige),"52,6"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,9,Eintritte Gründungszuschuss 2025,2.578
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,10,Bundesland,Nordrhein-Westfalen
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,10,Gewerbliche Existenzgründungen 2025,62.853
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,10,Gründungsintensität 2025 (je 10.000 Erwerbsfähige),"57,2"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,10,Eintritte Gründungszuschuss 2025,5.833
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,11,Bundesland,Rheinland-Pfalz
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,11,Gewerbliche Existenzgründungen 2025,14.167
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,11,Gründungsintensität 2025 (je 10.000 Erwerbsfähige),"57,2"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,11,Eintritte Gründungszuschuss 2025,1.310
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,12,Bundesland,Saarland
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,12,Gewerbliche Existenzgründungen 2025,2.882
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,12,Gründungsintensität 2025 (je 10.000 Erwerbsfähige),"48,1"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,12,Eintritte Gründungszuschuss 2025,249
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,13,Bundesland,Sachsen
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,13,Gewerbliche Existenzgründungen 2025,10.246
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,13,Gründungsintensität 2025 (je 10.000 Erwerbsfähige),"44,6"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,13,Eintritte Gründungszuschuss 2025,1.256
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,14,Bundesland,Sachsen-Anhalt
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,14,Gewerbliche Existenzgründungen 2025,4.646
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,14,Gründungsintensität 2025 (je 10.000 Erwerbsfähige),"38,4"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,14,Eintritte Gründungszuschuss 2025,592
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,15,Bundesland,Schleswig-Holstein
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,15,Gewerbliche Existenzgründungen 2025,10.034
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,15,Gründungsintensität 2025 (je 10.000 Erwerbsfähige),"56,8"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,15,Eintritte Gründungszuschuss 2025,998
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,16,Bundesland,Thüringen
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,16,Gewerbliche Existenzgründungen 2025,4.626
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,16,Gründungsintensität 2025 (je 10.000 Erwerbsfähige),"38,9"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,16,Eintritte Gründungszuschuss 2025,565
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,17,Bundesland,Deutschland
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,17,Gewerbliche Existenzgründungen 2025,277.070
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,17,Gründungsintensität 2025 (je 10.000 Erwerbsfähige),"54,8"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,05-wo-wird-je-bundesland-am-meisten-gegruendet,17,Eintritte Gründungszuschuss 2025,29.281
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,1,Land,Bayern
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,1,Wert,"16,9"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,1,Land,Niedersachsen
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,1,Wert,"9,4"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,2,Land,Baden-Württemberg
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,2,Wert,"12,3"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,2,Land,Brandenburg
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,2,Wert,"9,1"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,3,Land,Hamburg
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,3,Wert,"12,3"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,3,Land,Sachsen
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,3,Wert,"8,4"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,4,Land,Rheinland-Pfalz
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,4,Wert,"10,4"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,4,Land,Thüringen
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,4,Wert,"8,0"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,5,Land,Schleswig-Holstein
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,5,Wert,"10,4"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,5,Land,Mecklenburg-Vorpommern
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,5,Wert,"7,6"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,6,Land,Hessen
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,6,Wert,"10,2"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,6,Land,Nordrhein-Westfalen
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,6,Wert,"7,4"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,7,Land,Berlin
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,7,Wert,"10,0"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,7,Land,Sachsen-Anhalt
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,7,Wert,"6,7"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,8,Land,Deutschland
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,8,Wert,"9,9"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,8,Land,Saarland
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,8,Wert,"6,3"
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,9,Land,
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,9,Wert,
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,9,Land,Bremen
+nach-der-bundeswehr-in-den-bundeslaendern-2026,06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze,9,Wert,"4,7"
+neuer-wehrdienst-2026,01-kurzfassung,1,Kennzahl,Dauer freiwilliger Wehrdienst
+neuer-wehrdienst-2026,01-kurzfassung,1,Wert,"6 bis 11 Monate , die ersten 6 Monate Probezeit"
+neuer-wehrdienst-2026,01-kurzfassung,1,Fundstelle,§ 58b Abs. 1 und 2 SG
+neuer-wehrdienst-2026,01-kurzfassung,2,Kennzahl,Wehrsoldgrundbetrag (Wehrsoldgruppe 1)
+neuer-wehrdienst-2026,01-kurzfassung,2,Wert,"2.600 € monatlich, plus 115 € je Kind"
+neuer-wehrdienst-2026,01-kurzfassung,2,Fundstelle,§ 4 WSG mit Anlage
+neuer-wehrdienst-2026,01-kurzfassung,3,Kennzahl,Entlassungsgeld FWDL
+neuer-wehrdienst-2026,01-kurzfassung,3,Wert,"100 € je Monat, nur bei mehr als sechs Monaten"
+neuer-wehrdienst-2026,01-kurzfassung,3,Fundstelle,§ 8 Abs. 1 und 2 WSG
+neuer-wehrdienst-2026,01-kurzfassung,4,Kennzahl,Kleinstes Budget nach dem Dienst (SaZ 1)
+neuer-wehrdienst-2026,01-kurzfassung,4,Wert,1.200 €
+neuer-wehrdienst-2026,01-kurzfassung,4,Fundstelle,§ 19 Abs. 2 Satz 1 Nr. 1 BFöV
+neuer-wehrdienst-2026,01-kurzfassung,5,Kennzahl,Führerschein-Zuschuss ab zwölf Monaten Dienst
+neuer-wehrdienst-2026,01-kurzfassung,5,Wert,bis 3.500 € (B) oder bis 5.000 € (C/C1)
+neuer-wehrdienst-2026,01-kurzfassung,5,Fundstelle,"§§ 31b, 31c SG"
+neuer-wehrdienst-2026,02-welche-drei-wege-fuehren-in-den-neuen-wehrdienst,1,,Dauer
+neuer-wehrdienst-2026,02-welche-drei-wege-fuehren-in-den-neuen-wehrdienst,1,Freiwilliger Wehrdienst (FWDL),6 bis 11 Monate (§ 58b Abs. 1 SG)
+neuer-wehrdienst-2026,02-welche-drei-wege-fuehren-in-den-neuen-wehrdienst,1,SaZ kurz,12 Monate bis unter 4 Jahre
+neuer-wehrdienst-2026,02-welche-drei-wege-fuehren-in-den-neuen-wehrdienst,1,SaZ ab vier Jahren,"4 bis 25 Jahre, in Sanitätslaufbahnen bis 30 Jahre (§ 40 Abs. 1 SG)"
+neuer-wehrdienst-2026,02-welche-drei-wege-fuehren-in-den-neuen-wehrdienst,2,,"Probezeit, Austritt"
+neuer-wehrdienst-2026,02-welche-drei-wege-fuehren-in-den-neuen-wehrdienst,2,Freiwilliger Wehrdienst (FWDL),"6 Monate, Entlassung auf schriftlichen Antrag zum 15. oder Letzten eines Monats, in den ersten fünf Monaten einen Monat vorher beantragen (§ 58h Abs. 2 SG)"
+neuer-wehrdienst-2026,02-welche-drei-wege-fuehren-in-den-neuen-wehrdienst,2,SaZ kurz,Widerruf in den ersten sechs Monaten mit Monatsfrist (laut Wehrbeauftragtem)
+neuer-wehrdienst-2026,02-welche-drei-wege-fuehren-in-den-neuen-wehrdienst,2,SaZ ab vier Jahren,wie SaZ kurz
+neuer-wehrdienst-2026,02-welche-drei-wege-fuehren-in-den-neuen-wehrdienst,3,,Geld im Dienst
+neuer-wehrdienst-2026,02-welche-drei-wege-fuehren-in-den-neuen-wehrdienst,3,Freiwilliger Wehrdienst (FWDL),Wehrsold 2.600 € bis 2.650 € (§ 4 WSG)
+neuer-wehrdienst-2026,02-welche-drei-wege-fuehren-in-den-neuen-wehrdienst,3,SaZ kurz,Besoldung als SaZ
+neuer-wehrdienst-2026,02-welche-drei-wege-fuehren-in-den-neuen-wehrdienst,3,SaZ ab vier Jahren,Besoldung als SaZ
+neuer-wehrdienst-2026,02-welche-drei-wege-fuehren-in-den-neuen-wehrdienst,4,,Arbeitslosenversicherung
+neuer-wehrdienst-2026,02-welche-drei-wege-fuehren-in-den-neuen-wehrdienst,4,Freiwilliger Wehrdienst (FWDL),pflichtversichert (§ 26 Abs. 1 Nr. 2 SGB III)
+neuer-wehrdienst-2026,02-welche-drei-wege-fuehren-in-den-neuen-wehrdienst,4,SaZ kurz,versicherungsfrei (§ 27 Abs. 1 Nr. 1 SGB III)
+neuer-wehrdienst-2026,02-welche-drei-wege-fuehren-in-den-neuen-wehrdienst,4,SaZ ab vier Jahren,versicherungsfrei
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,1,Leistung,Entlassungsgeld
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,1,FWDL 6 bis 11 Monate,100 € je Monat bei mehr als 6 Monaten (§ 8 WSG)
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,1,SaZ 1 (12 bis unter 24 Monate),nein
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,1,SaZ 2,nein
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,1,SaZ 3,nein
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,1,SaZ 4,nein
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,2,Leistung,Übergangsbeihilfe (Vielfaches der letzten Dienstbezüge)
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,2,FWDL 6 bis 11 Monate,nein
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,2,SaZ 1 (12 bis unter 24 Monate),"1,5-fach, ab 18 Monaten 1,8-fach"
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,2,SaZ 2,2-fach
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,2,SaZ 3,2-fach
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,2,SaZ 4,4-fach
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,3,Leistung,Übergangsgebührnisse (75 %)
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,3,FWDL 6 bis 11 Monate,nein
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,3,SaZ 1 (12 bis unter 24 Monate),1 Monat
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,3,SaZ 2,2 Monate
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,3,SaZ 3,3 Monate
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,3,SaZ 4,12 Monate
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,4,Leistung,Förderungsdauer und Budget
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,4,FWDL 6 bis 11 Monate,kein Anspruch
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,4,SaZ 1 (12 bis unter 24 Monate),"1 Monat, 1.200 €"
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,4,SaZ 2,"2 Monate, 2.400 €"
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,4,SaZ 3,"3 Monate, 3.600 €"
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,4,SaZ 4,"12 Monate, 5.000 €"
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,5,Leistung,Führerschein-Zuschuss
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,5,FWDL 6 bis 11 Monate,nein (Dienst unter 12 Monaten)
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,5,SaZ 1 (12 bis unter 24 Monate),bis 3.500 € (B) oder 5.000 € (C/C1)
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,5,SaZ 2,ebenso
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,5,SaZ 3,ebenso
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,5,SaZ 4,ebenso
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,6,Leistung,Arbeitslosenbeihilfe
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,6,FWDL 6 bis 11 Monate,nein
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,6,SaZ 1 (12 bis unter 24 Monate),nein (erst ab 2 Jahren)
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,6,SaZ 2,"ja, höchstens 180 Tage bei genau 2 Jahren"
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,6,SaZ 3,ja
+neuer-wehrdienst-2026,03-was-steht-fwdl-und-saz-nach-dem-dienst-zu,6,SaZ 4,"ja, meist durch Übergangsgebührnisse aufgezehrt"
+neuer-wehrdienst-2026,04-was-zeigen-die-ersten-zahlen-zum-neuen-wehrdienst,1,Kennzahl,FWDL-Dienstantritte 2025
+neuer-wehrdienst-2026,04-was-zeigen-die-ersten-zahlen-zum-neuen-wehrdienst,1,Wert,11.905 (2024: 9.156; 2023: 8.801)
+neuer-wehrdienst-2026,04-was-zeigen-die-ersten-zahlen-zum-neuen-wehrdienst,1,Quelle,"Wehrbeauftragter 2025, S. 35"
+neuer-wehrdienst-2026,04-was-zeigen-die-ersten-zahlen-zum-neuen-wehrdienst,2,Kennzahl,FWDL im Bestand Ende 2025
+neuer-wehrdienst-2026,04-was-zeigen-die-ersten-zahlen-zum-neuen-wehrdienst,2,Wert,12.169 (2024: 10.119; 2023: 9.642)
+neuer-wehrdienst-2026,04-was-zeigen-die-ersten-zahlen-zum-neuen-wehrdienst,2,Quelle,"Wehrbeauftragter 2025, S. 35"
+neuer-wehrdienst-2026,04-was-zeigen-die-ersten-zahlen-zum-neuen-wehrdienst,3,Kennzahl,Abbruchquote FWDL in der Probezeit 2025
+neuer-wehrdienst-2026,04-was-zeigen-die-ersten-zahlen-zum-neuen-wehrdienst,3,Wert,rund 19 % (2024: rund 24 %)
+neuer-wehrdienst-2026,04-was-zeigen-die-ersten-zahlen-zum-neuen-wehrdienst,3,Quelle,"Wehrbeauftragter 2025, S. 35"
+neuer-wehrdienst-2026,04-was-zeigen-die-ersten-zahlen-zum-neuen-wehrdienst,4,Kennzahl,"FWDL, die sich als SaZ verpflichteten"
+neuer-wehrdienst-2026,04-was-zeigen-die-ersten-zahlen-zum-neuen-wehrdienst,4,Wert,3.129 (2024: 2.562; 2023: 2.164)
+neuer-wehrdienst-2026,04-was-zeigen-die-ersten-zahlen-zum-neuen-wehrdienst,4,Quelle,"Wehrbeauftragter 2025, S. 26 und 35"
+neuer-wehrdienst-2026,04-was-zeigen-die-ersten-zahlen-zum-neuen-wehrdienst,5,Kennzahl,Ziel 2026 Freiwillige unter zwei Jahren
+neuer-wehrdienst-2026,04-was-zeigen-die-ersten-zahlen-zum-neuen-wehrdienst,5,Wert,20.000
+neuer-wehrdienst-2026,04-was-zeigen-die-ersten-zahlen-zum-neuen-wehrdienst,5,Quelle,"BT-Drs. 21/3077, S. 2"
+neuer-wehrdienst-2026,04-was-zeigen-die-ersten-zahlen-zum-neuen-wehrdienst,6,Kennzahl,Wehrdienst Leistende im Jahresdurchschnitt 2026
+neuer-wehrdienst-2026,04-was-zeigen-die-ersten-zahlen-zum-neuen-wehrdienst,6,Wert,12.500
+neuer-wehrdienst-2026,04-was-zeigen-die-ersten-zahlen-zum-neuen-wehrdienst,6,Quelle,"Haushalt 2026, Epl. 14, S. 176"
+neuer-wehrdienst-2026,04-was-zeigen-die-ersten-zahlen-zum-neuen-wehrdienst,7,Kennzahl,Planstellen 2026 für den Neuen Wehrdienst
+neuer-wehrdienst-2026,04-was-zeigen-die-ersten-zahlen-zum-neuen-wehrdienst,7,Wert,20.000 von rund 30.000 zusätzlichen
+neuer-wehrdienst-2026,04-was-zeigen-die-ersten-zahlen-zum-neuen-wehrdienst,7,Quelle,"Wehrbeauftragter 2025, S. 17"
+neuer-wehrdienst-2026,04-was-zeigen-die-ersten-zahlen-zum-neuen-wehrdienst,8,Kennzahl,Mehrausgaben WDModG
+neuer-wehrdienst-2026,04-was-zeigen-die-ersten-zahlen-zum-neuen-wehrdienst,8,Wert,"495 Mio. € (2026), rund 603 Mio. € (2027), 713 Mio. € (2028), 849 Mio. € (2029)"
+neuer-wehrdienst-2026,04-was-zeigen-die-ersten-zahlen-zum-neuen-wehrdienst,8,Quelle,"BT-Drs. 21/3077, S. 2"
+personalmonitor-bundeswehr-2026,01-kurzfassung,1,Kennzahl,Aktive Soldatinnen und Soldaten Ende 2025
+personalmonitor-bundeswehr-2026,01-kurzfassung,1,Wert,184.194 (2024: 181.174)
+personalmonitor-bundeswehr-2026,01-kurzfassung,1,Fundstelle,"Wehrbeauftragter 2025, S. 18"
+personalmonitor-bundeswehr-2026,01-kurzfassung,2,Kennzahl,davon Soldatinnen und Soldaten auf Zeit
+personalmonitor-bundeswehr-2026,01-kurzfassung,2,Wert,"112.578 (61,1 %, eigene Berechnung)"
+personalmonitor-bundeswehr-2026,01-kurzfassung,2,Fundstelle,"Wehrbeauftragter 2025, S. 18"
+personalmonitor-bundeswehr-2026,01-kurzfassung,3,Kennzahl,Dienstantritte 2025
+personalmonitor-bundeswehr-2026,01-kurzfassung,3,Wert,25.006 (2024: 20.286; 2023: 18.802)
+personalmonitor-bundeswehr-2026,01-kurzfassung,3,Fundstelle,"Wehrbeauftragter 2025, S. 24"
+personalmonitor-bundeswehr-2026,01-kurzfassung,4,Kennzahl,Abgänge 2025
+personalmonitor-bundeswehr-2026,01-kurzfassung,4,Wert,"21.924 , davon 4.505 Widerruf in der Probezeit"
+personalmonitor-bundeswehr-2026,01-kurzfassung,4,Fundstelle,"Wehrbeauftragter 2025, S. 24"
+personalmonitor-bundeswehr-2026,01-kurzfassung,5,Kennzahl,Zielkorridor 2035
+personalmonitor-bundeswehr-2026,01-kurzfassung,5,Wert,255.000 bis 270.000 aktive Soldaten
+personalmonitor-bundeswehr-2026,01-kurzfassung,5,Fundstelle,§ 91 Abs. 1 SG
+personalmonitor-bundeswehr-2026,02-wie-hat-sich-die-personalstaerke-der-bundeswehr-seit-2021-en,1,Stichtag,31.12.2021
+personalmonitor-bundeswehr-2026,02-wie-hat-sich-die-personalstaerke-der-bundeswehr-seit-2021-en,1,Aktive gesamt,183.695
+personalmonitor-bundeswehr-2026,02-wie-hat-sich-die-personalstaerke-der-bundeswehr-seit-2021-en,1,Berufssoldaten,Lücke
+personalmonitor-bundeswehr-2026,02-wie-hat-sich-die-personalstaerke-der-bundeswehr-seit-2021-en,1,Soldaten auf Zeit,Lücke
+personalmonitor-bundeswehr-2026,02-wie-hat-sich-die-personalstaerke-der-bundeswehr-seit-2021-en,1,FWDL,Lücke
+personalmonitor-bundeswehr-2026,02-wie-hat-sich-die-personalstaerke-der-bundeswehr-seit-2021-en,1,Quelle,"Jahresbericht 2022, S. 45"
+personalmonitor-bundeswehr-2026,02-wie-hat-sich-die-personalstaerke-der-bundeswehr-seit-2021-en,2,Stichtag,31.12.2022
+personalmonitor-bundeswehr-2026,02-wie-hat-sich-die-personalstaerke-der-bundeswehr-seit-2021-en,2,Aktive gesamt,183.051
+personalmonitor-bundeswehr-2026,02-wie-hat-sich-die-personalstaerke-der-bundeswehr-seit-2021-en,2,Berufssoldaten,56.729
+personalmonitor-bundeswehr-2026,02-wie-hat-sich-die-personalstaerke-der-bundeswehr-seit-2021-en,2,Soldaten auf Zeit,116.872
+personalmonitor-bundeswehr-2026,02-wie-hat-sich-die-personalstaerke-der-bundeswehr-seit-2021-en,2,FWDL,9.450
+personalmonitor-bundeswehr-2026,02-wie-hat-sich-die-personalstaerke-der-bundeswehr-seit-2021-en,2,Quelle,"Jahresbericht 2022, S. 45"
+personalmonitor-bundeswehr-2026,02-wie-hat-sich-die-personalstaerke-der-bundeswehr-seit-2021-en,3,Stichtag,31.12.2023
+personalmonitor-bundeswehr-2026,02-wie-hat-sich-die-personalstaerke-der-bundeswehr-seit-2021-en,3,Aktive gesamt,181.514
+personalmonitor-bundeswehr-2026,02-wie-hat-sich-die-personalstaerke-der-bundeswehr-seit-2021-en,3,Berufssoldaten,57.410
+personalmonitor-bundeswehr-2026,02-wie-hat-sich-die-personalstaerke-der-bundeswehr-seit-2021-en,3,Soldaten auf Zeit,114.162
+personalmonitor-bundeswehr-2026,02-wie-hat-sich-die-personalstaerke-der-bundeswehr-seit-2021-en,3,FWDL,9.942
+personalmonitor-bundeswehr-2026,02-wie-hat-sich-die-personalstaerke-der-bundeswehr-seit-2021-en,3,Quelle,"Jahresbericht 2023, S. 38"
+personalmonitor-bundeswehr-2026,02-wie-hat-sich-die-personalstaerke-der-bundeswehr-seit-2021-en,4,Stichtag,31.12.2024
+personalmonitor-bundeswehr-2026,02-wie-hat-sich-die-personalstaerke-der-bundeswehr-seit-2021-en,4,Aktive gesamt,181.174
+personalmonitor-bundeswehr-2026,02-wie-hat-sich-die-personalstaerke-der-bundeswehr-seit-2021-en,4,Berufssoldaten,57.813
+personalmonitor-bundeswehr-2026,02-wie-hat-sich-die-personalstaerke-der-bundeswehr-seit-2021-en,4,Soldaten auf Zeit,113.019
+personalmonitor-bundeswehr-2026,02-wie-hat-sich-die-personalstaerke-der-bundeswehr-seit-2021-en,4,FWDL,10.342
+personalmonitor-bundeswehr-2026,02-wie-hat-sich-die-personalstaerke-der-bundeswehr-seit-2021-en,4,Quelle,"Jahresbericht 2024, S. 53"
+personalmonitor-bundeswehr-2026,02-wie-hat-sich-die-personalstaerke-der-bundeswehr-seit-2021-en,5,Stichtag,31.12.2025
+personalmonitor-bundeswehr-2026,02-wie-hat-sich-die-personalstaerke-der-bundeswehr-seit-2021-en,5,Aktive gesamt,184.194
+personalmonitor-bundeswehr-2026,02-wie-hat-sich-die-personalstaerke-der-bundeswehr-seit-2021-en,5,Berufssoldaten,59.447
+personalmonitor-bundeswehr-2026,02-wie-hat-sich-die-personalstaerke-der-bundeswehr-seit-2021-en,5,Soldaten auf Zeit,112.578
+personalmonitor-bundeswehr-2026,02-wie-hat-sich-die-personalstaerke-der-bundeswehr-seit-2021-en,5,FWDL,12.169
+personalmonitor-bundeswehr-2026,02-wie-hat-sich-die-personalstaerke-der-bundeswehr-seit-2021-en,5,Quelle,"Jahresbericht 2025, S. 18"
+personalmonitor-bundeswehr-2026,03-wer-kommt-neu-in-die-bundeswehr,1,Jahr,2021
+personalmonitor-bundeswehr-2026,03-wer-kommt-neu-in-die-bundeswehr,1,Bewerbungen,49.236
+personalmonitor-bundeswehr-2026,03-wer-kommt-neu-in-die-bundeswehr,1,Dienstantritte,Lücke
+personalmonitor-bundeswehr-2026,03-wer-kommt-neu-in-die-bundeswehr,1,davon FWDL ohne Heimatschutz,Lücke
+personalmonitor-bundeswehr-2026,03-wer-kommt-neu-in-die-bundeswehr,1,Quelle,"Jahresbericht 2025, S. 21"
+personalmonitor-bundeswehr-2026,03-wer-kommt-neu-in-die-bundeswehr,2,Jahr,2022
+personalmonitor-bundeswehr-2026,03-wer-kommt-neu-in-die-bundeswehr,2,Bewerbungen,43.908
+personalmonitor-bundeswehr-2026,03-wer-kommt-neu-in-die-bundeswehr,2,Dienstantritte,Lücke
+personalmonitor-bundeswehr-2026,03-wer-kommt-neu-in-die-bundeswehr,2,davon FWDL ohne Heimatschutz,Lücke
+personalmonitor-bundeswehr-2026,03-wer-kommt-neu-in-die-bundeswehr,2,Quelle,"Jahresbericht 2025, S. 21"
+personalmonitor-bundeswehr-2026,03-wer-kommt-neu-in-die-bundeswehr,3,Jahr,2023
+personalmonitor-bundeswehr-2026,03-wer-kommt-neu-in-die-bundeswehr,3,Bewerbungen,43.195
+personalmonitor-bundeswehr-2026,03-wer-kommt-neu-in-die-bundeswehr,3,Dienstantritte,18.802
+personalmonitor-bundeswehr-2026,03-wer-kommt-neu-in-die-bundeswehr,3,davon FWDL ohne Heimatschutz,8.801
+personalmonitor-bundeswehr-2026,03-wer-kommt-neu-in-die-bundeswehr,3,Quelle,"Jahresbericht 2025, S. 21, 24, 35"
+personalmonitor-bundeswehr-2026,03-wer-kommt-neu-in-die-bundeswehr,4,Jahr,2024
+personalmonitor-bundeswehr-2026,03-wer-kommt-neu-in-die-bundeswehr,4,Bewerbungen,51.200
+personalmonitor-bundeswehr-2026,03-wer-kommt-neu-in-die-bundeswehr,4,Dienstantritte,20.286
+personalmonitor-bundeswehr-2026,03-wer-kommt-neu-in-die-bundeswehr,4,davon FWDL ohne Heimatschutz,9.156
+personalmonitor-bundeswehr-2026,03-wer-kommt-neu-in-die-bundeswehr,4,Quelle,"Jahresbericht 2025, S. 21, 24, 35"
+personalmonitor-bundeswehr-2026,03-wer-kommt-neu-in-die-bundeswehr,5,Jahr,2025
+personalmonitor-bundeswehr-2026,03-wer-kommt-neu-in-die-bundeswehr,5,Bewerbungen,55.958
+personalmonitor-bundeswehr-2026,03-wer-kommt-neu-in-die-bundeswehr,5,Dienstantritte,25.006
+personalmonitor-bundeswehr-2026,03-wer-kommt-neu-in-die-bundeswehr,5,davon FWDL ohne Heimatschutz,11.905
+personalmonitor-bundeswehr-2026,03-wer-kommt-neu-in-die-bundeswehr,5,Quelle,"Jahresbericht 2025, S. 21, 24, 35"
+personalmonitor-bundeswehr-2026,04-wer-bleibt-und-verlaengert,1,Kennzahl,Weiterverpflichtungen von SaZ
+personalmonitor-bundeswehr-2026,04-wer-bleibt-und-verlaengert,1,2023,8.072
+personalmonitor-bundeswehr-2026,04-wer-bleibt-und-verlaengert,1,2024,10.110
+personalmonitor-bundeswehr-2026,04-wer-bleibt-und-verlaengert,1,2025,10.128
+personalmonitor-bundeswehr-2026,04-wer-bleibt-und-verlaengert,1,Quelle,"Jahresbericht 2025, S. 25"
+personalmonitor-bundeswehr-2026,04-wer-bleibt-und-verlaengert,2,Kennzahl,Erstverpflichtungen von FWDL als SaZ
+personalmonitor-bundeswehr-2026,04-wer-bleibt-und-verlaengert,2,2023,2.164
+personalmonitor-bundeswehr-2026,04-wer-bleibt-und-verlaengert,2,2024,2.562
+personalmonitor-bundeswehr-2026,04-wer-bleibt-und-verlaengert,2,2025,3.129
+personalmonitor-bundeswehr-2026,04-wer-bleibt-und-verlaengert,2,Quelle,"Jahresbericht 2025, S. 26, 35"
+personalmonitor-bundeswehr-2026,04-wer-bleibt-und-verlaengert,3,Kennzahl,Ernennungen zum Berufssoldaten
+personalmonitor-bundeswehr-2026,04-wer-bleibt-und-verlaengert,3,2023,k. A.
+personalmonitor-bundeswehr-2026,04-wer-bleibt-und-verlaengert,3,2024,2.520
+personalmonitor-bundeswehr-2026,04-wer-bleibt-und-verlaengert,3,2025,3.902
+personalmonitor-bundeswehr-2026,04-wer-bleibt-und-verlaengert,3,Quelle,"Jahresbericht 2025, S. 26"
+personalmonitor-bundeswehr-2026,04-wer-bleibt-und-verlaengert,4,Kennzahl,SaZ mit 25 Jahren Verpflichtung (Mitte des Jahres)
+personalmonitor-bundeswehr-2026,04-wer-bleibt-und-verlaengert,4,2023,k. A.
+personalmonitor-bundeswehr-2026,04-wer-bleibt-und-verlaengert,4,2024,k. A.
+personalmonitor-bundeswehr-2026,04-wer-bleibt-und-verlaengert,4,2025,8.602 (2015: 667)
+personalmonitor-bundeswehr-2026,04-wer-bleibt-und-verlaengert,4,Quelle,"Jahresbericht 2025, S. 18"
+personalmonitor-bundeswehr-2026,05-wie-viele-soldaten-haben-2025-die-bundeswehr-verlassen,1,Abbruchquote in der Probezeit,Einstellungsjahr 2023
+personalmonitor-bundeswehr-2026,05-wie-viele-soldaten-haben-2025-die-bundeswehr-verlassen,1,Wert,27 %
+personalmonitor-bundeswehr-2026,05-wie-viele-soldaten-haben-2025-die-bundeswehr-verlassen,1,Status,endgültig
+personalmonitor-bundeswehr-2026,05-wie-viele-soldaten-haben-2025-die-bundeswehr-verlassen,2,Abbruchquote in der Probezeit,Einstellungsjahr 2024
+personalmonitor-bundeswehr-2026,05-wie-viele-soldaten-haben-2025-die-bundeswehr-verlassen,2,Wert,"25,2 % (4.736 Widerrufe, 376 Entlassungen bei 20.286 Antritten)"
+personalmonitor-bundeswehr-2026,05-wie-viele-soldaten-haben-2025-die-bundeswehr-verlassen,2,Status,endgültig
+personalmonitor-bundeswehr-2026,05-wie-viele-soldaten-haben-2025-die-bundeswehr-verlassen,3,Abbruchquote in der Probezeit,Einstellungsjahr 2025
+personalmonitor-bundeswehr-2026,05-wie-viele-soldaten-haben-2025-die-bundeswehr-verlassen,3,Wert,"19,8 %"
+personalmonitor-bundeswehr-2026,05-wie-viele-soldaten-haben-2025-die-bundeswehr-verlassen,3,Status,"vorläufig, Probezeiten liefen bis Juni 2026"
+personalmonitor-bundeswehr-2026,05-wie-viele-soldaten-haben-2025-die-bundeswehr-verlassen,4,Abbruchquote in der Probezeit,FWDL 2025
+personalmonitor-bundeswehr-2026,05-wie-viele-soldaten-haben-2025-die-bundeswehr-verlassen,4,Wert,rund 19 % (2024: rund 24 %)
+personalmonitor-bundeswehr-2026,05-wie-viele-soldaten-haben-2025-die-bundeswehr-verlassen,4,Status,"Jahresbericht 2025, S. 35"
+personalmonitor-bundeswehr-2026,06-reserve-und-ziele-fuer-die-personalstaerke-bis-2035,1,Kennzahl,Beorderte Reservistendienst Leistende
+personalmonitor-bundeswehr-2026,06-reserve-und-ziele-fuer-die-personalstaerke-bis-2035,1,2023,43.065
+personalmonitor-bundeswehr-2026,06-reserve-und-ziele-fuer-die-personalstaerke-bis-2035,1,2024,49.244
+personalmonitor-bundeswehr-2026,06-reserve-und-ziele-fuer-die-personalstaerke-bis-2035,1,2025,60.192
+personalmonitor-bundeswehr-2026,06-reserve-und-ziele-fuer-die-personalstaerke-bis-2035,1,Quelle,"Jahresbericht 2025, S. 36"
+personalmonitor-bundeswehr-2026,06-reserve-und-ziele-fuer-die-personalstaerke-bis-2035,2,Kennzahl,Reservisten mit Dienstleistungen
+personalmonitor-bundeswehr-2026,06-reserve-und-ziele-fuer-die-personalstaerke-bis-2035,2,2023,19.084
+personalmonitor-bundeswehr-2026,06-reserve-und-ziele-fuer-die-personalstaerke-bis-2035,2,2024,20.074
+personalmonitor-bundeswehr-2026,06-reserve-und-ziele-fuer-die-personalstaerke-bis-2035,2,2025,21.291
+personalmonitor-bundeswehr-2026,06-reserve-und-ziele-fuer-die-personalstaerke-bis-2035,2,Quelle,"Jahresbericht 2025, S. 36"
+personalmonitor-bundeswehr-2026,06-reserve-und-ziele-fuer-die-personalstaerke-bis-2035,3,Kennzahl,Dienstleistungen
+personalmonitor-bundeswehr-2026,06-reserve-und-ziele-fuer-die-personalstaerke-bis-2035,3,2023,45.194
+personalmonitor-bundeswehr-2026,06-reserve-und-ziele-fuer-die-personalstaerke-bis-2035,3,2024,47.264
+personalmonitor-bundeswehr-2026,06-reserve-und-ziele-fuer-die-personalstaerke-bis-2035,3,2025,50.245
+personalmonitor-bundeswehr-2026,06-reserve-und-ziele-fuer-die-personalstaerke-bis-2035,3,Quelle,"Jahresbericht 2025, S. 36"
+studium-nach-der-bundeswehr-2026,01-kurzfassung,1,Kennzahl,Übergangsgebührnisse in einer geförderten Vollzeitmaßnahme
+studium-nach-der-bundeswehr-2026,01-kurzfassung,1,Wert,"100 % der letzten Dienstbezüge (75 % + 25 % Bildungszuschuss), Dienstbezüge vorher mit Faktor 0,9901 multipliziert"
+studium-nach-der-bundeswehr-2026,01-kurzfassung,1,Fundstelle,"§ 16 Abs. 3, § 104 Satz 3 SVG"
+studium-nach-der-bundeswehr-2026,01-kurzfassung,2,Kennzahl,Vollzeitform
+studium-nach-der-bundeswehr-2026,01-kurzfassung,2,Wert,mindestens 4 Tage und 25 Unterrichtsstunden je Woche à 45 Minuten
+studium-nach-der-bundeswehr-2026,01-kurzfassung,2,Fundstelle,§ 15 Abs. 4 BFöV
+studium-nach-der-bundeswehr-2026,01-kurzfassung,3,Kennzahl,Budget für Studiengebühren und Ausbildungsmittel
+studium-nach-der-bundeswehr-2026,01-kurzfassung,3,Wert,"1.200 € bis 21.000 € , mit Zuschlägen bis 24.000 €"
+studium-nach-der-bundeswehr-2026,01-kurzfassung,3,Fundstelle,§ 19 Abs. 2 BFöV
+studium-nach-der-bundeswehr-2026,01-kurzfassung,4,Kennzahl,Förderungsdauer nach Studium auf Bundeskosten (Wortlaut)
+studium-nach-der-bundeswehr-2026,01-kurzfassung,4,Wert,12 Monate (Fälle Abs. 5 Nr. 1 bis 8) bzw. 24 Monate (Nr. 9)
+studium-nach-der-bundeswehr-2026,01-kurzfassung,4,Fundstelle,§ 7 Abs. 10 Satz 1 SVG
+studium-nach-der-bundeswehr-2026,01-kurzfassung,5,Kennzahl,Militärische Studierende an der Universität der Bundeswehr München
+studium-nach-der-bundeswehr-2026,01-kurzfassung,5,Wert,2.732 (Stand Mai 2025)
+studium-nach-der-bundeswehr-2026,01-kurzfassung,5,Fundstelle,Factsheet UniBw M
+studium-nach-der-bundeswehr-2026,01-kurzfassung,6,Kennzahl,Studierende an der Helmut-Schmidt-Universität Hamburg
+studium-nach-der-bundeswehr-2026,01-kurzfassung,6,Wert,2.130 (Stand 31.12.2025)
+studium-nach-der-bundeswehr-2026,01-kurzfassung,6,Fundstelle,Zahlen Daten Fakten 2025
+studium-nach-der-bundeswehr-2026,02-vollzeit-oder-teilzeit-im-studium-die-teuerste-entscheidung,1,Merkmal,Übergangsgebührnisse
+studium-nach-der-bundeswehr-2026,02-vollzeit-oder-teilzeit-im-studium-die-teuerste-entscheidung,1,Vollzeitform,100 % (75 % + 25 %)
+studium-nach-der-bundeswehr-2026,02-vollzeit-oder-teilzeit-im-studium-die-teuerste-entscheidung,1,Teilzeitform,75 %
+studium-nach-der-bundeswehr-2026,02-vollzeit-oder-teilzeit-im-studium-die-teuerste-entscheidung,2,Merkmal,Lernmittelpauschale je sechs Monate
+studium-nach-der-bundeswehr-2026,02-vollzeit-oder-teilzeit-im-studium-die-teuerste-entscheidung,2,Vollzeitform,200 €
+studium-nach-der-bundeswehr-2026,02-vollzeit-oder-teilzeit-im-studium-die-teuerste-entscheidung,2,Teilzeitform,100 €
+studium-nach-der-bundeswehr-2026,02-vollzeit-oder-teilzeit-im-studium-die-teuerste-entscheidung,3,Merkmal,Verbrauch der Förderzeit
+studium-nach-der-bundeswehr-2026,02-vollzeit-oder-teilzeit-im-studium-die-teuerste-entscheidung,3,Vollzeitform,Gesamtdauer der Maßnahme
+studium-nach-der-bundeswehr-2026,02-vollzeit-oder-teilzeit-im-studium-die-teuerste-entscheidung,3,Teilzeitform,ebenfalls Gesamtdauer der Maßnahme
+studium-nach-der-bundeswehr-2026,02-vollzeit-oder-teilzeit-im-studium-die-teuerste-entscheidung,4,Merkmal,Fundstelle
+studium-nach-der-bundeswehr-2026,02-vollzeit-oder-teilzeit-im-studium-die-teuerste-entscheidung,4,Vollzeitform,"§ 16 Abs. 3 SVG, § 15 Abs. 4, § 21 Abs. 2 BFöV"
+studium-nach-der-bundeswehr-2026,02-vollzeit-oder-teilzeit-im-studium-die-teuerste-entscheidung,4,Teilzeitform,"§ 16 Abs. 3 SVG, § 21 Abs. 2, § 27 BFöV"
+studium-nach-der-bundeswehr-2026,03-studium-auf-kosten-des-bundes-und-das-verweisproblem-in-7-ab,1,Dienstzeit,1 bis unter 9 Jahre
+studium-nach-der-bundeswehr-2026,03-studium-auf-kosten-des-bundes-und-das-verweisproblem-in-7-ab,1,§ 7 Abs. 5 Nr.,Nr. 1 bis 8
+studium-nach-der-bundeswehr-2026,03-studium-auf-kosten-des-bundes-und-das-verweisproblem-in-7-ab,1,Förderungsdauer nach Wortlaut § 7 Abs. 10 Satz 1,12 Monate
+studium-nach-der-bundeswehr-2026,03-studium-auf-kosten-des-bundes-und-das-verweisproblem-in-7-ab,1,Regel laut Broschüre BF 02,12 Monate (unter 12 Jahren)
+studium-nach-der-bundeswehr-2026,03-studium-auf-kosten-des-bundes-und-das-verweisproblem-in-7-ab,2,Dienstzeit,9 bis unter 10 Jahre
+studium-nach-der-bundeswehr-2026,03-studium-auf-kosten-des-bundes-und-das-verweisproblem-in-7-ab,2,§ 7 Abs. 5 Nr.,Nr. 9
+studium-nach-der-bundeswehr-2026,03-studium-auf-kosten-des-bundes-und-das-verweisproblem-in-7-ab,2,Förderungsdauer nach Wortlaut § 7 Abs. 10 Satz 1,24 Monate
+studium-nach-der-bundeswehr-2026,03-studium-auf-kosten-des-bundes-und-das-verweisproblem-in-7-ab,2,Regel laut Broschüre BF 02,12 Monate
+studium-nach-der-bundeswehr-2026,03-studium-auf-kosten-des-bundes-und-das-verweisproblem-in-7-ab,3,Dienstzeit,10 bis unter 12 Jahre
+studium-nach-der-bundeswehr-2026,03-studium-auf-kosten-des-bundes-und-das-verweisproblem-in-7-ab,3,§ 7 Abs. 5 Nr.,Nr. 10 und 11
+studium-nach-der-bundeswehr-2026,03-studium-auf-kosten-des-bundes-und-das-verweisproblem-in-7-ab,3,Förderungsdauer nach Wortlaut § 7 Abs. 10 Satz 1,keine Regel
+studium-nach-der-bundeswehr-2026,03-studium-auf-kosten-des-bundes-und-das-verweisproblem-in-7-ab,3,Regel laut Broschüre BF 02,12 Monate
+studium-nach-der-bundeswehr-2026,03-studium-auf-kosten-des-bundes-und-das-verweisproblem-in-7-ab,4,Dienstzeit,12 Jahre und mehr
+studium-nach-der-bundeswehr-2026,03-studium-auf-kosten-des-bundes-und-das-verweisproblem-in-7-ab,4,§ 7 Abs. 5 Nr.,Nr. 12
+studium-nach-der-bundeswehr-2026,03-studium-auf-kosten-des-bundes-und-das-verweisproblem-in-7-ab,4,Förderungsdauer nach Wortlaut § 7 Abs. 10 Satz 1,keine Regel
+studium-nach-der-bundeswehr-2026,03-studium-auf-kosten-des-bundes-und-das-verweisproblem-in-7-ab,4,Regel laut Broschüre BF 02,24 Monate
+studium-nach-der-bundeswehr-2026,04-wie-viele-studieren-an-den-universitaeten-der-bundeswehr,1,Hochschule,Universität der Bundeswehr München
+studium-nach-der-bundeswehr-2026,04-wie-viele-studieren-an-den-universitaeten-der-bundeswehr,1,Studierende,"2.732 militärisch, 328 zivil"
+studium-nach-der-bundeswehr-2026,04-wie-viele-studieren-an-den-universitaeten-der-bundeswehr,1,Stand,Mai 2025
+studium-nach-der-bundeswehr-2026,04-wie-viele-studieren-an-den-universitaeten-der-bundeswehr,1,Quelle,Factsheet UniBw M
+studium-nach-der-bundeswehr-2026,04-wie-viele-studieren-an-den-universitaeten-der-bundeswehr,2,Hochschule,Helmut-Schmidt-Universität Hamburg
+studium-nach-der-bundeswehr-2026,04-wie-viele-studieren-an-den-universitaeten-der-bundeswehr,2,Studierende,"2.130 (Frauenanteil 22,9 %)"
+studium-nach-der-bundeswehr-2026,04-wie-viele-studieren-an-den-universitaeten-der-bundeswehr,2,Stand,31.12.2025
+studium-nach-der-bundeswehr-2026,04-wie-viele-studieren-an-den-universitaeten-der-bundeswehr,2,Quelle,Zahlen Daten Fakten 2025
+uebergangsgebuehrnisse-report-2026,01-kurzfassung,1,Kennzahl,"Haushaltsansatz 2026 Übergangsbeihilfen, Übergangsgebührnisse und Ausgleichsbezüge"
+uebergangsgebuehrnisse-report-2026,01-kurzfassung,1,Wert,"1.135,1 Mio. €"
+uebergangsgebuehrnisse-report-2026,01-kurzfassung,1,Fundstelle,"Bundeshaushalt 2026, Kap. 1403 Tit. 433 54"
+uebergangsgebuehrnisse-report-2026,01-kurzfassung,2,Kennzahl,Ist-Ausgaben 2020 im selben Titel
+uebergangsgebuehrnisse-report-2026,01-kurzfassung,2,Wert,"572,5 Mio. €"
+uebergangsgebuehrnisse-report-2026,01-kurzfassung,2,Fundstelle,"Bundeshaushalt 2022, Kap. 1403 Tit. 433 54"
+uebergangsgebuehrnisse-report-2026,01-kurzfassung,3,Kennzahl,Höhe der Übergangsgebührnisse
+uebergangsgebuehrnisse-report-2026,01-kurzfassung,3,Wert,"75 % der Dienstbezüge des letzten Monats, vorher mit dem Faktor 0,9901 multipliziert; in geförderter Vollzeitmaßnahme 25 % Bildungszuschuss dazu"
+uebergangsgebuehrnisse-report-2026,01-kurzfassung,3,Fundstelle,"§ 16 Abs. 3, § 104 SVG"
+uebergangsgebuehrnisse-report-2026,01-kurzfassung,4,Kennzahl,Bezugsdauer
+uebergangsgebuehrnisse-report-2026,01-kurzfassung,4,Wert,1 Monat (SaZ 1) bis 60 Monate (ab 12 Jahren)
+uebergangsgebuehrnisse-report-2026,01-kurzfassung,4,Fundstelle,§ 16 Abs. 2 SVG
+uebergangsgebuehrnisse-report-2026,01-kurzfassung,5,Kennzahl,Aufschub oder Unterbrechung
+uebergangsgebuehrnisse-report-2026,01-kurzfassung,5,Wert,"höchstens zweimal , zusammen bis 24 Monate"
+uebergangsgebuehrnisse-report-2026,01-kurzfassung,5,Fundstelle,§ 16 Abs. 6 Satz 2 SVG
+uebergangsgebuehrnisse-report-2026,02-wie-ist-der-sammeltitel-fuer-uebergangsgebuehrnisse-seit-202,1,Jahr,2020
+uebergangsgebuehrnisse-report-2026,02-wie-ist-der-sammeltitel-fuer-uebergangsgebuehrnisse-seit-202,1,Kap. 1403 Tit. 433 54,"572,475 Mio. €"
+uebergangsgebuehrnisse-report-2026,02-wie-ist-der-sammeltitel-fuer-uebergangsgebuehrnisse-seit-202,1,Art,Ist
+uebergangsgebuehrnisse-report-2026,02-wie-ist-der-sammeltitel-fuer-uebergangsgebuehrnisse-seit-202,1,Veränderung zum Vorjahr (eigene Berechnung),Ausgangsjahr
+uebergangsgebuehrnisse-report-2026,02-wie-ist-der-sammeltitel-fuer-uebergangsgebuehrnisse-seit-202,2,Jahr,2021
+uebergangsgebuehrnisse-report-2026,02-wie-ist-der-sammeltitel-fuer-uebergangsgebuehrnisse-seit-202,2,Kap. 1403 Tit. 433 54,"652,991 Mio. €"
+uebergangsgebuehrnisse-report-2026,02-wie-ist-der-sammeltitel-fuer-uebergangsgebuehrnisse-seit-202,2,Art,Ist
+uebergangsgebuehrnisse-report-2026,02-wie-ist-der-sammeltitel-fuer-uebergangsgebuehrnisse-seit-202,2,Veränderung zum Vorjahr (eigene Berechnung),"+14,1 %"
+uebergangsgebuehrnisse-report-2026,02-wie-ist-der-sammeltitel-fuer-uebergangsgebuehrnisse-seit-202,3,Jahr,2022
+uebergangsgebuehrnisse-report-2026,02-wie-ist-der-sammeltitel-fuer-uebergangsgebuehrnisse-seit-202,3,Kap. 1403 Tit. 433 54,"731,735 Mio. €"
+uebergangsgebuehrnisse-report-2026,02-wie-ist-der-sammeltitel-fuer-uebergangsgebuehrnisse-seit-202,3,Art,Ist
+uebergangsgebuehrnisse-report-2026,02-wie-ist-der-sammeltitel-fuer-uebergangsgebuehrnisse-seit-202,3,Veränderung zum Vorjahr (eigene Berechnung),"+12,1 %"
+uebergangsgebuehrnisse-report-2026,02-wie-ist-der-sammeltitel-fuer-uebergangsgebuehrnisse-seit-202,4,Jahr,2023
+uebergangsgebuehrnisse-report-2026,02-wie-ist-der-sammeltitel-fuer-uebergangsgebuehrnisse-seit-202,4,Kap. 1403 Tit. 433 54,"826,707 Mio. €"
+uebergangsgebuehrnisse-report-2026,02-wie-ist-der-sammeltitel-fuer-uebergangsgebuehrnisse-seit-202,4,Art,Ist
+uebergangsgebuehrnisse-report-2026,02-wie-ist-der-sammeltitel-fuer-uebergangsgebuehrnisse-seit-202,4,Veränderung zum Vorjahr (eigene Berechnung),"+13,0 %"
+uebergangsgebuehrnisse-report-2026,02-wie-ist-der-sammeltitel-fuer-uebergangsgebuehrnisse-seit-202,5,Jahr,2024
+uebergangsgebuehrnisse-report-2026,02-wie-ist-der-sammeltitel-fuer-uebergangsgebuehrnisse-seit-202,5,Kap. 1403 Tit. 433 54,"972,544 Mio. €"
+uebergangsgebuehrnisse-report-2026,02-wie-ist-der-sammeltitel-fuer-uebergangsgebuehrnisse-seit-202,5,Art,Ist
+uebergangsgebuehrnisse-report-2026,02-wie-ist-der-sammeltitel-fuer-uebergangsgebuehrnisse-seit-202,5,Veränderung zum Vorjahr (eigene Berechnung),"+17,6 %"
+uebergangsgebuehrnisse-report-2026,02-wie-ist-der-sammeltitel-fuer-uebergangsgebuehrnisse-seit-202,6,Jahr,2025
+uebergangsgebuehrnisse-report-2026,02-wie-ist-der-sammeltitel-fuer-uebergangsgebuehrnisse-seit-202,6,Kap. 1403 Tit. 433 54,"1.011,111 Mio. €"
+uebergangsgebuehrnisse-report-2026,02-wie-ist-der-sammeltitel-fuer-uebergangsgebuehrnisse-seit-202,6,Art,Soll
+uebergangsgebuehrnisse-report-2026,02-wie-ist-der-sammeltitel-fuer-uebergangsgebuehrnisse-seit-202,6,Veränderung zum Vorjahr (eigene Berechnung),"+4,0 % gegenüber Ist 2024"
+uebergangsgebuehrnisse-report-2026,02-wie-ist-der-sammeltitel-fuer-uebergangsgebuehrnisse-seit-202,7,Jahr,2026
+uebergangsgebuehrnisse-report-2026,02-wie-ist-der-sammeltitel-fuer-uebergangsgebuehrnisse-seit-202,7,Kap. 1403 Tit. 433 54,"1.135,060 Mio. €"
+uebergangsgebuehrnisse-report-2026,02-wie-ist-der-sammeltitel-fuer-uebergangsgebuehrnisse-seit-202,7,Art,Soll
+uebergangsgebuehrnisse-report-2026,02-wie-ist-der-sammeltitel-fuer-uebergangsgebuehrnisse-seit-202,7,Veränderung zum Vorjahr (eigene Berechnung),"+12,3 % gegenüber Soll 2025"
+uebergangsgebuehrnisse-report-2026,03-wie-lange-und-in-welcher-hoehe-gibt-es-uebergangsgebuehrniss,1,Wehrdienstzeit,1 bis unter 2 Jahre
+uebergangsgebuehrnisse-report-2026,03-wie-lange-und-in-welcher-hoehe-gibt-es-uebergangsgebuehrniss,1,Bezugsdauer,1 Monat
+uebergangsgebuehrnisse-report-2026,03-wie-lange-und-in-welcher-hoehe-gibt-es-uebergangsgebuehrniss,1,Wehrdienstzeit,7 bis unter 8 Jahre
+uebergangsgebuehrnisse-report-2026,03-wie-lange-und-in-welcher-hoehe-gibt-es-uebergangsgebuehrniss,1,Bezugsdauer,30 Monate
+uebergangsgebuehrnisse-report-2026,03-wie-lange-und-in-welcher-hoehe-gibt-es-uebergangsgebuehrniss,2,Wehrdienstzeit,2 bis unter 3 Jahre
+uebergangsgebuehrnisse-report-2026,03-wie-lange-und-in-welcher-hoehe-gibt-es-uebergangsgebuehrniss,2,Bezugsdauer,2 Monate
+uebergangsgebuehrnisse-report-2026,03-wie-lange-und-in-welcher-hoehe-gibt-es-uebergangsgebuehrniss,2,Wehrdienstzeit,8 bis unter 9 Jahre
+uebergangsgebuehrnisse-report-2026,03-wie-lange-und-in-welcher-hoehe-gibt-es-uebergangsgebuehrniss,2,Bezugsdauer,36 Monate
+uebergangsgebuehrnisse-report-2026,03-wie-lange-und-in-welcher-hoehe-gibt-es-uebergangsgebuehrniss,3,Wehrdienstzeit,3 bis unter 4 Jahre
+uebergangsgebuehrnisse-report-2026,03-wie-lange-und-in-welcher-hoehe-gibt-es-uebergangsgebuehrniss,3,Bezugsdauer,3 Monate
+uebergangsgebuehrnisse-report-2026,03-wie-lange-und-in-welcher-hoehe-gibt-es-uebergangsgebuehrniss,3,Wehrdienstzeit,9 bis unter 10 Jahre
+uebergangsgebuehrnisse-report-2026,03-wie-lange-und-in-welcher-hoehe-gibt-es-uebergangsgebuehrniss,3,Bezugsdauer,42 Monate
+uebergangsgebuehrnisse-report-2026,03-wie-lange-und-in-welcher-hoehe-gibt-es-uebergangsgebuehrniss,4,Wehrdienstzeit,4 bis unter 5 Jahre
+uebergangsgebuehrnisse-report-2026,03-wie-lange-und-in-welcher-hoehe-gibt-es-uebergangsgebuehrniss,4,Bezugsdauer,12 Monate
+uebergangsgebuehrnisse-report-2026,03-wie-lange-und-in-welcher-hoehe-gibt-es-uebergangsgebuehrniss,4,Wehrdienstzeit,10 bis unter 11 Jahre
+uebergangsgebuehrnisse-report-2026,03-wie-lange-und-in-welcher-hoehe-gibt-es-uebergangsgebuehrniss,4,Bezugsdauer,48 Monate
+uebergangsgebuehrnisse-report-2026,03-wie-lange-und-in-welcher-hoehe-gibt-es-uebergangsgebuehrniss,5,Wehrdienstzeit,5 bis unter 6 Jahre
+uebergangsgebuehrnisse-report-2026,03-wie-lange-und-in-welcher-hoehe-gibt-es-uebergangsgebuehrniss,5,Bezugsdauer,18 Monate
+uebergangsgebuehrnisse-report-2026,03-wie-lange-und-in-welcher-hoehe-gibt-es-uebergangsgebuehrniss,5,Wehrdienstzeit,11 bis unter 12 Jahre
+uebergangsgebuehrnisse-report-2026,03-wie-lange-und-in-welcher-hoehe-gibt-es-uebergangsgebuehrniss,5,Bezugsdauer,54 Monate
+uebergangsgebuehrnisse-report-2026,03-wie-lange-und-in-welcher-hoehe-gibt-es-uebergangsgebuehrniss,6,Wehrdienstzeit,6 bis unter 7 Jahre
+uebergangsgebuehrnisse-report-2026,03-wie-lange-und-in-welcher-hoehe-gibt-es-uebergangsgebuehrniss,6,Bezugsdauer,24 Monate
+uebergangsgebuehrnisse-report-2026,03-wie-lange-und-in-welcher-hoehe-gibt-es-uebergangsgebuehrniss,6,Wehrdienstzeit,12 Jahre und mehr
+uebergangsgebuehrnisse-report-2026,03-wie-lange-und-in-welcher-hoehe-gibt-es-uebergangsgebuehrniss,6,Bezugsdauer,60 Monate
+uebergangsgebuehrnisse-report-2026,04-was-gilt-bei-steuer-kranken-und-rentenversicherung,1,Thema,Kranken- und Pflegeversicherung
+uebergangsgebuehrnisse-report-2026,04-was-gilt-bei-steuer-kranken-und-rentenversicherung,1,Regel,"Beitragszuschuss während des regelmäßigen Bezugs. In der GKV die Hälfte der Kranken- und Pflegebeiträge auf die Übergangsgebührnisse, wenn nach § 5 Abs. 1 Nr. 13 SGB V pflichtversichert oder freiwillig versichert. Privat versichert nach eigener Formel, höchstens die Hälfte der tatsächlichen Beiträge. Kein Zuschuss, wenn ein Arbeitgeberzuschuss besteht"
+uebergangsgebuehrnisse-report-2026,04-was-gilt-bei-steuer-kranken-und-rentenversicherung,1,Fundstelle,§ 18 Abs. 1 und 2 SVG
+uebergangsgebuehrnisse-report-2026,04-was-gilt-bei-steuer-kranken-und-rentenversicherung,1,Status,belegt
+uebergangsgebuehrnisse-report-2026,04-was-gilt-bei-steuer-kranken-und-rentenversicherung,2,Thema,Beitritt GKV
+uebergangsgebuehrnisse-report-2026,04-was-gilt-bei-steuer-kranken-und-rentenversicherung,2,Regel,innerhalb von drei Monaten nach dem Ausscheiden anzeigen
+uebergangsgebuehrnisse-report-2026,04-was-gilt-bei-steuer-kranken-und-rentenversicherung,2,Fundstelle,"§ 9 Abs. 1 Satz 1 Nr. 8, Abs. 2 Nr. 6 SGB V"
+uebergangsgebuehrnisse-report-2026,04-was-gilt-bei-steuer-kranken-und-rentenversicherung,2,Status,belegt
+uebergangsgebuehrnisse-report-2026,04-was-gilt-bei-steuer-kranken-und-rentenversicherung,3,Thema,Rentenversicherung
+uebergangsgebuehrnisse-report-2026,04-was-gilt-bei-steuer-kranken-und-rentenversicherung,3,Regel,"während des Bezugs versicherungspflichtig, außer bei Nachversicherung der SaZ-Zeit nach § 186 SGB VI; Beiträge trägt der Bund"
+uebergangsgebuehrnisse-report-2026,04-was-gilt-bei-steuer-kranken-und-rentenversicherung,3,Fundstelle,"§ 3 Satz 1 Nr. 2b, § 170 Abs. 1 Nr. 1 SGB VI"
+uebergangsgebuehrnisse-report-2026,04-was-gilt-bei-steuer-kranken-und-rentenversicherung,3,Status,belegt
+uebergangsgebuehrnisse-report-2026,04-was-gilt-bei-steuer-kranken-und-rentenversicherung,4,Thema,Grundsicherungsgeld (bis Juni 2026 Bürgergeld)
+uebergangsgebuehrnisse-report-2026,04-was-gilt-bei-steuer-kranken-und-rentenversicherung,4,Regel,als Einkommen nach § 11 SGB II zu prüfen; die BA-Weisung führt Übergangsgebührnisse als nicht zweckbestimmt
+uebergangsgebuehrnisse-report-2026,04-was-gilt-bei-steuer-kranken-und-rentenversicherung,4,Fundstelle,"BA-Weisung §§ 11, 11b SGB II, Stand 24.10.2024 (Dateiname der BA nennt 01.07.2023)"
+uebergangsgebuehrnisse-report-2026,04-was-gilt-bei-steuer-kranken-und-rentenversicherung,4,Status,"Verwaltungspraxis, keine gesetzliche Sonderregel; Weisung nennt alte SVG-Paragrafen"
+uebergangsgebuehrnisse-report-2026,04-was-gilt-bei-steuer-kranken-und-rentenversicherung,5,Thema,Einkommensteuer
+uebergangsgebuehrnisse-report-2026,04-was-gilt-bei-steuer-kranken-und-rentenversicherung,5,Regel,"keine Steuerbefreiung im EStG gefunden, Einordnung als Bezüge aus früheren Dienstleistungen (§ 19 Abs. 1 Satz 1 Nr. 2 EStG) naheliegend"
+uebergangsgebuehrnisse-report-2026,04-was-gilt-bei-steuer-kranken-und-rentenversicherung,5,Fundstelle,EStG
+uebergangsgebuehrnisse-report-2026,04-was-gilt-bei-steuer-kranken-und-rentenversicherung,5,Status,nicht amtlich belegt
+uebergangsgebuehrnisse-report-2026,04-was-gilt-bei-steuer-kranken-und-rentenversicherung,6,Thema,Übergangsbeihilfe
+uebergangsgebuehrnisse-report-2026,04-was-gilt-bei-steuer-kranken-und-rentenversicherung,6,Regel,steuerfrei nur bei Dienstverhältnis vor dem 01.01.2006
+uebergangsgebuehrnisse-report-2026,04-was-gilt-bei-steuer-kranken-und-rentenversicherung,6,Fundstelle,§ 52 Abs. 4 Satz 3 EStG
+uebergangsgebuehrnisse-report-2026,04-was-gilt-bei-steuer-kranken-und-rentenversicherung,6,Status,belegt
+weiterbildungsmarkt-fuer-soldaten-2026,01-kurzfassung,1,Kennzahl,Ausgaben des BFD für die Berufsförderung 2025
+weiterbildungsmarkt-fuer-soldaten-2026,01-kurzfassung,1,Wert,"106,5 Mio. € (vorläufig, Original noch prüfen)"
+weiterbildungsmarkt-fuer-soldaten-2026,01-kurzfassung,1,Fundstelle,BFD-Jahresbilanz 2025
+weiterbildungsmarkt-fuer-soldaten-2026,01-kurzfassung,2,Kennzahl,Haushaltsansatz externe Bildungseinrichtungen und Eingliederung 2027
+weiterbildungsmarkt-fuer-soldaten-2026,01-kurzfassung,2,Wert,"96,0 Mio. € (2026 90,8 Mio. €)"
+weiterbildungsmarkt-fuer-soldaten-2026,01-kurzfassung,2,Fundstelle,"Entwurf Haushaltsplan 2027, Tit. 525 71"
+weiterbildungsmarkt-fuer-soldaten-2026,01-kurzfassung,3,Kennzahl,Bewilligte Anträge auf Förderung der Bildung 2025
+weiterbildungsmarkt-fuer-soldaten-2026,01-kurzfassung,3,Wert,"14.226 (Anträge, nicht Personen; vorläufig, Original noch prüfen)"
+weiterbildungsmarkt-fuer-soldaten-2026,01-kurzfassung,3,Fundstelle,BFD-Jahresbilanz 2025
+weiterbildungsmarkt-fuer-soldaten-2026,01-kurzfassung,4,Kennzahl,Kurseinträge im ausgewerteten privaten Kursverzeichnis für Soldaten
+weiterbildungsmarkt-fuer-soldaten-2026,01-kurzfassung,4,Wert,"2.993 von 119 Anbietern, rund 42 % online"
+weiterbildungsmarkt-fuer-soldaten-2026,01-kurzfassung,4,Fundstelle,"dienstzeitende.de, Erhebung 14.10.2026"
+weiterbildungsmarkt-fuer-soldaten-2026,01-kurzfassung,5,Kennzahl,"Interne BFD-Termine, unentgeltlich für FWDL und SaZ"
+weiterbildungsmarkt-fuer-soldaten-2026,01-kurzfassung,5,Wert,1.653 gemeldet
+weiterbildungsmarkt-fuer-soldaten-2026,01-kurzfassung,5,Fundstelle,"BFD-Maßnahmendatenbank, Erhebung 18.10.2026"
+weiterbildungsmarkt-fuer-soldaten-2026,01-kurzfassung,6,Kennzahl,Höchstbetrag für Lehrgangsgebühren und Ausbildungsmittel
+weiterbildungsmarkt-fuer-soldaten-2026,01-kurzfassung,6,Wert,"1.200 € bis 21.000 € , mit Zuschlägen ab 15 Jahren bis 24.000 €"
+weiterbildungsmarkt-fuer-soldaten-2026,01-kurzfassung,6,Fundstelle,§ 19 Abs. 2 BFöV
+weiterbildungsmarkt-fuer-soldaten-2026,02-wie-gross-ist-der-weiterbildungsmarkt-fuer-soldaten,1,Größe,Ausgaben BFD für Berufsförderung
+weiterbildungsmarkt-fuer-soldaten-2026,02-wie-gross-ist-der-weiterbildungsmarkt-fuer-soldaten,1,Wert,"93,5 Mio. € (2020), 106,5 Mio. € (2025)"
+weiterbildungsmarkt-fuer-soldaten-2026,02-wie-gross-ist-der-weiterbildungsmarkt-fuer-soldaten,1,Quelle,BFD-Jahresbilanzen
+weiterbildungsmarkt-fuer-soldaten-2026,02-wie-gross-ist-der-weiterbildungsmarkt-fuer-soldaten,2,Größe,Tit. 525 71 „Aus- und Fortbildung“
+weiterbildungsmarkt-fuer-soldaten-2026,02-wie-gross-ist-der-weiterbildungsmarkt-fuer-soldaten,2,Wert,"81,4 Mio. € Ist 2020, 94,2 Mio. € Ist 2025, 99,7 Mio. € Entwurf 2027"
+weiterbildungsmarkt-fuer-soldaten-2026,02-wie-gross-ist-der-weiterbildungsmarkt-fuer-soldaten,2,Quelle,Haushaltspläne Epl. 14
+weiterbildungsmarkt-fuer-soldaten-2026,02-wie-gross-ist-der-weiterbildungsmarkt-fuer-soldaten,3,Größe,davon externe Einrichtungen und Eingliederung
+weiterbildungsmarkt-fuer-soldaten-2026,02-wie-gross-ist-der-weiterbildungsmarkt-fuer-soldaten,3,Wert,"86,8 Mio. € (Soll 2025), 90,8 Mio. € (Soll 2026), 96,0 Mio. € (Entwurf 2027)"
+weiterbildungsmarkt-fuer-soldaten-2026,02-wie-gross-ist-der-weiterbildungsmarkt-fuer-soldaten,3,Quelle,ebd.
+weiterbildungsmarkt-fuer-soldaten-2026,02-wie-gross-ist-der-weiterbildungsmarkt-fuer-soldaten,4,Größe,Bewilligte Anträge
+weiterbildungsmarkt-fuer-soldaten-2026,02-wie-gross-ist-der-weiterbildungsmarkt-fuer-soldaten,4,Wert,14.226 (2025)
+weiterbildungsmarkt-fuer-soldaten-2026,02-wie-gross-ist-der-weiterbildungsmarkt-fuer-soldaten,4,Quelle,BFD-Jahresbilanz 2025
+weiterbildungsmarkt-fuer-soldaten-2026,03-welche-regeln-praegen-den-markt,1,Regel,Öffentliche und private Träger möglich
+weiterbildungsmarkt-fuer-soldaten-2026,03-welche-regeln-praegen-den-markt,1,Wirkung auf Anbieter und Angebot,"nicht auf öffentliche Einrichtungen beschränkt, aber nur bei den in Abs. 1 genannten Einrichtungen und wenn Maßnahme und Träger Abs. 2 erfüllen"
+weiterbildungsmarkt-fuer-soldaten-2026,03-welche-regeln-praegen-den-markt,1,Fundstelle,§ 15 Abs. 1 Satz 1 und Abs. 2 BFöV
+weiterbildungsmarkt-fuer-soldaten-2026,03-welche-regeln-praegen-den-markt,2,Regel,Keine Zulassungspflicht im Verordnungstext
+weiterbildungsmarkt-fuer-soldaten-2026,03-welche-regeln-praegen-den-markt,2,Wirkung auf Anbieter und Angebot,"Träger muss „nach Art und Einrichtung“ für eine „ordnungsgemäße und erwachsenengerechte Durchführung“ geeignet sein, eine AZAV-Zulassung verlangt die BFöV nicht"
+weiterbildungsmarkt-fuer-soldaten-2026,03-welche-regeln-praegen-den-markt,2,Fundstelle,§ 15 Abs. 2 Nr. 2 BFöV
+weiterbildungsmarkt-fuer-soldaten-2026,03-welche-regeln-praegen-den-markt,3,Regel,Lehrplan und neue Befähigung
+weiterbildungsmarkt-fuer-soldaten-2026,03-welche-regeln-praegen-den-markt,3,Wirkung auf Anbieter und Angebot,"gefördert werden nur Maßnahmen „anhand von Lehrplänen oder Ausbildungsvorschriften“, die eine noch nicht vorhandene Befähigung vermitteln"
+weiterbildungsmarkt-fuer-soldaten-2026,03-welche-regeln-praegen-den-markt,3,Fundstelle,§ 1 Abs. 1 und 2 BFöV
+weiterbildungsmarkt-fuer-soldaten-2026,03-welche-regeln-praegen-den-markt,4,Regel,Ausschlüsse
+weiterbildungsmarkt-fuer-soldaten-2026,03-welche-regeln-praegen-den-markt,4,Wirkung auf Anbieter und Angebot,"nicht förderfähig sind Maßnahmen, „die ausschließlich der Persönlichkeitsbildung dienen oder dem Freizeitbereich zuzuordnen sind“"
+weiterbildungsmarkt-fuer-soldaten-2026,03-welche-regeln-praegen-den-markt,4,Fundstelle,§ 4 Abs. 2 Nr. 1 BFöV
+weiterbildungsmarkt-fuer-soldaten-2026,03-welche-regeln-praegen-den-markt,5,Regel,Online gleichgestellt
+weiterbildungsmarkt-fuer-soldaten-2026,03-welche-regeln-praegen-den-markt,5,Wirkung auf Anbieter und Angebot,"Fernunterricht wird wie Direktunterricht gefördert, mit Aufklärungspflicht"
+weiterbildungsmarkt-fuer-soldaten-2026,03-welche-regeln-praegen-den-markt,5,Fundstelle,§ 15 Abs. 5 BFöV
+weiterbildungsmarkt-fuer-soldaten-2026,03-welche-regeln-praegen-den-markt,6,Regel,Abschluss mit Inhaltsnachweis
+weiterbildungsmarkt-fuer-soldaten-2026,03-welche-regeln-praegen-den-markt,6,Wirkung auf Anbieter und Angebot,Zeugnis oder Bestätigung „über den Inhalt des vermittelten Lehrstoffs“
+weiterbildungsmarkt-fuer-soldaten-2026,03-welche-regeln-praegen-den-markt,6,Fundstelle,§ 15 Abs. 2 Nr. 4 BFöV
+weiterbildungsmarkt-fuer-soldaten-2026,03-welche-regeln-praegen-den-markt,7,Regel,Höchstbetrag
+weiterbildungsmarkt-fuer-soldaten-2026,03-welche-regeln-praegen-den-markt,7,Wirkung auf Anbieter und Angebot,"1.200 € bis 21.000 € für Lehrgangsgebühren und Ausbildungsmittel, ab 15/20/25 Jahren Gesamtdienstzeit plus 1.000/2.000/3.000 €; Reise-, Trennungs- und Umzugsauslagen fallen nicht darunter"
+weiterbildungsmarkt-fuer-soldaten-2026,03-welche-regeln-praegen-den-markt,7,Fundstelle,§ 19 Abs. 1 und 2 BFöV
+weiterbildungsmarkt-fuer-soldaten-2026,03-welche-regeln-praegen-den-markt,8,Regel,Vorrang intern im Dienst
+weiterbildungsmarkt-fuer-soldaten-2026,03-welche-regeln-praegen-den-markt,8,Wirkung auf Anbieter und Angebot,"externe Kurse während der Dienstzeit nur, wenn interne Maßnahmen das Ziel nicht oder nicht planmäßig erreichen"
+weiterbildungsmarkt-fuer-soldaten-2026,03-welche-regeln-praegen-den-markt,8,Fundstelle,"SaZ § 7 Abs. 2 SVG, FWDL § 6 Abs. 2 SVG"
+weiterbildungsmarkt-fuer-soldaten-2026,04-wer-bietet-kurse-fuer-soldaten-an,1,Trägergruppe,Kammern und ihre Akademien
+weiterbildungsmarkt-fuer-soldaten-2026,04-wer-bietet-kurse-fuer-soldaten-an,1,Belegte Beispiele,"IHK Pfalz, IHK Freiburg, IHK-Kurse im Verzeichnis"
+weiterbildungsmarkt-fuer-soldaten-2026,04-wer-bietet-kurse-fuer-soldaten-an,1,Typische Abschlüsse,"Meister, Fachwirt, Sachkunde, AEVO"
+weiterbildungsmarkt-fuer-soldaten-2026,04-wer-bietet-kurse-fuer-soldaten-an,1,Beleg,"Anbieterseiten 16.11.2026, dienstzeitende.de"
+weiterbildungsmarkt-fuer-soldaten-2026,04-wer-bietet-kurse-fuer-soldaten-an,2,Trägergruppe,Große Weiterbildungsträger
+weiterbildungsmarkt-fuer-soldaten-2026,04-wer-bietet-kurse-fuer-soldaten-an,2,Belegte Beispiele,"WBS Training, DAA, DEKRA Akademie, Grone, FAW"
+weiterbildungsmarkt-fuer-soldaten-2026,04-wer-bietet-kurse-fuer-soldaten-an,2,Typische Abschlüsse,"Umschulung, IHK-Vorbereitung, Zertifikate"
+weiterbildungsmarkt-fuer-soldaten-2026,04-wer-bietet-kurse-fuer-soldaten-an,2,Beleg,"Anbieterseite, BFD-Datenbank, dienstzeitende.de"
+weiterbildungsmarkt-fuer-soldaten-2026,04-wer-bietet-kurse-fuer-soldaten-an,3,Trägergruppe,Prüf- und Zertifizierungsorganisationen
+weiterbildungsmarkt-fuer-soldaten-2026,04-wer-bietet-kurse-fuer-soldaten-an,3,Belegte Beispiele,TÜV SÜD
+weiterbildungsmarkt-fuer-soldaten-2026,04-wer-bietet-kurse-fuer-soldaten-an,3,Typische Abschlüsse,Fach- und Personenzertifikate
+weiterbildungsmarkt-fuer-soldaten-2026,04-wer-bietet-kurse-fuer-soldaten-an,3,Beleg,dienstzeitende.de
+weiterbildungsmarkt-fuer-soldaten-2026,04-wer-bietet-kurse-fuer-soldaten-an,4,Trägergruppe,Spezialisierte Online-Anbieter
+weiterbildungsmarkt-fuer-soldaten-2026,04-wer-bietet-kurse-fuer-soldaten-an,4,Belegte Beispiele,"alfatraining, StackFuel"
+weiterbildungsmarkt-fuer-soldaten-2026,04-wer-bietet-kurse-fuer-soldaten-an,4,Typische Abschlüsse,"IT, Daten, KI"
+weiterbildungsmarkt-fuer-soldaten-2026,04-wer-bietet-kurse-fuer-soldaten-an,4,Beleg,dienstzeitende.de
+weiterbildungsmarkt-fuer-soldaten-2026,04-wer-bietet-kurse-fuer-soldaten-an,5,Trägergruppe,Seminaranbieter für Fach- und Führungskräfte
+weiterbildungsmarkt-fuer-soldaten-2026,04-wer-bietet-kurse-fuer-soldaten-an,5,Belegte Beispiele,Haufe Akademie
+weiterbildungsmarkt-fuer-soldaten-2026,04-wer-bietet-kurse-fuer-soldaten-an,5,Typische Abschlüsse,Projektmanagement-Zertifikate
+weiterbildungsmarkt-fuer-soldaten-2026,04-wer-bietet-kurse-fuer-soldaten-an,5,Beleg,Anbieterseite
+weiterbildungsmarkt-fuer-soldaten-2026,04-wer-bietet-kurse-fuer-soldaten-an,6,Trägergruppe,Kleinere regionale Träger
+weiterbildungsmarkt-fuer-soldaten-2026,04-wer-bietet-kurse-fuer-soldaten-an,6,Belegte Beispiele,BilSE (Güstrow)
+weiterbildungsmarkt-fuer-soldaten-2026,04-wer-bietet-kurse-fuer-soldaten-an,6,Typische Abschlüsse,"Gründung, Übernahme"
+weiterbildungsmarkt-fuer-soldaten-2026,04-wer-bietet-kurse-fuer-soldaten-an,6,Beleg,dienstzeitende.de
+weiterbildungsmarkt-fuer-soldaten-2026,04-wer-bietet-kurse-fuer-soldaten-an,7,Trägergruppe,Auftragnehmer interner BFD-Seminare
+weiterbildungsmarkt-fuer-soldaten-2026,04-wer-bietet-kurse-fuer-soldaten-an,7,Belegte Beispiele,"DAA (Dresden), DEKRA Akademie (Erfurt)"
+weiterbildungsmarkt-fuer-soldaten-2026,04-wer-bietet-kurse-fuer-soldaten-an,7,Typische Abschlüsse,"Teilnahmebescheinigung, teils Zertifikat"
+weiterbildungsmarkt-fuer-soldaten-2026,04-wer-bietet-kurse-fuer-soldaten-an,7,Beleg,BFD-Datenbank
+weiterbildungsmarkt-fuer-soldaten-2026,05-themen-im-kursverzeichnis-und-in-der-bfd-datenbank,1,Thema,"Führung, Management, Projektmanagement"
+weiterbildungsmarkt-fuer-soldaten-2026,05-themen-im-kursverzeichnis-und-in-der-bfd-datenbank,1,dienstzeitende.de Kurse (online),504 (217)
+weiterbildungsmarkt-fuer-soldaten-2026,05-themen-im-kursverzeichnis-und-in-der-bfd-datenbank,1,BFD intern Termine (online),234 (69)
+weiterbildungsmarkt-fuer-soldaten-2026,05-themen-im-kursverzeichnis-und-in-der-bfd-datenbank,2,Thema,KI
+weiterbildungsmarkt-fuer-soldaten-2026,05-themen-im-kursverzeichnis-und-in-der-bfd-datenbank,2,dienstzeitende.de Kurse (online),141 (109)
+weiterbildungsmarkt-fuer-soldaten-2026,05-themen-im-kursverzeichnis-und-in-der-bfd-datenbank,2,BFD intern Termine (online),45 (31)
+weiterbildungsmarkt-fuer-soldaten-2026,05-themen-im-kursverzeichnis-und-in-der-bfd-datenbank,3,Thema,"Website, Webshop"
+weiterbildungsmarkt-fuer-soldaten-2026,05-themen-im-kursverzeichnis-und-in-der-bfd-datenbank,3,dienstzeitende.de Kurse (online),51 (13)
+weiterbildungsmarkt-fuer-soldaten-2026,05-themen-im-kursverzeichnis-und-in-der-bfd-datenbank,3,BFD intern Termine (online),5 (5)
+weiterbildungsmarkt-fuer-soldaten-2026,05-themen-im-kursverzeichnis-und-in-der-bfd-datenbank,4,Thema,"Gründung, Übernahme"
+weiterbildungsmarkt-fuer-soldaten-2026,05-themen-im-kursverzeichnis-und-in-der-bfd-datenbank,4,dienstzeitende.de Kurse (online),5 (0)
+weiterbildungsmarkt-fuer-soldaten-2026,05-themen-im-kursverzeichnis-und-in-der-bfd-datenbank,4,BFD intern Termine (online),31 (10)
+weiterbildungsmarkt-fuer-soldaten-2026,05-themen-im-kursverzeichnis-und-in-der-bfd-datenbank,5,Thema,"Bewerbung, Karriere"
+weiterbildungsmarkt-fuer-soldaten-2026,05-themen-im-kursverzeichnis-und-in-der-bfd-datenbank,5,dienstzeitende.de Kurse (online),3 (0)
+weiterbildungsmarkt-fuer-soldaten-2026,05-themen-im-kursverzeichnis-und-in-der-bfd-datenbank,5,BFD intern Termine (online),197 (29) laut Erhebung
+weiterbildungsmarkt-fuer-soldaten-2026,05-themen-im-kursverzeichnis-und-in-der-bfd-datenbank,6,Thema,Gesamt
+weiterbildungsmarkt-fuer-soldaten-2026,05-themen-im-kursverzeichnis-und-in-der-bfd-datenbank,6,dienstzeitende.de Kurse (online),2.993 (rund 42 %)
+weiterbildungsmarkt-fuer-soldaten-2026,05-themen-im-kursverzeichnis-und-in-der-bfd-datenbank,6,BFD intern Termine (online),1.653 (rund 37 %)
+weiterbildungsmarkt-fuer-soldaten-2026,06-passen-kurspreise-und-bfd-budget-zusammen,1,Kurs,PRINCE2 Practitioner
+weiterbildungsmarkt-fuer-soldaten-2026,06-passen-kurspreise-und-bfd-budget-zusammen,1,Anbieter,Haufe Akademie
+weiterbildungsmarkt-fuer-soldaten-2026,06-passen-kurspreise-und-bfd-budget-zusammen,1,"Umfang, Format",3 Tage
+weiterbildungsmarkt-fuer-soldaten-2026,06-passen-kurspreise-und-bfd-budget-zusammen,1,Preis laut Anbieter,"1.990 € netto, 2.368,10 € brutto"
+weiterbildungsmarkt-fuer-soldaten-2026,06-passen-kurspreise-und-bfd-budget-zusammen,2,Kurs,Case Management
+weiterbildungsmarkt-fuer-soldaten-2026,06-passen-kurspreise-und-bfd-budget-zusammen,2,Anbieter,WBS Training
+weiterbildungsmarkt-fuer-soldaten-2026,06-passen-kurspreise-und-bfd-budget-zusammen,2,"Umfang, Format","200 UE, live-online berufsbegleitend"
+weiterbildungsmarkt-fuer-soldaten-2026,06-passen-kurspreise-und-bfd-budget-zusammen,2,Preis laut Anbieter,1.440 €
+weiterbildungsmarkt-fuer-soldaten-2026,06-passen-kurspreise-und-bfd-budget-zusammen,3,Kurs,Pflegeberater/in nach § 7a SGB XI
+weiterbildungsmarkt-fuer-soldaten-2026,06-passen-kurspreise-und-bfd-budget-zusammen,3,Anbieter,WBS Training
+weiterbildungsmarkt-fuer-soldaten-2026,06-passen-kurspreise-und-bfd-budget-zusammen,3,"Umfang, Format","440 UE, live-online berufsbegleitend"
+weiterbildungsmarkt-fuer-soldaten-2026,06-passen-kurspreise-und-bfd-budget-zusammen,3,Preis laut Anbieter,"3.196,80 €"
+weiterbildungsmarkt-fuer-soldaten-2026,06-passen-kurspreise-und-bfd-budget-zusammen,4,Kurs,Meister Schutz & Sicherheit
+weiterbildungsmarkt-fuer-soldaten-2026,06-passen-kurspreise-und-bfd-budget-zusammen,4,Anbieter,IHK Pfalz
+weiterbildungsmarkt-fuer-soldaten-2026,06-passen-kurspreise-und-bfd-budget-zusammen,4,"Umfang, Format","berufsbegleitend, 6 bis 24 Monate"
+weiterbildungsmarkt-fuer-soldaten-2026,06-passen-kurspreise-und-bfd-budget-zusammen,4,Preis laut Anbieter,5.100 € zzgl. Prüfungsgebühr
+weiterbildungsmarkt-fuer-soldaten-2026,06-passen-kurspreise-und-bfd-budget-zusammen,5,Kurs,Industriemeister Metall
+weiterbildungsmarkt-fuer-soldaten-2026,06-passen-kurspreise-und-bfd-budget-zusammen,5,Anbieter,IHK Freiburg
+weiterbildungsmarkt-fuer-soldaten-2026,06-passen-kurspreise-und-bfd-budget-zusammen,5,"Umfang, Format","Teilzeit rund 23 Monate oder Vollzeit rund 7 Monate, auch live-online"
+weiterbildungsmarkt-fuer-soldaten-2026,06-passen-kurspreise-und-bfd-budget-zusammen,5,Preis laut Anbieter,"5.790 € (Teilzeit) bzw. 5.990 € (Vollzeit), zzgl. ca. 590 € Unterlagen und 820 € Prüfungsgebühren"
+weiterbildungsmarkt-fuer-soldaten-2026,06-passen-kurspreise-und-bfd-budget-zusammen,6,Kurs,Einzelcoaching Existenzgründung
+weiterbildungsmarkt-fuer-soldaten-2026,06-passen-kurspreise-und-bfd-budget-zusammen,6,Anbieter,BilSE
+weiterbildungsmarkt-fuer-soldaten-2026,06-passen-kurspreise-und-bfd-budget-zusammen,6,"Umfang, Format","50 Std., Präsenz"
+weiterbildungsmarkt-fuer-soldaten-2026,06-passen-kurspreise-und-bfd-budget-zusammen,6,Preis laut Anbieter,3.900 € (ohne Gewähr)

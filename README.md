@@ -10,6 +10,10 @@ Kein Angebot der Bundeswehr. Über Förderansprüche entscheidet der BFD im Einz
 
 [bfd-anspruch-nach-dienstjahren.csv](daten/bfd-anspruch-nach-dienstjahren.csv): Förderungsdauer in Monaten und Kostenhöchstbetrag in Euro je volle Dienstjahre (Rechtsstand SVG und BFöV seit 01.01.2026). Ohne Minderungen nach § 7 Abs. 6 bis 9 SVG. Der vollständige Rechner mit Übergangsgebührnissen, Übergangsbeihilfe und Nutzungsfrist liegt in [rechner/bfd-rechner.js](rechner/bfd-rechner.js) und online auf [https://karriere-nach-der-bundeswehr.de](https://karriere-nach-der-bundeswehr.de/).
 
+## Alle Werte in einer Tabelle
+
+[alle-werte.csv](daten/alle-werte.csv): alle Tabellenwerte der 12 Studien im Langformat (studie, tabelle, zeile, spalte, wert), praktisch zum Filtern und Durchsuchen.
+
 ## Studien
 
 | Studie | Tabellen | Zeilen | Report | DOI (Zenodo) |
