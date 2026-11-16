@@ -2,7 +2,7 @@
 
 Offene Datensätze zu Berufsförderungsdienst (BFD), Förderungsdauer und Kostenhöchstbetrag, Übergangsgebührnissen, Dienstzeitende, Weiterbildung, Studium und Gründung nach der Bundeswehr. Jede Tabelle der Studien steht als CSV mit Fundstelle, die Quellen je Studie in `quellen.csv`. Die Reports mit Methode und Einordnung liegen auf [karriere-nach-der-bundeswehr.de/studien-reports](https://karriere-nach-der-bundeswehr.de/studien-reports/).
 
-Herausgeber: Karriere nach der Bundeswehr (https://karriere-nach-der-bundeswehr.de). Lizenz der Daten: [CC BY 4.0](LICENSE). Code des Rechners: MIT. Stand: 2026-11-16.
+Herausgeber: Karriere nach der Bundeswehr (https://karriere-nach-der-bundeswehr.de). Spiegel: [Kaggle](https://www.kaggle.com/datasets/nachderbundeswehr/bundeswehr-dienstzeitende-und-bfd-daten-2026) · [Hugging Face](https://huggingface.co/datasets/karriere-nach-der-bundeswehr/bundeswehr-dienstzeitende-bfd-daten-2026). Lizenz der Daten: [CC BY 4.0](LICENSE). Code des Rechners: MIT. Stand: 2026-11-16.
 
 Kein Angebot der Bundeswehr. Über Förderansprüche entscheidet der BFD im Einzelfall.
 
