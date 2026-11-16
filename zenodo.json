@@ -4,81 +4,93 @@
   "doi": "10.5281/zenodo.24281266",
   "url": "https://zenodo.org/record/24281266",
   "titel": "Arbeitslos nach der Bundeswehr in Zahlen 2026, warum Zeitsoldaten aus der SaZ-Zeit kein Arbeitslosengeld erwerben und was stattdessen greift",
-  "wikidata": "Q142184153"
+  "wikidata": "Q142184153",
+  "osf": "https://osf.io/duzct/"
  },
  "berufssoldaten-und-bo-41-2026": {
   "id": 24281271,
   "doi": "10.5281/zenodo.24281271",
   "url": "https://zenodo.org/record/24281271",
   "titel": "Berufssoldaten und BO 41 in Zahlen 2026, was nach dem Dienst zusteht und was nicht",
-  "wikidata": "Q142184158"
+  "wikidata": "Q142184158",
+  "osf": "https://osf.io/2a3du/"
  },
  "bfd-budget-atlas-2026": {
   "id": 24281275,
   "doi": "10.5281/zenodo.24281275",
   "url": "https://zenodo.org/record/24281275",
   "titel": "BFD-Budget in Zahlen 2026, der Atlas der Grundansprüche für jede Dienstzeit",
-  "wikidata": "Q142184159"
+  "wikidata": "Q142184159",
+  "osf": "https://osf.io/f5sx4/"
  },
  "bfd-kurse-und-standorte-2026": {
   "id": 24281279,
   "doi": "10.5281/zenodo.24281279",
   "url": "https://zenodo.org/record/24281279",
   "titel": "BFD-Kurse und Standorte 2026 und was die Karrierecenter selbst anbieten",
-  "wikidata": "Q142184160"
+  "wikidata": "Q142184160",
+  "osf": "https://osf.io/4ub9m/"
  },
  "dienstzeitende-report-2026": {
   "id": 24281284,
   "doi": "10.5281/zenodo.24281284",
   "url": "https://zenodo.org/record/24281284",
   "titel": "Berufsförderung der Bundeswehr in Zahlen 2026, mehr Geld für den Übergang in den Zivilberuf",
-  "wikidata": "Q142184161"
+  "wikidata": "Q142184161",
+  "osf": "https://osf.io/jgkhs/"
  },
  "gruenden-nach-der-bundeswehr-2026": {
   "id": 24281290,
   "doi": "10.5281/zenodo.24281290",
   "url": "https://zenodo.org/record/24281290",
   "titel": "Gründungen von Ex-Soldaten in Zahlen 2026 und die Förderwege nach dem Dienst",
-  "wikidata": "Q142184164"
+  "wikidata": "Q142184164",
+  "osf": "https://osf.io/jys26/"
  },
  "nach-der-bundeswehr-in-den-bundeslaendern-2026": {
   "id": 24281292,
   "doi": "10.5281/zenodo.24281292",
   "url": "https://zenodo.org/record/24281292",
   "titel": "Nach der Bundeswehr im Bundesländer-Vergleich 2026, wo der Übergang leichter fällt und was die Daten nicht zeigen",
-  "wikidata": "Q142184165"
+  "wikidata": "Q142184165",
+  "osf": "https://osf.io/tv98q/"
  },
  "neuer-wehrdienst-2026": {
   "id": 24281294,
   "doi": "10.5281/zenodo.24281294",
   "url": "https://zenodo.org/record/24281294",
   "titel": "Neuer Wehrdienst in Zahlen 2026 mit sechs, elf oder zwölf Monaten und was danach zusteht",
-  "wikidata": "Q142184166"
+  "wikidata": "Q142184166",
+  "osf": "https://osf.io/bsw63/"
  },
  "personalmonitor-bundeswehr-2026": {
   "id": 24281298,
   "doi": "10.5281/zenodo.24281298",
   "url": "https://zenodo.org/record/24281298",
   "titel": "Personalstärke der Bundeswehr 2026, wer kommt, wer bleibt, wer geht",
-  "wikidata": "Q142184167"
+  "wikidata": "Q142184167",
+  "osf": "https://osf.io/xqcwr/"
  },
  "studium-nach-der-bundeswehr-2026": {
   "id": 24281301,
   "doi": "10.5281/zenodo.24281301",
   "url": "https://zenodo.org/record/24281301",
   "titel": "Studium von Ex-Soldaten in Zahlen 2026, was der Bund zahlt und wo die Fallen liegen",
-  "wikidata": "Q142184168"
+  "wikidata": "Q142184168",
+  "osf": "https://osf.io/hqb6s/"
  },
  "uebergangsgebuehrnisse-report-2026": {
   "id": 24281304,
   "doi": "10.5281/zenodo.24281304",
   "url": "https://zenodo.org/record/24281304",
-  "titel": "Übergangsgebührnisse-Statistik 2026 mit Regeln und Haushaltszahlen zum Übergang nach dem Dienst"
+  "titel": "Übergangsgebührnisse-Statistik 2026 mit Regeln und Haushaltszahlen zum Übergang nach dem Dienst",
+  "osf": "https://osf.io/vqhxe/"
  },
  "weiterbildungsmarkt-fuer-soldaten-2026": {
   "id": 24281307,
   "doi": "10.5281/zenodo.24281307",
   "url": "https://zenodo.org/record/24281307",
-  "titel": "Weiterbildungsmarkt für Soldaten 2026, wer anbietet, wie gelernt wird und was es kostet"
+  "titel": "Weiterbildungsmarkt für Soldaten 2026, wer anbietet, wie gelernt wird und was es kostet",
+  "osf": "https://osf.io/94ctf/"
  }
 }
