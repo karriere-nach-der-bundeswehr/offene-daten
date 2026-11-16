@@ -1,0 +1,31 @@
+# Nach der Bundeswehr im Bundesländer-Vergleich 2026, wo der Übergang leichter fällt und was die Daten nicht zeigen
+
+BFD-Regionalteams, Arbeitslosenquote von 4,0 % bis 11,0 %, Gründungen und Gründungszuschuss je Bundesland. Was belegt ist und was fehlt. Jetzt nachlesen.
+
+Report mit Einordnung: [https://karriere-nach-der-bundeswehr.de/studien-reports/nach-der-bundeswehr-in-den-bundeslaendern-2026/](https://karriere-nach-der-bundeswehr.de/studien-reports/nach-der-bundeswehr-in-den-bundeslaendern-2026/)  
+Stand: 2026-11-16 · Lizenz: CC BY 4.0
+
+## Tabellen
+
+- [Kurzfassung](01-kurzfassung.csv) (5 Zeilen)
+- [Welche Zahlen zum Dienstzeitende fehlen?](02-welche-zahlen-zum-dienstzeitende-fehlen.csv) (5 Zeilen)
+- [Wo ist der BFD vor Ort?](03-wo-ist-der-bfd-vor-ort.csv) (16 Zeilen)
+- [Wie unterscheidet sich der Arbeitsmarkt je Bundesland?](04-wie-unterscheidet-sich-der-arbeitsmarkt-je-bundesland.csv) (17 Zeilen)
+- [Wo wird je Bundesland am meisten gegründet?](05-wo-wird-je-bundesland-am-meisten-gegruendet.csv) (17 Zeilen)
+- [Gründungszuschuss im Bundesländer-Vergleich und die Grenzen der Kennzahl](06-gruendungszuschuss-im-bundeslaender-vergleich-und-die-grenze.csv) (9 Zeilen)
+
+## Quellen
+
+- [Statistik der Bundesagentur für Arbeit, Eckwerte Arbeitsmarkt nach Ländern, Oktober 2026](https://statistik-dr.arbeitsagentur.de/bifrontend/bids-api/ct/v1/tableFetch/csv/EckwerteTabelleALOBL)
+- [Statistische Ämter des Bundes und der Länder, Arbeitslose, Arbeitslosenquote und gemeldete Arbeitsstellen, Bundesländer 2025](https://www.statistikportal.de/de/arbeitslose-arbeitslosenquote-und-gemeldete-arbeitsstellen)
+- [Statistik der Bundesagentur für Arbeit, Arbeitsmarktpolitische Instrumente, Zeitreihe Länder](https://statistik.arbeitsagentur.de/Statistikdaten/Detail/Aktuell/iiia5/amp-zr-amp-zr-jz/amp-zr-jz-dlrd-0-zip.zip?__blob=publicationFile&v=1)
+- [IfM Bonn, Gewerbliche Existenzgründungen, Liquidationen und Saldo 2015 bis 2025 nach Bundesländern](https://www.ifm-bonn.org/fileadmin/data/redaktion/statistik/gruendungen-und-unternehmensschliessungen/dokumente/GewExGr_Li_BL_2015-2025.pdf)
+- [IfM Bonn, Existenzgründungsintensität im gewerblichen Bereich 2015 bis 2025 nach Bundesländern](https://www.ifm-bonn.org/fileadmin/data/redaktion/statistik/gruendungen-und-unternehmensschliessungen/dokumente/GewGr-Intensitaet_BL_2015-2025.pdf)
+- [KfW-Gründungsmonitor 2025](https://www.kfw.de/PDF/Download-Center/Konzernthemen/Research/PDF-Dokumente-Gr%C3%BCndungsmonitor/KfW-Gr%C3%BCndungsmonitor-2025.pdf)
+- [Berufsförderungsdienst der Bundeswehr, Wir über uns](https://www.bundeswehr.de/de/menschen-karrieren/der-berufsfoerderungsdienst-der-bundeswehr-bfd/wir-ueber-uns)
+- [Berufsförderungsdienst der Bundeswehr, Job-Service](https://www.bundeswehr.de/de/menschen-karrieren/der-berufsfoerderungsdienst-der-bundeswehr-bfd/job-service)
+- [Wehrbeauftragter, Jahresbericht 2025, BT-Drs. 21/4200](https://dserver.bundestag.de/btd/21/042/2104200.pdf)
+- [Soldatenversorgungsgesetz §§ 7, 16, 83, 101](https://www.gesetze-im-internet.de/svg_2025/)
+- [Berufsförderungsverordnung §§ 15, 19, 23, 26](https://www.gesetze-im-internet.de/bf_v/)
+- [SGB III §§ 93, 147](https://www.gesetze-im-internet.de/sgb_3/)
+- [Bundesagentur für Arbeit, Fachliche Weisungen SGB III, Anhang 5 Soldatenversorgungsgesetz](https://www.arbeitsagentur.de/datei/fw-sgb-iii-anhang-5_ba034360.pdf)

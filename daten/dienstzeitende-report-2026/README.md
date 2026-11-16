@@ -1,0 +1,35 @@
+# Berufsförderung der Bundeswehr in Zahlen 2026, mehr Geld für den Übergang in den Zivilberuf
+
+14.226 bewilligte BFD-Anträge 2025, 1,135 Mrd. € für Übergangsgebührnisse und Übergangsbeihilfe 2026. Alle Zahlen mit Quelle. Jetzt den Report lesen.
+
+Report mit Einordnung: [https://karriere-nach-der-bundeswehr.de/studien-reports/dienstzeitende-report-2026/](https://karriere-nach-der-bundeswehr.de/studien-reports/dienstzeitende-report-2026/)  
+Stand: 2026-11-16 · Lizenz: CC BY 4.0
+
+## Tabellen
+
+- [Kurzfassung](01-kurzfassung.csv) (5 Zeilen)
+- [Bewilligte Anträge und Ausgaben des BFD](02-bewilligte-antraege-und-ausgaben-des-bfd.csv) (6 Zeilen)
+- [Bundeshaushalt, Titel Aus- und Fortbildung](03-bundeshaushalt-titel-aus-und-fortbildung.csv) (8 Zeilen)
+- [Wie viel Geld fließt in Übergangsgebührnisse und Übergangsbeihilfe?](04-wie-viel-geld-fliesst-in-uebergangsgebuehrnisse-und-uebergan.csv) (8 Zeilen)
+
+## Quellen
+
+- [Berufsförderungsdienst der Bundeswehr, Jahresbilanz 2025](https://www.bundeswehr.de/resource/blob/6117398/a97cd1fea0e86bd08a6966f2d37dfd5f/jahresbilanz-des-berufsfoerderungsdienstes-2025-data.pdf)
+- [Berufsförderungsdienst, Jahresbilanz 2024 (nicht selbst geöffnet)](https://www.bundeswehr.de/resource/blob/5938968/3c2b0b4701c2be7f6184970d3c5a0808/jahresbilanz-des-berufsfoerderungsdienstes-2024-data.pdf)
+- [Berufsförderungsdienst, Jahresbilanz 2023](https://www.bundeswehr.de/resource/blob/5775324/cc6ceaa8423f8a1a743101b2cedaffb8/jahresbilanz-des-berufsfoerderungsdienstes-2023-data.pdf)
+- [Berufsförderungsdienst, Survey of 2022 (englisch)](https://www.bundeswehr.de/resource/blob/5634982/0533084a9d62fe5d7cd777ca88166531/jahresbilanz-des-berufsfoerderungsdienstes-2022-englisch--data.pdf)
+- [Berufsförderungsdienst, Jahresbilanz 2021 (nicht ausgewertet)](https://www.bundeswehr.de/resource/blob/5485038/46d74dc7687b23c9b28004aa40313fea/jahresbilanz-des-berufsfoerderungsdienstes-2021-data.pdf)
+- [Berufsförderungsdienst, Jahresbilanz 2020](https://www.bundeswehr.de/resource/blob/5058942/d6fdac9fb9f8a030b5dfaf0c36b9a46a/jahresbilanz-des-berufsfoerderungsdienstes-2020-data.pdf)
+- [Bundeshaushaltsplan 2022, Einzelplan 14, Kap. 1403](https://www.bundeshaushalt.de/static/daten/2022/soll/epl14.pdf)
+- [Bundeshaushaltsplan 2023, Einzelplan 14, Kap. 1403](https://www.bundeshaushalt.de/static/daten/2023/soll/epl14.pdf)
+- [Bundeshaushaltsplan 2024, Einzelplan 14, Kap. 1403](https://www.bundeshaushalt.de/static/daten/2024/soll/epl14.pdf)
+- [Bundeshaushaltsplan 2025, Einzelplan 14, Kap. 1403](https://www.bundeshaushalt.de/static/daten/2025/soll/epl14.pdf)
+- [Bundeshaushaltsplan 2026, Einzelplan 14, Kap. 1403](https://www.bundeshaushalt.de/static/daten/2026/soll/epl14.pdf)
+- [Entwurf Bundeshaushaltsplan 2027, Einzelplan 14, Kap. 1403 (BT-Drs. 21/7300)](https://www.bundeshaushalt.de/static/daten/2027/soll/draft/epl14.pdf)
+- [Wehrbeauftragter, Jahresbericht 2025, BT-Drs. 21/4200](https://dserver.bundestag.de/btd/21/042/2104200.pdf)
+- [Wehrbeauftragte, Jahresbericht 2024, BT-Drs. 20/15060](https://dserver.bundestag.de/btd/20/150/2015060.pdf)
+- [Wehrbeauftragte, Jahresbericht 2023, BT-Drs. 20/10500](https://dserver.bundestag.de/btd/20/105/2010500.pdf)
+- [Wehrbeauftragte, Jahresbericht 2022, BT-Drs. 20/5700](https://dserver.bundestag.de/btd/20/057/2005700.pdf)
+- [SVG §§ 4, 7, 9, 16, 19, 101, 104, 126](https://www.gesetze-im-internet.de/svg_2025/)
+- [BFöV §§ 15, 16, 19, 38](https://www.gesetze-im-internet.de/bf_v/)
+- [Soldatengesetz §§ 31b, 31c, 58b](https://www.gesetze-im-internet.de/sg/)

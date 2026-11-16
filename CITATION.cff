@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Offene Daten zum Übergang von der Bundeswehr ins Zivilleben"
+message: "Bitte so zitieren."
+type: dataset
+authors:
+  - name: "Karriere nach der Bundeswehr"
+license: CC-BY-4.0
+url: "https://github.com/karriere-nach-der-bundeswehr/offene-daten"
+date-released: 2026-11-16
