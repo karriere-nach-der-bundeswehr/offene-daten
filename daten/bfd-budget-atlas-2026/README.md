@@ -3,6 +3,7 @@
 BFD-Budget von 1.200 € bis 24.000 €, dazu Förderdauer, Übergangsgebührnisse und Übergangsbeihilfe für jede Dienstzeit laut Gesetz. Jetzt nachschlagen.
 
 Report mit Einordnung: [https://karriere-nach-der-bundeswehr.de/studien-reports/bfd-budget-atlas-2026/](https://karriere-nach-der-bundeswehr.de/studien-reports/bfd-budget-atlas-2026/)  
+DOI: [10.5281/zenodo.24281275](https://doi.org/10.5281/zenodo.24281275)  
 Stand: 2026-11-16 · Lizenz: CC BY 4.0
 
 ## Tabellen

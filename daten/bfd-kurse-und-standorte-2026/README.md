@@ -3,6 +3,7 @@
 1.620 ausgewertete interne BFD-Termine in 16 Bereichen, 94 % Vollzeit, 37 % online. Themen, Standorte und Regeln. Jetzt den Report lesen.
 
 Report mit Einordnung: [https://karriere-nach-der-bundeswehr.de/studien-reports/bfd-kurse-und-standorte-2026/](https://karriere-nach-der-bundeswehr.de/studien-reports/bfd-kurse-und-standorte-2026/)  
+DOI: [10.5281/zenodo.24281279](https://doi.org/10.5281/zenodo.24281279)  
 Stand: 2026-11-16 · Lizenz: CC BY 4.0
 
 ## Tabellen

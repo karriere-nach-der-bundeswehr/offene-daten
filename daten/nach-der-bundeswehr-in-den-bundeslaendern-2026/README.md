@@ -3,6 +3,7 @@
 BFD-Regionalteams, Arbeitslosenquote von 4,0 % bis 11,0 %, Gründungen und Gründungszuschuss je Bundesland. Was belegt ist und was fehlt. Jetzt nachlesen.
 
 Report mit Einordnung: [https://karriere-nach-der-bundeswehr.de/studien-reports/nach-der-bundeswehr-in-den-bundeslaendern-2026/](https://karriere-nach-der-bundeswehr.de/studien-reports/nach-der-bundeswehr-in-den-bundeslaendern-2026/)  
+DOI: [10.5281/zenodo.24281292](https://doi.org/10.5281/zenodo.24281292)  
 Stand: 2026-11-16 · Lizenz: CC BY 4.0
 
 ## Tabellen

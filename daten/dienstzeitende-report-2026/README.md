@@ -3,6 +3,7 @@
 14.226 bewilligte BFD-Anträge 2025, 1,135 Mrd. € für Übergangsgebührnisse und Übergangsbeihilfe 2026. Alle Zahlen mit Quelle. Jetzt den Report lesen.
 
 Report mit Einordnung: [https://karriere-nach-der-bundeswehr.de/studien-reports/dienstzeitende-report-2026/](https://karriere-nach-der-bundeswehr.de/studien-reports/dienstzeitende-report-2026/)  
+DOI: [10.5281/zenodo.24281284](https://doi.org/10.5281/zenodo.24281284)  
 Stand: 2026-11-16 · Lizenz: CC BY 4.0
 
 ## Tabellen

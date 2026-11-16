@@ -3,6 +3,7 @@
 690.000 Gründungen 2025, doch der Gründungszuschuss ist für Ex-Soldaten oft nicht erreichbar. Übergangsgebührnisse, BFD und AVGS im Vergleich. Jetzt lesen.
 
 Report mit Einordnung: [https://karriere-nach-der-bundeswehr.de/studien-reports/gruenden-nach-der-bundeswehr-2026/](https://karriere-nach-der-bundeswehr.de/studien-reports/gruenden-nach-der-bundeswehr-2026/)  
+DOI: [10.5281/zenodo.24281290](https://doi.org/10.5281/zenodo.24281290)  
 Stand: 2026-11-16 · Lizenz: CC BY 4.0
 
 ## Tabellen

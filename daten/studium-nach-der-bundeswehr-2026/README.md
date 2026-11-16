@@ -3,6 +3,7 @@
 Bis zu 100 % Übergangsgebührnisse bei anerkannter Vollzeitform, Budget bis 24.000 €, § 7 Abs. 10 SVG und Rückforderung im Studium. Jetzt nachlesen.
 
 Report mit Einordnung: [https://karriere-nach-der-bundeswehr.de/studien-reports/studium-nach-der-bundeswehr-2026/](https://karriere-nach-der-bundeswehr.de/studien-reports/studium-nach-der-bundeswehr-2026/)  
+DOI: [10.5281/zenodo.24281301](https://doi.org/10.5281/zenodo.24281301)  
 Stand: 2026-11-16 · Lizenz: CC BY 4.0
 
 ## Tabellen

@@ -3,6 +3,7 @@
 Aus der SaZ-Zeit kein Arbeitslosengeld, Arbeitslosenbeihilfe ab 2 Jahren Dienst, AVGS auch ohne Alg. Was gilt und was der Bund zahlt. Jetzt nachlesen.
 
 Report mit Einordnung: [https://karriere-nach-der-bundeswehr.de/studien-reports/arbeitslos-nach-der-bundeswehr-2026/](https://karriere-nach-der-bundeswehr.de/studien-reports/arbeitslos-nach-der-bundeswehr-2026/)  
+DOI: [10.5281/zenodo.24281266](https://doi.org/10.5281/zenodo.24281266)  
 Stand: 2026-11-16 · Lizenz: CC BY 4.0
 
 ## Tabellen

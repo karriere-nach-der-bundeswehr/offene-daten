@@ -3,6 +3,7 @@
 Wer Kurse für Soldaten anbietet und was sie kosten. 119 Anbieter in einem privaten Verzeichnis, 37 % der BFD-Termine online. Jetzt den Report lesen.
 
 Report mit Einordnung: [https://karriere-nach-der-bundeswehr.de/studien-reports/weiterbildungsmarkt-fuer-soldaten-2026/](https://karriere-nach-der-bundeswehr.de/studien-reports/weiterbildungsmarkt-fuer-soldaten-2026/)  
+DOI: [10.5281/zenodo.24281307](https://doi.org/10.5281/zenodo.24281307)  
 Stand: 2026-11-16 · Lizenz: CC BY 4.0
 
 ## Tabellen

@@ -3,6 +3,7 @@
 184.194 aktive Soldaten Ende 2025, 112.578 davon auf Zeit, 25.006 Eintritte und 21.924 Abgänge. Personalstärke seit 2021 mit Quelle. Jetzt nachlesen.
 
 Report mit Einordnung: [https://karriere-nach-der-bundeswehr.de/studien-reports/personalmonitor-bundeswehr-2026/](https://karriere-nach-der-bundeswehr.de/studien-reports/personalmonitor-bundeswehr-2026/)  
+DOI: [10.5281/zenodo.24281298](https://doi.org/10.5281/zenodo.24281298)  
 Stand: 2026-11-16 · Lizenz: CC BY 4.0
 
 ## Tabellen

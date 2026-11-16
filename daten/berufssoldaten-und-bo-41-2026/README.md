@@ -3,6 +3,7 @@
 68.085 Berufssoldaten im Ruhestand, Ruhestand mit 56,9 Jahren, Förderung nach § 54 SVG, 15 % Zuschlag, Kapitalabfindung bis 22.095 €. Jetzt nachlesen.
 
 Report mit Einordnung: [https://karriere-nach-der-bundeswehr.de/studien-reports/berufssoldaten-und-bo-41-2026/](https://karriere-nach-der-bundeswehr.de/studien-reports/berufssoldaten-und-bo-41-2026/)  
+DOI: [10.5281/zenodo.24281271](https://doi.org/10.5281/zenodo.24281271)  
 Stand: 2026-11-16 · Lizenz: CC BY 4.0
 
 ## Tabellen

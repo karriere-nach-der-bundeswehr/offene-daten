@@ -3,6 +3,7 @@
 Freiwilliger Wehrdienst 6 bis 11 Monate oder SaZ ab 12 Monaten, 11.905 FWDL 2025. Wehrsold, Budget und Führerschein im Vergleich. Jetzt nachlesen.
 
 Report mit Einordnung: [https://karriere-nach-der-bundeswehr.de/studien-reports/neuer-wehrdienst-2026/](https://karriere-nach-der-bundeswehr.de/studien-reports/neuer-wehrdienst-2026/)  
+DOI: [10.5281/zenodo.24281294](https://doi.org/10.5281/zenodo.24281294)  
 Stand: 2026-11-16 · Lizenz: CC BY 4.0
 
 ## Tabellen
